@@ -1,5 +1,5 @@
 Title: Buy and Hold
-Date: 2022-04-03 10:20
+Date: 2022-04-20 4:20
 Category: Essay
 
 I received a "C" in my only college finance class. I just wasn't that interested in a subject that mostly flew over my head at age 20.
