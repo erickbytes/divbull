@@ -38,5 +38,5 @@ EXTRA_PATH_METADATA = {
 #          ('Jinja2', 'https://palletsprojects.com/p/jinja/'),
 #          ('You can modify those links in your config file', '#'),)
 # Social widget
-SOCIAL = (('RSS', 'feeds/all.rss.xml'),
+SOCIAL = (('RSS', 'https://divbull.com/feeds/all.rss.xml'),
           ('Github', 'http://github.com/divbull'),)
