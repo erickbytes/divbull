@@ -5,7 +5,7 @@ SITEURL = 'https://divbull.com'
 PATH = 'content'
 TIMEZONE = 'America/Chicago'
 DEFAULT_LANG = 'en'
-GITHUB_URL = 'http://github.com/erickbytes/'
+GITHUB_URL = 'https://github.com/erickbytes/divbull'
 # Feed generation is usually not desired when developing
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
@@ -18,7 +18,7 @@ CATEGORY_FEED_RSS = 'feeds/{slug}.rss.xml'
 MENUITEMS = [
     ['RSS', "feeds/all.rss.xml"],
     ['Atom', "feeds/all.atom.xml"],
-    ['Github', "http://github.com/divbull"],
+    ['Github', "https://github.com/erickbytes/divbull"],
 ]
 DEFAULT_PAGINATION = 10
 THEME = "/home/erick/Desktop/Projects/divbull/blue-penguin"
