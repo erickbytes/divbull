@@ -17,7 +17,8 @@ FEED_ALL_RSS = 'feeds/all.rss.xml'
 CATEGORY_FEED_RSS = 'feeds/{slug}.rss.xml'
 MENUITEMS = [
     ['RSS', "feeds/all.rss.xml"],
-    ['Atom', "feeds/all.atom.xml"]
+    ['Atom', "feeds/all.atom.xml"],
+    ['Github', "http://github.com/divbull"],
 ]
 DEFAULT_PAGINATION = 10
 THEME = "/home/erick/Desktop/Projects/divbull/blue-penguin"
@@ -37,6 +38,3 @@ EXTRA_PATH_METADATA = {
 #          ('Python.org', 'https://www.python.org/'),
 #          ('Jinja2', 'https://palletsprojects.com/p/jinja/'),
 #          ('You can modify those links in your config file', '#'),)
-# Social widget
-SOCIAL = (('RSS', 'https://divbull.com/feeds/all.rss.xml'),
-          ('Github', 'http://github.com/divbull'),)
