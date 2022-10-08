@@ -21,7 +21,8 @@ MENUITEMS = [
     ['Github', "https://github.com/erickbytes/divbull"],
 ]
 DEFAULT_PAGINATION = 10
-THEME = "/home/erick/Desktop/Projects/divbull/blue-penguin"
+THEME = "/home/erickbytes/divbull/blue-penguin"
+#THEME = "/home/erick/Desktop/Projects/divbull/blue-penguin"
 STATIC_PATHS = [
     'images',
     'extra/robots.txt',
