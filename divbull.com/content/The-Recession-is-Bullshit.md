@@ -2,7 +2,7 @@ Title: The Recession is Bullshit
 Date: 2022-10-08 13:20 
 Category: Essay
 
-I can't shake the feeling that we are being toyed with by invisible forces. First, a disease is manufactured and propagated. Then, a response to the disease is conceived. It includes locking down socienty and supplementing the people with printed money.
+I can't shake the feeling that we are being toyed with by invisible forces. First, a disease is manufactured and propagated. Then, a response to the disease is conceived. It includes locking down society and subsidizing the people with printed money.
 
 This is all a tidy narrative for companies to retrofit to their own needs. A cycle of boom and bust is synthesized in the name of the greater good. Employers now have a reason to fire their employees and raise prices of their widgets. Stocks suffer because it's going to be difficult. Everyone knows a recession is coming!
 
