@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Diversified Bullish</title><link href="https://divbull.com/" rel="alternate"></link><link href="https://divbull.com/feeds/all.atom.xml" rel="self"></link><id>https://divbull.com/</id><updated>2022-12-01T08:15:00-06:00</updated><subtitle>An Investing and Stocks Blog</subtitle><entry><title>A List of Financial Cliches and Terms</title><link href="https://divbull.com/a-list-of-financial-cliches-and-terms.html" rel="alternate"></link><published>2022-12-01T08:15:00-06:00</published><updated>2022-12-01T08:15:00-06:00</updated><author><name>Erick</name></author><id>tag:divbull.com,2022-12-01:/a-list-of-financial-cliches-and-terms.html</id><summary type="html">&lt;ol&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Diversified Bullish</title><link href="https://divbull.com/" rel="alternate"></link><link href="https://divbull.com/feeds/all.atom.xml" rel="self"></link><id>https://divbull.com/</id><updated>2022-12-01T08:22:00-06:00</updated><subtitle>An Investing and Stocks Blog</subtitle><entry><title>A List of Financial Cliches and Terms</title><link href="https://divbull.com/a-list-of-financial-cliches-and-terms.html" rel="alternate"></link><published>2022-12-01T08:22:00-06:00</published><updated>2022-12-01T08:22:00-06:00</updated><author><name>Erick</name></author><id>tag:divbull.com,2022-12-01:/a-list-of-financial-cliches-and-terms.html</id><summary type="html">&lt;ol&gt;
 &lt;li&gt;"soft landing": implies graceful economic transition&lt;/li&gt;
 &lt;li&gt;"pivot": implies the Fed will switch its interest rate policy&lt;/li&gt;
 &lt;li&gt;"bottom": implies a time where the market will irreversibly swing to the upside&lt;/li&gt;
@@ -21,8 +21,9 @@
 &lt;li&gt;"FUD": fear, uncertainty and doubt raised by a stock's haters&lt;/li&gt;
 &lt;li&gt;"whales": big shareholders that move markets when they enter or exit a position&lt;/li&gt;
 &lt;li&gt;"stagflation": reference to a stagnant, inflation plagued economy&lt;/li&gt;
-&lt;li&gt;"priced in": the price is all knowing&lt;/li&gt;
-&lt;li&gt;"overvalued": insinuates the market price is wrong about a stock, opposite of overbought&lt;/li&gt;
+&lt;li&gt;"priced in": the price is all knowing, common catch-all trope&lt;/li&gt;
+&lt;li&gt;"forward looking": the market is out in future events and pricing accordingly&lt;/li&gt;
+&lt;li&gt;"overvalued": insinuates the market price is wrong about a stock, opposite of oversold&lt;/li&gt;
 &lt;li&gt;"oversold": implies the stock price has swung to the downside and is primed to bounce back&lt;/li&gt;
 &lt;li&gt;"valuation multiples": comparison of current price vs. earnings + cash flows&lt;/li&gt;
 &lt;li&gt;"trading at a premium": implies the stock commands its lofty valuation against its earnings&lt;/li&gt;
