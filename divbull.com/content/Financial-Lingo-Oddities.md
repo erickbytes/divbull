@@ -1,5 +1,5 @@
 Title: A List of Financial Cliches and Terms
-Date: 2022-12-01 8:15 
+Date: 2022-12-01 8:22
 Category: List
 
 
@@ -19,9 +19,10 @@ Category: List
 14. "FUD": fear, uncertainty and doubt raised by a stock's haters
 15. "whales": big shareholders that move markets when they enter or exit a position
 16. "stagflation": reference to a stagnant, inflation plagued economy
-17. "priced in": the price is all knowing
-18. "overvalued": insinuates the market price is wrong about a stock, opposite of overbought
-19. "oversold": implies the stock price has swung to the downside and is primed to bounce back
-20. "valuation multiples": comparison of current price vs. earnings + cash flows
-21. "trading at a premium": implies the stock commands its lofty valuation against its earnings
-22. "long term": 1-5,10 or > 30 years, depending on who you ask!
+17. "priced in": the price is all knowing, common catch-all trope
+18. "forward looking": the market is out in future events and pricing accordingly
+19. "overvalued": insinuates the market price is wrong about a stock, opposite of oversold
+20. "oversold": implies the stock price has swung to the downside and is primed to bounce back
+21. "valuation multiples": comparison of current price vs. earnings + cash flows
+22. "trading at a premium": implies the stock commands its lofty valuation against its earnings
+23. "long term": 1-5,10 or > 30 years, depending on who you ask!
