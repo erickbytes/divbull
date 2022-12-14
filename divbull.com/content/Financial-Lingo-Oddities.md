@@ -7,7 +7,7 @@ Category: List
 2. "pivot": implies the Fed will switch its interest rate policy
 3. "bottom": implies a time where the market will irreversibly swing to the upside
 4. "short squeeze": price goes up due to short sellers being forced to cover their positions
-5. "place to hide out": reference to a stock as a shelter or place unaffected by market dtawdowns
+5. "place to hide out": reference to a stock as a shelter or place unaffected by market drawdowns
 6. "growth stock": stock that reinvests dividends to grow rather than paying to investors
 7. "dividend stock": stock thay pays dividends to investors
 8. "dead money": momentum of a stock has stalled and not changing anytime soon
