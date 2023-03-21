@@ -15,4 +15,4 @@ Ethereum Staking 	$12.48/month
 
 Those are 2 ways I found to make passive income of $50/month and counting with time. Hold dividend stocks and index funds. Stake Ethereum, if you can handle elevated risk. Find a job or start a business, keep saving and reap the rewards of investing. This is how I achieved a new level of passive income.
 
-This post and all posts blog are not financial advice. All stock decisions have personal risk and you should assess them thoroughly.
+This post and all posts on this blog are not financial advice. All stock decisions have personal risk and you should assess them thoroughly.
