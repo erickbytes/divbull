@@ -1,4 +1,4 @@
-Title: Achieving $50 per Month in Passive Investing Income
+Title: Achieving $50 / Month in Passive Investing Income
 Date: 2023-03-20 20:09
 Category: Essay
 
