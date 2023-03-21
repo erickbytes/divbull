@@ -9,9 +9,9 @@ About 50% of my retirement funds are in a managed employer match 401(k) with a d
 Additionally, 3-5% of my investment portfolio is committed to cryptocurrency. After buying incrementally from December 2020 to 2022, I now have a market value above $5,000 invested and staked in Ethereum. Approximately %60 of my crypto portfolio is in 
 ETH, followed by %25 Bitcoin, which does not have a staking protocol. Over the past 7 months, my staking rewards netted me $12.48 per month by my calculations.
 
-Passive Investing Income Breakdown
-Stock Dividends 	$38/month
-Ethereum Staking 	$12.48/month
+**Passive Investing Income Breakdown**<br>
+Stock Dividends 	$38/month<br>
+Ethereum Staking 	$12.48/month<br>
 
 Those are 2 ways I found to make passive income of $50/month and counting with time. Hold dividend stocks and index funds. Stake Ethereum, if you can handle elevated risk. Find a job or start a business, keep saving and reap the rewards of investing. This is how I achieved a new level of passive income.
 
