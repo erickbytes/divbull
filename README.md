@@ -1,8 +1,6 @@
 # divbull.com
 
-divbull.com is an amateur investing and financial learning blog, generated with Pelican and served via this repo and Cloudflare pages.
-
-![Blue Penguin Them Pelican Blog](https://user-images.githubusercontent.com/19195830/178154200-480579f3-4621-4c69-a585-a3c07075faee.jpg)
+divbull.com is an investing and financial learning blog, generated with Pelican and served via this repo and Cloudflare pages.
 
 Uses Blue Penguin Pelican Theme: https://github.com/jody-frankowski/blue-penguin
 
