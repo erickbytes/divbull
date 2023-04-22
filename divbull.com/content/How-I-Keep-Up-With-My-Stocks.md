@@ -23,5 +23,5 @@ This post summarizes ways that I keep tabs on the companies I'm holding in my in
 	- Peter Lynch
 	- Warren Buffett
 8. Monitor sentiment with Twitter and Reddit. Read the Twitter cashtags for individual stocks and browse social media for overall sentiment monitoring. Beware there are emotional posters with an agenda, opinion or position that may contradict yours. I find it useful for gaining a sense of general feelings about the market or shares in a company.
-9. Use finance Python libraries, like [ffn](https://pmorissette.github.io/ffn/) to see more complex financial calculation about a stock. I wrote in depth about the endless tools you can apply for financial calculation [here on my other blog](https://pmorissette.github.io/ffn/).
+9. Use finance Python libraries, like [ffn](https://pmorissette.github.io/ffn/) to see more complex financial calculation about a stock. I wrote in depth about the endless tools you can apply for financial calculation [here on my other blog](https://pythonmarketer.com/2021/01/16/pick-stocks-like-a-pro-with-ffn/).
 10. Talk to people about their investments. What are they investing in? What's working for them? What are they excited about? They have a perspective that differs from yours that exposes you to a new concept or industry.
