@@ -14,7 +14,7 @@ This post summarizes ways that I keep tabs on the companies I'm holding in my in
 5. Observe the company "in the wild".
 	- If public, visit the company and observe what you see. Is it a well run operation? Are customers happy?
 	- Note the frequency you see people choosing the company's products day to day.
-	- Bonus points if you are the customer, you know initimately what value the company is creating.
+	- Bonus points if you are the customer, you know intimately what value the company is creating.
 6. Earnings calls: listen to the call live or most companies post the call transcript online.
 7. Read investing blogs and books from the greats. I subscribe to my followed blogs via an RSS feed. Here are a few I recommend:
 	- [The Reformed Broker](https://thereformedbroker.com/), Josh Brown
