@@ -13,7 +13,7 @@ Another thing I learned from holding LYFT stock is to consider the risk of polit
 ![lyftstockprice]({static}/images/lyftstockprice.jpg)
 <center>*source, Bing: https://www.bing.com/search?q=lyft+stock*</center>
 
-They closed around $8 per share yesterday. My investment? Within the first year, I was already down considerably and endured several painful earnings reports. They were nearly profitable, but then were hit hard by pandemic lockdown. I sold out from 2021 to 2022, selling each share at a loss. 90% of the shares were sold at a loss in June to October 2021 near the end of the most recent bull market. Only with hindsight, can I now say I feel strongly it was the right call. If I had left the money there, I'd be sitting on $375 in market value in Lyft and over $2,000 of unrealized losses.
+They closed around $8 per share yesterday. My investment? Within the first year, I was already down considerably and endured several painful earnings reports. They were nearly profitable, but then were hit hard by pandemic lockdown. I sold out from 2021 to 2022, selling each share at a loss. 90% of the shares were sold in June to October 2021 near the end of the most recent bull market. Only with hindsight, can I now say I feel strongly it was the right call. If I had left the money there, I'd be sitting on $375 in market value in Lyft and over $2,000 of unrealized losses.
 
 I sold the position incrementally, ranging from $38 - $63 per share. I sold my last 5 shares at $38 per share in Feb. 2022. Having cleared the position, I now know from experience, there are times when you should cut your losses. In total, I limited the damage to $546 lost and re-allocated the remaining $2K to other investments. 
 
