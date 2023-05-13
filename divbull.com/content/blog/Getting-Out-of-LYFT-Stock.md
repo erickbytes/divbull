@@ -8,7 +8,7 @@ LYFT filed an IPO in March 2019. I had $2,600 dollars to invest and wanted a pie
 
 I paid $65 per share for LYFT shortly after its IPO (Initial Public Offering) in 2019, under the IPO price of $72. Another lesson from this trade is that it more risky to buy an IPO close to its debut in public trading. But I couldn't resist so I put it on LYFT shares.
 
-Another thing I learned from holding LYFT stock is also a reminder to consider political impacts on your stocks. In the case of LYFT, they and UBER were typically involved in regulatory battles over the classification of their drivers in the past 15 years. Are rideshare driver independent contractors? The debate continues. And each time it blew up on the news, I looked at those shares and thought I signed up for this? Court battles. A questionable public image and an unprofitable business to boot. Having tried LYFT's rideshare services myself, I thought their culture was strong andthey'd be able to make it. We'll see if they do. 
+Another thing I learned from holding LYFT stock is also a reminder to consider political impacts on your stocks. In the case of LYFT, they and UBER were typically involved in regulatory battles over the classification of their drivers in the past 15 years. Are rideshare driver independent contractors? The debate continues. And each time it blew up on the news, I looked at those shares and thought I signed up for this? Court battles. A questionable public image and an unprofitable business to boot. Having tried LYFT's rideshare services myself, I thought their culture was strong and they'd be a leader in a promising new industry. We'll see if they ever make it.
 
 ![lyftstockprice]({static}/images/lyftstockprice.jpg)
 
