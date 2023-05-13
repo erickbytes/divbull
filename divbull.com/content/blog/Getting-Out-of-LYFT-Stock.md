@@ -14,4 +14,4 @@ They closed around $8 per share yesterday. My investment? It left a sour taste a
 
 Looking at LYFT in 2023, down 89% over the past 5 years, unprofitable with a real possibility of bankruptcy. Recently, the founders have stepped back from operating the company. They're also low-key saying they're open to a buy-out. Maybe they will turn it around, but I'm no longer on the hook for a few grand if they don't. I now try to buy companies that have already established profitability and growing. This is my LYFT story, may we all stay away from such investments and realize quickly if we've miscalculated.
 
-![lyftstockprice]({static}/images/lyftstockprice.png)
+![lyftstockprice]({static}/images/lyftstockprice.jpg)
