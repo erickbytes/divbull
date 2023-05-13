@@ -4,7 +4,7 @@ Category: Essay
 
 I'm an advocate for "buy and hold" investing, meaning if you are making an investment it should be for a long period of time before selling. However, you may need to cut a position due to a company's failure to turn a profit or dependency on bending public policies to their favor. This was the case with LYFT, based in California, the battleground of workers rights that shifted over the years as ridesharing went mainstream. 
 
-LYFT filed an IPO in March 2019. I had $2,600 dollars to invest and wanted a piece of those huge ridesharing profits that were going to happen someday. I saw a game-changing service to society helping people get where they needed to go. In retrospect, this was too speculative of an investment. LYFT was growing riders, but profitability hadn't been proven yet. Being in my 20s, I was just starting to invest and eager to start buying stocks with the extra money I had.
+I saw a game-changing service to society helping people get where they needed to go. I also moonlighted as a LYFT driver for a few months in 2017, seeing first-hand how they onboarded drivers. LYFT filed an IPO in March 2019. I had $2,600 to invest and wanted a piece of those huge ridesharing profits that were going to happen someday. In retrospect, this was too speculative of an investment. LYFT was growing riders, but profitability hadn't been proven yet. Being in my 20s, I was just starting to invest and eager to start buying stocks with the extra money I had.
 
 I paid $65 per share for LYFT shortly after its IPO (Initial Public Offering) in 2019, under the IPO price of $72. Another lesson from this trade is that it more risky to buy an IPO close to its debut in public trading. But I couldn't resist so I put it on LYFT shares.
 
