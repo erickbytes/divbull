@@ -15,11 +15,17 @@ def post_template(title):
 
 def save_draft(name, post):
     """Save new post draft to content folder."""
-    content = "/home/erick/Desktop/Projects/divbull/divbull.com/content"
+    content = "/home/erick/Desktop/Projects/divbull/divbull.com/content/blog"
     name = name.replace(" ", "-")
     md = f"{content}/{name}.md"
-    with open(md, "w") as fhand:
-        fhand.write(post)
+    try:
+        with open(md, "w") as fhand:
+            fhand.write(post)
+    except FileNotFoundError:
+        content = "/home/erickbytes/divbull/divbull.com/content/blog"
+        md = f"{content}/{name}.md"
+        with open(md, "w") as fhand:
+            fhand.write(post)
     return None
 
 
