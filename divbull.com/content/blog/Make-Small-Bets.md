@@ -2,7 +2,7 @@ Title: Make Small Bets
 Date: 2023-08-09 20:00
 Category: Essay
 
-Small bets can have outsized returns. If it goes south, you've also got less on the line. Have conviction? Make a larger bet. Not sure about an investment? That's a solid candidate for a small bet. You find out the company's outlook is now questionable or managment is not meeting the mark? You could always sell half. However, the largest gains come from letting asset value compound over time.
+Small bets can have outsized returns. If it goes south, you've also got less on the line. Have conviction? Make a larger bet. Not sure about an investment? That's a solid candidate for a small bet. You find out the company's outlook is now questionable or management is not meeting the mark? You could always sell half. However, the largest gains come from letting asset value compound over time.
 
 The size of your bankroll determines your range. Consider making some small bets in stocks, real estate or even starting a business.
 There is less stress in a small bet. For me, it's a $200-$500 up to $1,000 that I consider a "small bet" in my taxable investor brokerage account. Anything greater than that and it's no longer a "small bet" to me. 
