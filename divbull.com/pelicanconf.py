@@ -23,7 +23,7 @@ MENUITEMS = [
 DEFAULT_PAGINATION = 10
 THEME = "/home/erickbytes/divbull/blue-penguin"
 # THEME = "/home/erick/Desktop/Projects/divbull/blue-penguin"
-STATIC_PATHS = ["images", "blog"]
+STATIC_PATHS = ["images", "blog", "extra"]
 ARTICLE_PATHS = ["images", "blog"]
 EXTRA_PATH_METADATA = {
     "extra/robots.txt": {"path": "robots.txt"},

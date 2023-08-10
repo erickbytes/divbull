@@ -10,7 +10,7 @@ I paid $65 per share for LYFT shortly after its IPO (Initial Public Offering) in
 
 Another thing I learned from holding LYFT stock is to consider the risk of political impacts on your stocks. In the case of LYFT, they and UBER were typically involved in regulatory battles with the state of California over the classification of their drivers in the past 10 years. Are rideshare driver independent contractors? The debate continues. And each time it blew up on the news, I looked at those shares and thought... I signed up for this? Court battles. A questionable public image and an unprofitable business to boot. Having tried LYFT's rideshare services myself, I thought their culture was strong and they'd be a leader in a promising new industry. We'll see if they ever make it.
 
-![lyftstockprice]({static}/images/lyftstockprice.jpg)
+![lyftstockprice]({static}/images/lyftstockprice.jpeg)
 <center>*source, Bing: https://www.bing.com/search?q=lyft+stock*</center>
 
 They closed around $8 per share yesterday. My investment? Within the first year, I was already down considerably and endured several painful earnings reports. They were nearly profitable, but then were hit hard by pandemic lockdown. I sold out from 2021 to 2022, selling each share at a loss. 90% of the shares were sold in June to October 2021 near the end of the most recent bull market. Only with hindsight, can I now say I feel strongly it was the right call. If I had left the money there, I'd be sitting on $375 in market value in Lyft and over $2,000 of unrealized losses.
