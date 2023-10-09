@@ -14,4 +14,4 @@ So far, the EV theory has paid well and the electric vehicle movement shows no s
 
 I propose that many times, but not always, the best action is not to make any moves. You've got a large unrealized loss, but how do you know that market volatility won't swing the other way on your position? If you believe the company will be important in the future, hold. 
 
-Investing is tough because it's easy to be convinced by a stranger or talking head online that they know what's going to happen. More often than not, it's best to play the waiting game. Extend your holding period and the likelihood your profit increases.
+Investing is tough because it's easy to be convinced by a stranger or talking head online that they know what's going to happen. More often than not, it's best to play the waiting game. Extend your holding period and the likelihood you'll profit increases.
