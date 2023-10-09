@@ -5,4 +5,4 @@ divbull.com is an investing and financial learning blog, generated with Pelican 
 Uses Blue Penguin Pelican Theme: https://github.com/jody-frankowski/blue-penguin
 
 Read my blog post about deploying this static site here: 
-https://pythonmarketer.com/2022/07/08/launching-a-live-static-blog-via-pelican-github-and-cloudflare-pages/
+https://lofipython.com/launching-a-live-static-blog-via-pelican-github-and-cloudflare-pages/
