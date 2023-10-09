@@ -1,3 +1,5 @@
+import getpass
+
 AUTHOR = "Erick"
 SITENAME = "Diversified Bullish"
 SITESUBTITLE = "An Investing and Stocks Blog"
@@ -21,8 +23,10 @@ MENUITEMS = [
     ["Github", "https://github.com/erickbytes/divbull"],
 ]
 DEFAULT_PAGINATION = 10
-THEME = "/home/erickbytes/divbull/blue-penguin"
-# THEME = "/home/erick/Desktop/Projects/divbull/blue-penguin"
+if getpass.getuser() == "erickbytes":
+    THEME = "/home/erickbytes/investing/divbull/blue-penguin"
+else:
+    THEME = "/home/erick/Desktop/Projects/divbull/blue-penguin"
 STATIC_PATHS = ["images", "blog", "extra"]
 ARTICLE_PATHS = ["images", "blog"]
 EXTRA_PATH_METADATA = {
