@@ -4,7 +4,7 @@ Category: Essay
 
 Ask 10 people if a stock is a good investment. You'll probably get some stories of why they wouldn't invest, past trades, losses, small gains or just indifference. Someone will probably be holding the stock if it's one of the popular blue chips. What you hear might also depend where the stock stands in the macroeconomic environment and how well they've been running the business lately.
 
-For example, if you asked someone about Budweiser (BUD) earlier this year, you'd probably hear
+For example, if you asked someone about Anheuser-Busch InBev (BUD) earlier this year, you'd probably hear
 about their recent marketing fiascos which led to boycotts of their best-selling beer.
 
 If you asked a shareholder about Tesla (TSLA) last year, they'd probably have mentioned Elon Musk is selling shares to buy Twitter. If they did their research, they'd know in 2022 that Tesla was crushing its vehicle delivery targets.
@@ -24,13 +24,12 @@ To combat its growth woes, Netflix introduced a new subscription tier with ads. 
 However, the lesson learned is valuable. Companies will have bad quarters. They will miss expectations sometimes. If it's a good stock, it won't derail the overall narrative
 around the company. In the end, I profited about $400 on my Netflix trade despite selling a few shares for a loss. But I could still be sitting on a few shares if I hadn't begun to doubt the growth narrative.
 
-Budweiser is still trying to shake off its poor Marketing moves after a misguided campaign
+Anheuser-Busch is still trying to shake off its poor Marketing moves after a misguided campaign
 that invoked negative political discourse. I don't think it changes the business fundamentals although the damage to its Bud Light beer brand seems irreparable. Or maybe people will move on eventually. Regardless, it hasn't moved the stock price. Maybe people will always reach for that light beer, who cares what kind?
 
-The company is now in the midst of a slowdown since buying a new car usually requires
-a loan. Thanks to the Fed and its ongoing assault against inflation, the monthly payments for
-new cars are much more expensive than 2-3 years ago. This year, the stock is up 100% but it's not all roses. Until macro conditions improve, it's going to be tough sledding for us investors.
-The cycles of business worked in Tesla's favor up until 2022. Tesla has lowered the prices of its cars to increase its sales, a tactic that boosted demand in the past year.
+Tesla has rebounded this year also from the overhang of Musk's Twitter purchase. This year, the stock is up 100% but it's not all roses. The company is now in the midst of a slowdown since buying a new car usually requires a loan. Thanks to the Fed and its ongoing assault against inflation, the monthly payments for new cars are much more expensive than 2-3 years ago.
+Until macro conditions improve, it's going to be tough sledding for us investors.
+The cycles of business worked in Tesla's favor up until 2022. Tesla has lowered the prices of its cars to increase its sales, a tactic that boosted demand in the past year. This is another example of the levers a company can pull to meet its goals. By changing prices, or extending their product offering a company controls its destiny. Tesla also is extending its product offering with the rollout of Cybertruck. But Musk mentioned on the most recent earnings call it won't contribute to their bottom line meaningfully until 12-18 months down the road.
 
 The Fed's interest rate increase is also weighing on my investments in solar energy, an industry which finds itself in a similar situation as Tesla's automotive loans. I believe
 in the long term story for solar energy. In the short term, if someone wants to install a solar system on their roof or property, it's more expensive to take out the loan. Such is the cyclicality of business. From quarter to quarter, unexpected problems or geopolitical and macroeconomic conditions can surface that challenge a company's ability to hit its targets. As an investor, we need to clearly assess, "Given the recent turbulence, what are the implications for this stock's future success?"
