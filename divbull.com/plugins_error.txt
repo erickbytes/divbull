@@ -1,0 +1,329 @@
+[13:22:42] DEBUG    Pelican version: 4.8.0                                      __init__.py:531
+           DEBUG    Python version: 3.11.0                                      __init__.py:532
+           DEBUG    Adding current directory to system path                      __init__.py:66
+           DEBUG    Finding namespace plugins                                      _utils.py:81
+           DEBUG    Loading plugin `adsense`                                       _utils.py:90
+           ERROR    Cannot load plugin `adsense`                                      log.py:96
+                    Cannot import plugin `adsense`                                             
+           DEBUG    Found generator: ArticlesGenerator (internal)               __init__.py:209
+           DEBUG    Found generator: PagesGenerator (internal)                  __init__.py:209
+           DEBUG    Found generator: StaticGenerator (internal)                 __init__.py:209
+           DEBUG    Template list: ['!simple/archives.html',                   generators.py:70
+                    '!simple/article.html', '!simple/author.html',                             
+                    '!simple/authors.html', '!simple/base.html',                               
+                    '!simple/categories.html', '!simple/category.html',                        
+                    '!simple/gosquared.html', '!simple/index.html',                            
+                    '!simple/page.html', '!simple/pagination.html',                            
+                    '!simple/period_archives.html', '!simple/tag.html',                        
+                    '!simple/tags.html', '!simple/translations.html',                          
+                    '!theme/analytics.html', '!theme/archives.html',                           
+                    '!theme/article.html', '!theme/article_stub.html',                         
+                    '!theme/author.html', '!theme/base.html',                                  
+                    '!theme/category.html', '!theme/disqus.html',                              
+                    '!theme/index.html', '!theme/page.html',                                   
+                    '!theme/pagination.html', '!theme/tag.html',                               
+                    '!theme/tags.html', '!theme/translations.html',                            
+                    'analytics.html', 'archives.html', 'article.html',                         
+                    'article_stub.html', 'author.html', 'authors.html',                        
+                    'base.html', 'categories.html', 'category.html',                           
+                    'disqus.html', 'gosquared.html', 'index.html',                             
+                    'page.html', 'pagination.html', 'period_archives.html',                    
+                    'tag.html', 'tags.html', 'translations.html']                              
+           DEBUG    Read file blog/What-is-Intrinsic-Value.md -> Article         readers.py:547
+           DEBUG    Signal article_generator_preread.send(ArticlesGenerator)     readers.py:560
+           DEBUG    Successfully imported extension module                          core.py:222
+                    "markdown.extensions.codehilite".                                          
+           DEBUG    Successfully loaded extension                                   core.py:178
+                    "markdown.extensions.codehilite.CodeHiliteExtension".                      
+           DEBUG    Successfully imported extension module                          core.py:222
+                    "markdown.extensions.extra".                                               
+           DEBUG    Successfully loaded extension                                   core.py:178
+                    "markdown.extensions.fenced_code.FencedCodeExtension".                     
+           DEBUG    Successfully loaded extension                                   core.py:178
+                    "markdown.extensions.footnotes.FootnoteExtension".                         
+           DEBUG    Successfully loaded extension                                   core.py:178
+                    "markdown.extensions.attr_list.AttrListExtension".                         
+           DEBUG    Successfully loaded extension                                   core.py:178
+                    "markdown.extensions.def_list.DefListExtension".                           
+           DEBUG    Successfully loaded extension                                   core.py:178
+                    "markdown.extensions.tables.TableExtension".                               
+           DEBUG    Successfully loaded extension                                   core.py:178
+                    "markdown.extensions.abbr.AbbrExtension".                                  
+           DEBUG    Successfully loaded extension                                   core.py:178
+                    "markdown.extensions.md_in_html.MarkdownInHtmlExtension".                  
+           DEBUG    Successfully loaded extension                                   core.py:178
+                    "markdown.extensions.extra.ExtraExtension".                                
+           DEBUG    Successfully imported extension module                          core.py:222
+                    "markdown.extensions.meta".                                                
+           DEBUG    Successfully loaded extension                                   core.py:178
+                    "markdown.extensions.meta.MetaExtension".                                  
+           DEBUG    Signal article_generator_context.send(ArticlesGenerator,     readers.py:627
+                    <metadata>)                                                                
+           DEBUG    Read file blog/Financial-Lingo-Oddities.md -> Article        readers.py:547
+           DEBUG    Read file blog/Make-Small-Bets.md -> Article                 readers.py:547
+           DEBUG    Read file blog/Humans-in-the-Balance-Sheet.md -> Article     readers.py:547
+           DEBUG    Read file blog/How-I-Make-$50-per-Month-Investing.md ->      readers.py:547
+                    Article                                                                    
+           DEBUG    Read file blog/Regression-to-the-Sea.md -> Article           readers.py:547
+           DEBUG    Read file blog/The-Waiting-Game.md -> Article                readers.py:547
+           DEBUG    Read file blog/When-Stocks-Go-Down.md -> Article             readers.py:547
+           DEBUG    Read file blog/Risk-and-Reward.md -> Article                 readers.py:547
+           DEBUG    Read file blog/Buy-and-Hold.md -> Article                    readers.py:547
+           DEBUG    Read file blog/The-Recession-is-Bullshit.md -> Article       readers.py:547
+           DEBUG    Read file blog/Gains-Happen-in-Bursts.md -> Article          readers.py:547
+           DEBUG    Read file blog/Worst-Case-Scenario.md -> Article             readers.py:547
+           DEBUG    Read file blog/Getting-Out-of-LYFT-Stock.md -> Article       readers.py:547
+           DEBUG    Read file blog/Check-Your-Expectations.md -> Article         readers.py:547
+           DEBUG    Read file blog/Price-Movements-Are-Wildly-Unpredictable.md   readers.py:547
+                    -> Article                                                                 
+           DEBUG    Read file blog/Should-You-Hold-5-Stocks-or-30?.md -> Article readers.py:547
+           DEBUG    Read file blog/A-Time-Far-Away.md -> Article                 readers.py:547
+           DEBUG    Read file blog/Volatility,-Friend-or-Foe?.md -> Article      readers.py:547
+           DEBUG    Read file blog/How-I-Keep-Up-With-My-Stocks.md -> Article    readers.py:547
+           DEBUG    Read file                                                    readers.py:547
+                    blog/The-Tension-Between-Growth-Stocks-and-Dividend-Stocks.m               
+                    d -> Article                                                               
+           DEBUG    Read file                                                    readers.py:547
+                    blog/The-Effect-of-Business-Cyclicality-on-Stock-Prices.md                 
+                    -> Article                                                                 
+           DEBUG    Read file blog/Longview.md -> Article                        readers.py:547
+[13:22:43] DEBUG    Read file blog/Industry-Based-Investing.md -> Article        readers.py:547
+           DEBUG    Read file blog/Buy-The-Close.md -> Article                   readers.py:547
+           DEBUG    Read file images/business-life-cycle.png -> Static           readers.py:547
+           DEBUG    Signal static_generator_preread.send(StaticGenerator)        readers.py:560
+           DEBUG    Signal static_generator_context.send(StaticGenerator,        readers.py:627
+                    <metadata>)                                                                
+           DEBUG    Read file extra/robots.txt -> Static                         readers.py:547
+           DEBUG    Read file extra/ads.txt -> Static                            readers.py:547
+           DEBUG    Read file images/business-life-cycle.jpeg -> Static          readers.py:547
+           DEBUG    Read file extra/favicon.ico -> Static                        readers.py:547
+           DEBUG    Read file images/lyftstockprice.jpeg -> Static               readers.py:547
+           INFO     Writing                                                      writers.py:163
+                    /home/erickbytes/investing/divbull/divbull.com/output/feeds/               
+                    all.atom.xml                                                               
+           INFO     Writing                                                      writers.py:163
+                    /home/erickbytes/investing/divbull/divbull.com/output/feeds/               
+                    all.rss.xml                                                                
+           INFO     Writing                                                      writers.py:163
+                    /home/erickbytes/investing/divbull/divbull.com/output/feeds/               
+                    blurb.atom.xml                                                             
+           INFO     Writing                                                      writers.py:163
+                    /home/erickbytes/investing/divbull/divbull.com/output/feeds/               
+                    blurb.rss.xml                                                              
+           INFO     Writing                                                      writers.py:163
+                    /home/erickbytes/investing/divbull/divbull.com/output/feeds/               
+                    essay.atom.xml                                                             
+           INFO     Writing                                                      writers.py:163
+                    /home/erickbytes/investing/divbull/divbull.com/output/feeds/               
+                    essay.rss.xml                                                              
+           INFO     Writing                                                      writers.py:163
+                    /home/erickbytes/investing/divbull/divbull.com/output/feeds/               
+                    list.atom.xml                                                              
+           INFO     Writing                                                      writers.py:163
+                    /home/erickbytes/investing/divbull/divbull.com/output/feeds/               
+                    list.rss.xml                                                               
+           INFO     Writing                                                      writers.py:163
+                    /home/erickbytes/investing/divbull/divbull.com/output/feeds/               
+                    muse.atom.xml                                                              
+           INFO     Writing                                                      writers.py:163
+                    /home/erickbytes/investing/divbull/divbull.com/output/feeds/               
+                    muse.rss.xml                                                               
+           INFO     Writing                                                      writers.py:163
+                    /home/erickbytes/investing/divbull/divbull.com/output/feeds/               
+                    rant.atom.xml                                                              
+           INFO     Writing                                                      writers.py:163
+                    /home/erickbytes/investing/divbull/divbull.com/output/feeds/               
+                    rant.rss.xml                                                               
+           INFO     Writing                                                      writers.py:163
+                    /home/erickbytes/investing/divbull/divbull.com/output/feeds/               
+                    review.atom.xml                                                            
+           INFO     Writing                                                      writers.py:163
+                    /home/erickbytes/investing/divbull/divbull.com/output/feeds/               
+                    review.rss.xml                                                             
+           INFO     Writing                                                      writers.py:212
+                    /home/erickbytes/investing/divbull/divbull.com/output/the-ef               
+                    fect-of-business-cyclicality-on-stock-prices.html                          
+           INFO     Writing                                                      writers.py:212
+                    /home/erickbytes/investing/divbull/divbull.com/output/the-te               
+                    nsion-between-growth-and-dividend-stocks.html                              
+           INFO     Writing                                                      writers.py:212
+                    /home/erickbytes/investing/divbull/divbull.com/output/the-wa               
+                    iting-game.html                                                            
+           INFO     Writing                                                      writers.py:212
+                    /home/erickbytes/investing/divbull/divbull.com/output/make-s               
+                    mall-bets.html                                                             
+           INFO     Writing                                                      writers.py:212
+                    /home/erickbytes/investing/divbull/divbull.com/output/gettin               
+                    g-out-of-lyft-stock.html                                                   
+           INFO     Writing                                                      writers.py:212
+                    /home/erickbytes/investing/divbull/divbull.com/output/regres               
+                    sion-to-the-sea.html                                                       
+           INFO     Writing                                                      writers.py:212
+                    /home/erickbytes/investing/divbull/divbull.com/output/10-way               
+                    s-i-keep-up-with-my-stocks.html                                            
+           INFO     Writing                                                      writers.py:212
+                    /home/erickbytes/investing/divbull/divbull.com/output/achiev               
+                    ing-50-month-in-investing-income.html                                      
+           INFO     Writing                                                      writers.py:212
+                    /home/erickbytes/investing/divbull/divbull.com/output/volati               
+                    lity-friend-or-foe.html                                                    
+           INFO     Writing                                                      writers.py:212
+                    /home/erickbytes/investing/divbull/divbull.com/output/should               
+                    -you-hold-5-stocks-or-30.html                                              
+           INFO     Writing                                                      writers.py:212
+                    /home/erickbytes/investing/divbull/divbull.com/output/gains-               
+                    happen-in-bursts.html                                                      
+           INFO     Writing                                                      writers.py:212
+                    /home/erickbytes/investing/divbull/divbull.com/output/a-list               
+                    -of-financial-cliches-and-terms.html                                       
+           INFO     Writing                                                      writers.py:212
+                    /home/erickbytes/investing/divbull/divbull.com/output/humans               
+                    -in-the-balance-sheet.html                                                 
+           INFO     Writing                                                      writers.py:212
+                    /home/erickbytes/investing/divbull/divbull.com/output/the-re               
+                    cession-is-bullshit.html                                                   
+           INFO     Writing                                                      writers.py:212
+                    /home/erickbytes/investing/divbull/divbull.com/output/a-time               
+                    -far-away.html                                                             
+           INFO     Writing                                                      writers.py:212
+                    /home/erickbytes/investing/divbull/divbull.com/output/check-               
+                    your-expectations.html                                                     
+           INFO     Writing                                                      writers.py:212
+                    /home/erickbytes/investing/divbull/divbull.com/output/what-d               
+                    oes-intrinsic-value-mean.html                                              
+           INFO     Writing                                                      writers.py:212
+                    /home/erickbytes/investing/divbull/divbull.com/output/indust               
+                    ry-based-investing.html                                                    
+           INFO     Writing                                                      writers.py:212
+                    /home/erickbytes/investing/divbull/divbull.com/output/rambli               
+                    ngs-about-stock-prices-dca-and-cash-position.html                          
+           INFO     Writing                                                      writers.py:212
+                    /home/erickbytes/investing/divbull/divbull.com/output/buy-th               
+                    e-close.html                                                               
+           INFO     Writing                                                      writers.py:212
+                    /home/erickbytes/investing/divbull/divbull.com/output/when-s               
+                    tocks-go-down.html                                                         
+           INFO     Writing                                                      writers.py:212
+                    /home/erickbytes/investing/divbull/divbull.com/output/are-we               
+                    -in-the-worst-case-scenario.html                                           
+           INFO     Writing                                                      writers.py:212
+                    /home/erickbytes/investing/divbull/divbull.com/output/longvi               
+                    ew.html                                                                    
+           INFO     Writing                                                      writers.py:212
+                    /home/erickbytes/investing/divbull/divbull.com/output/buy-an               
+                    d-hold.html                                                                
+           INFO     Writing                                                      writers.py:212
+                    /home/erickbytes/investing/divbull/divbull.com/output/risk-a               
+                    nd-reward.html                                                             
+           INFO     Writing                                                      writers.py:212
+                    /home/erickbytes/investing/divbull/divbull.com/output/index.               
+                    html                                                                       
+           INFO     Writing                                                      writers.py:212
+                    /home/erickbytes/investing/divbull/divbull.com/output/index2               
+                    .html                                                                      
+           INFO     Writing                                                      writers.py:212
+                    /home/erickbytes/investing/divbull/divbull.com/output/index3               
+                    .html                                                                      
+           INFO     Writing                                                      writers.py:212
+                    /home/erickbytes/investing/divbull/divbull.com/output/tags.h               
+                    tml                                                                        
+           INFO     Writing                                                      writers.py:212
+                    /home/erickbytes/investing/divbull/divbull.com/output/catego               
+                    ries.html                                                                  
+           INFO     Writing                                                      writers.py:212
+                    /home/erickbytes/investing/divbull/divbull.com/output/author               
+                    s.html                                                                     
+           INFO     Writing                                                      writers.py:212
+                    /home/erickbytes/investing/divbull/divbull.com/output/archiv               
+                    es.html                                                                    
+           INFO     Writing                                                      writers.py:212
+                    /home/erickbytes/investing/divbull/divbull.com/output/catego               
+                    ry/blurb.html                                                              
+           INFO     Writing                                                      writers.py:212
+                    /home/erickbytes/investing/divbull/divbull.com/output/catego               
+                    ry/essay.html                                                              
+           INFO     Writing                                                      writers.py:212
+                    /home/erickbytes/investing/divbull/divbull.com/output/catego               
+                    ry/essay2.html                                                             
+           INFO     Writing                                                      writers.py:212
+                    /home/erickbytes/investing/divbull/divbull.com/output/catego               
+                    ry/list.html                                                               
+           INFO     Writing                                                      writers.py:212
+                    /home/erickbytes/investing/divbull/divbull.com/output/catego               
+                    ry/muse.html                                                               
+           INFO     Writing                                                      writers.py:212
+                    /home/erickbytes/investing/divbull/divbull.com/output/catego               
+                    ry/rant.html                                                               
+           INFO     Writing                                                      writers.py:212
+                    /home/erickbytes/investing/divbull/divbull.com/output/catego               
+                    ry/review.html                                                             
+           INFO     Writing                                                      writers.py:212
+                    /home/erickbytes/investing/divbull/divbull.com/output/author               
+                    /erick.html                                                                
+           INFO     Writing                                                      writers.py:212
+                    /home/erickbytes/investing/divbull/divbull.com/output/author               
+                    /erick2.html                                                               
+           INFO     Writing                                                      writers.py:212
+                    /home/erickbytes/investing/divbull/divbull.com/output/author               
+                    /erick3.html                                                               
+           INFO     Copying                                                        utils.py:332
+                    /home/erickbytes/investing/divbull/blue-penguin/static/css/mai             
+                    n.css to                                                                   
+                    /home/erickbytes/investing/divbull/divbull.com/output/theme/cs             
+                    s/main.css                                                                 
+           INFO     Copying                                                        utils.py:332
+                    /home/erickbytes/investing/divbull/blue-penguin/static/css/pyg             
+                    ments.css to                                                               
+                    /home/erickbytes/investing/divbull/divbull.com/output/theme/cs             
+                    s/pygments.css                                                             
+           INFO     Copying                                                        utils.py:302
+                    /home/erickbytes/investing/divbull/divbull.com/content/images/             
+                    business-life-cycle.png to                                                 
+                    /home/erickbytes/investing/divbull/divbull.com/output/images/b             
+                    usiness-life-cycle.png                                                     
+           INFO     Copying                                                   generators.py:906
+                    /home/erickbytes/investing/divbull/divbull.com/content/im                  
+                    ages/business-life-cycle.png to                                            
+                    images/business-life-cycle.png                                             
+           INFO     Copying                                                        utils.py:302
+                    /home/erickbytes/investing/divbull/divbull.com/content/extra/r             
+                    obots.txt to                                                               
+                    /home/erickbytes/investing/divbull/divbull.com/output/robots.t             
+                    xt                                                                         
+           INFO     Copying                                                   generators.py:906
+                    /home/erickbytes/investing/divbull/divbull.com/content/ex                  
+                    tra/robots.txt to robots.txt                                               
+           INFO     Copying                                                        utils.py:302
+                    /home/erickbytes/investing/divbull/divbull.com/content/extra/a             
+                    ds.txt to                                                                  
+                    /home/erickbytes/investing/divbull/divbull.com/output/ads.txt              
+           INFO     Copying                                                   generators.py:906
+                    /home/erickbytes/investing/divbull/divbull.com/content/ex                  
+                    tra/ads.txt to ads.txt                                                     
+           INFO     Copying                                                        utils.py:302
+                    /home/erickbytes/investing/divbull/divbull.com/content/images/             
+                    business-life-cycle.jpeg to                                                
+                    /home/erickbytes/investing/divbull/divbull.com/output/images/b             
+                    usiness-life-cycle.jpeg                                                    
+           INFO     Copying                                                   generators.py:906
+                    /home/erickbytes/investing/divbull/divbull.com/content/im                  
+                    ages/business-life-cycle.jpeg to                                           
+                    images/business-life-cycle.jpeg                                            
+           INFO     Copying                                                        utils.py:302
+                    /home/erickbytes/investing/divbull/divbull.com/content/extra/f             
+                    avicon.ico to                                                              
+                    /home/erickbytes/investing/divbull/divbull.com/output/favicon.             
+                    ico                                                                        
+           INFO     Copying                                                   generators.py:906
+                    /home/erickbytes/investing/divbull/divbull.com/content/ex                  
+                    tra/favicon.ico to favicon.ico                                             
+           INFO     Copying                                                        utils.py:302
+                    /home/erickbytes/investing/divbull/divbull.com/content/images/             
+                    lyftstockprice.jpeg to                                                     
+                    /home/erickbytes/investing/divbull/divbull.com/output/images/l             
+                    yftstockprice.jpeg                                                         
+           INFO     Copying                                                   generators.py:906
+                    /home/erickbytes/investing/divbull/divbull.com/content/im                  
+                    ages/lyftstockprice.jpeg to images/lyftstockprice.jpeg                     
+Done: Processed 25 articles, 0 drafts, 0 hidden articles, 0 pages, 0 hidden pages and 0 draft 
+pages in 0.70 seconds.
