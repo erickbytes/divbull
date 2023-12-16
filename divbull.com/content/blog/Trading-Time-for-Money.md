@@ -24,9 +24,9 @@ skills or a resume booster.
 
 If you're getting paid well but not challenged by the work or demotivated and burnt out from it, is that a good trade? Is the job also draining a lot of your energy? With a job, extra stresses and baggage tend to pile up over time. Is the trade worth the mental strain of holding the job? There could be a better opportunity that accelerates you in the direction you want rather than stagnating it.
 
-Your labor is an exchange of goods or service for your time.
+Your labor is an exchange of your time for money or other resources.
 You have a set of skills and competencies to deliver outcomes to a company.
-Your "career" is a group of trades you'll make with businesses or directly with
+Your "career" is the trades you'll make with businesses or directly with
 people over the course of your lifetime. Some trades will work out really well
 and last many years. Others will only be shorter stints that merely set you up for
-the next gig or keep you afloat for awhile. Make good trades and go smoothly in life.
+the next gig or keep you afloat for awhile. A good trade returns stability, opportunities, education and money at a lower cost to your hours worked and sanity. Make good trades and go smoothly in life.
