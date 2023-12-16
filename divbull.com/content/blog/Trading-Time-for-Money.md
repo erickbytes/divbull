@@ -24,6 +24,9 @@ skills or a resume booster.
 
 If you're getting paid well but not challenged by the work or demotivated and burnt out from it, is that a good trade? Is the job also draining a lot of your energy? With a job, extra stresses and baggage tend to pile up over time. Is the trade worth the mental strain of holding the job? There could be a better opportunity that accelerates you in the direction you want rather than stagnating it.
 
+![Time in the City, Generated With Bing]({static}/images/time-in-the-city.jpeg)
+<center>*Generated with Bing Image Creator*</center>
+
 Your labor is an exchange of your time for money or other resources.
 You have a set of skills and competencies to deliver outcomes to a company.
 Your "career" is the trades you'll make with businesses or directly with
