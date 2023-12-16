@@ -23,10 +23,7 @@ MENUITEMS = [
     ["Github", "https://github.com/erickbytes/divbull"],
 ]
 DEFAULT_PAGINATION = 10
-if getpass.getuser() == "erickbytes":
-    THEME = "/home/erickbytes/investing/divbull/blue-penguin"
-else:
-    THEME = "/home/erick/Desktop/Projects/divbull/blue-penguin"
+THEME = "/home/erickbytes/projects/divbull/blue-penguin"
 STATIC_PATHS = ["images", "blog", "extra"]
 ARTICLE_PATHS = ["images", "blog"]
 EXTRA_PATH_METADATA = {
