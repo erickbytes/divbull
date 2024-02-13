@@ -40,7 +40,7 @@ Disney recently announced an unexpected partnership with Epic Games. They are in
 
 # Forward Guidance Raised for Key Metrics
 
-Guidance can sway the sentiment of investors. Beating the guidance for earnings per share and revenue is generally seen as positive. The context of the guidance from the company management is important. Did they give soft guidance becuase of unseen supply chain issues or macroeconomic conditions? If so, beating the guidance means less. When the guidance is strong and the company "beats and raises" guidance, its bullish for a stock.
+Guidance can sway the sentiment of investors. Beating the guidance for earnings per share and revenue is generally seen as positive. The context of the guidance from the company management is important. Did they give soft guidance becuase of unseen supply chain issues or macroeconomic conditions? If so, beating the guidance means less. When the guidance is strong and the company "beats and raises" guidance, it's bullish for a stock.
 
 # Industry Key Performance Indicator
 
