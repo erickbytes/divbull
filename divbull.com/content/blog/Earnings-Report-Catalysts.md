@@ -1,5 +1,5 @@
 Title: Earnings Report Catalysts 
-Date: 2024-02-13 4:20 
+Date: 2024-02-13 2:25 
 Category: Essay
 
 Predicting the way a stock will move on earnings is a dark art. It can be frustrating because a company turns in a clean report, only to have the stock dump after they report. So what drives a stock to move on earnings?
