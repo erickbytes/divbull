@@ -23,7 +23,7 @@ MENUITEMS = [
     ["Github", "https://github.com/erickbytes/divbull"],
 ]
 DEFAULT_PAGINATION = 10
-THEME = "/home/erickbytes/projects/divbull/blue-penguin"
+THEME = "/home/erickbytes/divbull/blue-penguin"
 STATIC_PATHS = ["images", "blog", "extra"]
 ARTICLE_PATHS = ["images", "blog"]
 EXTRA_PATH_METADATA = {
