@@ -24,7 +24,7 @@ Investors love to talk about a company's free cash flow. This is how much cash a
 
 # Growing Sales Rapidly
 
-Most company's profits can be traced back to its ability to sell its products. Sales is another metric that investors keep an eye on to see the health of the business. When sales are exploding, so does the stock price. (Assuming they have)
+Most company's profits can be traced back to its ability to sell its products. Sales is another metric that investors keep an eye on to see the health of the business. When sales are exploding, so does the stock price. However, sales are only a piece of the house. Growing sales is less impressive if the COGS (Cost of Goods Sold) is offsetting those gains.
 
 # Profit Margin 
 
