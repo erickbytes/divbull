@@ -16,7 +16,7 @@ Earnings per share is one of the most common metrics that gets scrutinized, hand
 
 # Reinvesting to Grow Future Profits
 
-It's bullish when a company announces investments in itself to set up for future growth. For example, while Toyota is dominating the hybrid vehicle market, they're making plans for the future by building factories to address the electric vehicle market. By diversifying into different segments, they're setting up for more growth in the future. A loosely related metric is CAGR, or compound annual growth rate is a metric that loosely tracks a company's ability to compound growth. A company that reinvests in itself will likely have a stronger CAGR, which investors love.
+It's bullish when a company announces investments in itself to set up for future growth. For example, while Toyota is dominating the hybrid vehicle market, they're making plans for the future by building factories to address the electric vehicle market. By diversifying into different segments, they're setting up for more growth in the future. A loosely related metric is CAGR, or compound annual growth rate tracks a company's ability to compound growth. A company that reinvests in itself will likely have a stronger CAGR, which investors love.
 
 # Impressive Free Cash Flow
 
