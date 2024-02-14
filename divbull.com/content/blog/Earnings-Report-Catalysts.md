@@ -40,7 +40,7 @@ Tesla is an example of a company that has emphasis on its margin on each car it 
 
 # Profitable Business
 
-In a bull market, investors have a higher risk appetite for companies that are unprofitable. Spotify is an example of a company teetering on the edge of profitability. In Q3 2023, they reported a profitable quarter for the first time in a year. It's looking promising for them to reach profitability but there is more risk waiting for that to happen than to own a business that's already profitable. However, if you get in before a business turns profitable and they succeed, you'll reap more gains.
+In a bull market, investors have a higher risk appetite for companies that are unprofitable. Spotify is an example of a company teetering on the edge of profitability. In Q3 2023, they reported a profitable quarter for the first time in a year. After earnings, the stock ran up +10%. It's looking promising for them to reach profitability but there is more risk waiting for that to happen than to own a business that's already profitable. However, if you get in before a business turns profitable and they succeed, you'll reap more gains.
 
 # Partnerships
 
