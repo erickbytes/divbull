@@ -60,6 +60,6 @@ Sometimes, all the good news is priced in. Stocks with momentum tend to run up h
 
 # Conclusion
 
-With some luck and skill, the "houses" you own will have strong foundations that will sustain growing income for many years. These are some things to watch for when a company you own reports earnings. It can be seemingly impossible to understand why a stock moons or tanks after earnings, good luck!
+With some luck and skill, the "houses" you own will have strong foundations that will sustain growing income for many years. These are some things to watch for when a company you own reports earnings. It is seemingly impossible to understand why a stock moons or tanks after earnings, good luck!
 
 Disclosure: Not financial advice. The author holds stock in the companies mentioned.
