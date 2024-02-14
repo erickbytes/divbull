@@ -24,7 +24,7 @@ Investors love to talk about a company's free cash flow. This is how much cash a
 
 # Declaring a Dividend
 
-When a company, declares a dividend unexpectedly or has an ongoing reputation as a "dividend aristocrat" they tend to hold more favor with investors. However, be aware of the trade-off the business is making between dividends and reinvesting the money in the business itself. Ultimately, the purpose of any business is to return value to shareholders and this is one way to explicitly achieve it.
+When a company declares a dividend unexpectedly or has an ongoing reputation as a "dividend aristocrat" they tend to hold more favor with investors. However, be aware of the trade-off the business is making between dividends and reinvesting the money in the business itself. Ultimately, the purpose of any business is to return value to shareholders and this is one way to explicitly achieve it.
 
 # Stock Buybacks
 
