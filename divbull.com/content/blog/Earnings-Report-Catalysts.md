@@ -54,6 +54,10 @@ Guidance can sway the sentiment of investors. Beating the guidance for earnings 
 
 In Q3 2023, Google turned in a seemingly solid report. However, the stock went -10% after earnings. Why? From reading sentiment online, the stock went down because the company missed their guidance on cloud growth. The cloud growth metric has an outsized impact on Google's earnings. In that quarter, they were penalized for missing. For social media or gaming platforms, monthly active users (MAUs) have outsized importance.
 
+# Catalysts Already Priced Into the Stock
+
+Sometimes, all the good news is priced in. Stocks with momentum tend to run up heading into an earnings report in anticipation. If the report underwhelms and doesn't show any new catalysts, the stock price may deflate after earnings.
+
 # Conclusion
 
 These are some things to watch for when a company you own reports earnings. It can be seemingly impossible to understand why a stock moons or tanks after earnings, good luck!
