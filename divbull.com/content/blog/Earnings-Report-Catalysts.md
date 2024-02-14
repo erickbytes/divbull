@@ -44,7 +44,7 @@ In a bull market, investors have a higher risk appetite for companies that are u
 
 # Partnerships
 
-Disney recently announced an unexpected partnership with Epic Games. They are investing $1.5 billion for a stake in Epic. It could be a source of growth down the road that is not yet baked into the stock price. Epic has Fortnite, the most popular video game in recent years and strong community behind it that could spur growth for Disney. Likewise, Microsoft gained extra wind in its sails due to its partnership investing $10 billion in OpenAI. On top of the that, they can integrate OpenAI's ChatGPT into their product suite and Bing search engine. This shows how strategic partnerships can give a company a shot in the arm.
+Disney recently announced an unexpected partnership with Epic Games. They are investing $1.5 billion for a stake in Epic. It could be a source of growth down the road that is not yet baked into the stock price. Epic has Fortnite, the most popular video game in recent years and a strong community behind it that could spur growth for Disney. Likewise, Microsoft gained extra wind in its sails due to its partnership investing $10 billion in OpenAI. On top of the that, they can integrate OpenAI's ChatGPT into their product suite and Bing search engine. This shows how strategic partnerships can give a company a shot in the arm.
 
 # Forward Guidance Raised for Key Metrics
 
