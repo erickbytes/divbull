@@ -22,9 +22,17 @@ It's bullish when a company announces investments in itself to set up for future
 
 Investors love to talk about a company's free cash flow. This is how much cash a business has after accounting for operating expenses, capital expenditures, and taxes. This is the cash leftover that a business can use for dividends, paying debt or reinvesting in the business.
 
+# Declaring a Dividend
+
+When a company, declares a dividend unexpectedly or has an ongoing reputation as a "dividend aristocrat" they tend to hold more favor with investors. However, be aware of the trade-off the business is making between dividends and reinvesting the money in the business itself. Ultimately, the purpose of any business is to return value to shareholders and this is one way to explicitly achieve it.
+
+# Stock Buybacks
+
+Similarly, stock buybacks are another way to return value to shareholders. A large stock buyback can appease investors because it is capital the company allocates directly to raising the stock price. This is money the company could be using elsewhere but it is common practice to buy back your own stock occasionally to return value to shareholders.
+
 # Growing Sales Rapidly
 
-Most company's profits can be traced back to its ability to sell its products. Sales is another metric that investors keep an eye on to see the health of the business. When sales are exploding, so does the stock price. However, sales are only a piece of the house. Growing sales is less impressive if the COGS (Cost of Goods Sold) is offsetting those gains.
+The profits of most companies can be traced back to its ability to sell its products. Sales is another metric that investors keep an eye on to see the health of the business. When sales are exploding, so does the stock price. However, sales are only a piece of the house. Growing sales is less impressive if the COGS (Cost of Goods Sold) is offsetting those gains.
 
 # Profit Margin 
 
