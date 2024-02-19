@@ -5,7 +5,7 @@ Category: Essay
 
 I recently discovered two great functions for tracking stocks and crypto. The [GOOGLEFINANCE() function](https://support.google.com/docs/answer/3093281?hl=en) can be used to import stocks and crypto prices. Additionally, the [IMPORTDATA() function](https://support.google.com/docs/answer/3093335?hl=en) is able to import cryptocurrency prices from cryptoprices.cc.
 
-Here is the syntax that the Google Finance expects:
+Here is the syntax that the Google Finance function expects:
 
     =GOOGLEFINANCE("{Exchange_Ticker}:{Stock_Ticker}")
 
