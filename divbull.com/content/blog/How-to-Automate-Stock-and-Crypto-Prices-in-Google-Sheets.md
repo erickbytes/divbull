@@ -1,5 +1,5 @@
 Title: How to Automate Stock and Crypto Prices in Google Sheets 
-Date: 2024-02-19 4:20 
+Date: 2024-02-19 13:42 
 Category: Essay
 
 
