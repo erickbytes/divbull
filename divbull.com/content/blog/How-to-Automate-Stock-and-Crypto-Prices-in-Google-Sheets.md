@@ -41,6 +41,9 @@ Google Finance also has the ability to fetch crypto prices for assets like Bitco
 ```
 =IMPORTDATA("https://cryptoprices.cc/ETH")
 ```
+If you're interested in other crypto prices, check out the [cryptoprices.cc sitemap](https://cryptoprices.cc/sitemap.txt) for all cryptocurrencies available.
+
+**Calculating Market Value, Profit and Return on Equity**
 
 Once you have the prices of your assets auto-updating in Google Sheets, you can calculate the market value of your holdings by multiplying the price by the number of units, shares or coins you hold of an asset.
 

@@ -32,6 +32,8 @@
 &lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;=IMPORTDATA(&amp;quot;https://cryptoprices.cc/ETH&amp;quot;)
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 
+&lt;p&gt;If you're interested in other crypto prices, check out the &lt;a href="https://cryptoprices.cc/sitemap.txt"&gt;cryptoprices.cc sitemap&lt;/a&gt; for all cryptocurrencies available.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Calculating Market Value, Profit and Return on Equity&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Once you have the prices of your assets auto-updating in Google Sheets, you can calculate the market value of your holdings by multiplying the price by the number of units, shares or coins you hold of an asset.&lt;/p&gt;
 &lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;(Price x Quantity = Market Value)
 =GOOGLEFINANCE(&amp;quot;NASDAQ:MSFT&amp;quot;) * {# Shares} = Market Value
