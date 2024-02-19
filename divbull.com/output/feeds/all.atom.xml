@@ -1,5 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Diversified Bullish</title><link href="https://divbull.com/" rel="alternate"></link><link href="https://divbull.com/feeds/all.atom.xml" rel="self"></link><id>https://divbull.com/</id><updated>2024-02-13T02:25:00-06:00</updated><subtitle>An Investing and Stocks Blog</subtitle><entry><title>Earnings Report Catalysts</title><link href="https://divbull.com/earnings-report-catalysts.html" rel="alternate"></link><published>2024-02-13T02:25:00-06:00</published><updated>2024-02-13T02:25:00-06:00</updated><author><name>Erick</name></author><id>tag:divbull.com,2024-02-13:/earnings-report-catalysts.html</id><summary type="html">&lt;p&gt;Predicting the way a stock will move on earnings is a dark art. It can be frustrating because a company turns in a clean report, only to have the stock dump after they report. So what drives a stock to move on earnings?&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Diversified Bullish</title><link href="https://divbull.com/" rel="alternate"></link><link href="https://divbull.com/feeds/all.atom.xml" rel="self"></link><id>https://divbull.com/</id><updated>2024-02-19T04:20:00-06:00</updated><subtitle>An Investing and Stocks Blog</subtitle><entry><title>How to Automate Stock and Crypto Prices in Google Sheets</title><link href="https://divbull.com/how-to-automate-stock-and-crypto-prices-in-google-sheets.html" rel="alternate"></link><published>2024-02-19T04:20:00-06:00</published><updated>2024-02-19T04:20:00-06:00</updated><author><name>Erick</name></author><id>tag:divbull.com,2024-02-19:/how-to-automate-stock-and-crypto-prices-in-google-sheets.html</id><summary type="html">&lt;p&gt;I recently discovered two great functions for tracking stocks and crypto. The &lt;a href="https://support.google.com/docs/answer/3093281?hl=en"&gt;GOOGLEFINANCE() function&lt;/a&gt; can be used to import stocks and crypto prices. Additionally, the &lt;a href="https://support.google.com/docs/answer/3093335?hl=en"&gt;IMPORTDATA() function&lt;/a&gt; is able to import cryptocurrency prices from cryptoprices.cc.&lt;/p&gt;
+&lt;p&gt;Here is the syntax that the Google Finance expects:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;=GOOGLEFINANCE(&amp;quot;{Exchange_Ticker}:{Stock_Ticker}&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Note that …&lt;/p&gt;</summary><content type="html">&lt;p&gt;I recently discovered two great functions for tracking stocks and crypto. The &lt;a href="https://support.google.com/docs/answer/3093281?hl=en"&gt;GOOGLEFINANCE() function&lt;/a&gt; can be used to import stocks and crypto prices. Additionally, the &lt;a href="https://support.google.com/docs/answer/3093335?hl=en"&gt;IMPORTDATA() function&lt;/a&gt; is able to import cryptocurrency prices from cryptoprices.cc.&lt;/p&gt;
+&lt;p&gt;Here is the syntax that the Google Finance expects:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;=GOOGLEFINANCE(&amp;quot;{Exchange_Ticker}:{Stock_Ticker}&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Note that you can pass other attributes and dates to specify a time frame if required. Refer to the Google documentation links above for more advanced usage.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Import Microsoft's Nasdaq Exchange Stock Price to Google Sheets&lt;/strong&gt;&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;=GOOGLEFINANCE(&amp;quot;NASDAQ:MSFT&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Import Snowflake's NYSE Exchange Stock Price to Google Sheets&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;You'll want to make sure the ticker is the correct exchange the stock trades on:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;=GOOGLEFINANCE(&amp;quot;NYSE:SNOW&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Import Charles Schwab's S&amp;amp;P 500 Mutual Fund Price to Google Sheets&lt;/strong&gt;&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;=GOOGLEFINANCE(&amp;quot;MUTF:SWPPX&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Google Finance also has the ability to fetch crypto prices for assets like Bitcoin and Ethereum. However, these prices seemed to update less reliably than stocks. I then found the IMPORTDATA() function, which updates crypto prices more reliably in my experience. The website cryptoprices.cc has made the prices available via their website and this function.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Import Bitcoin's Crypto Price to Google Sheets&lt;/strong&gt;&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;=IMPORTDATA(&amp;quot;https://cryptoprices.cc/BTC&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Import Ethereum's Crypto Price to Google Sheets&lt;/strong&gt;&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;=IMPORTDATA(&amp;quot;https://cryptoprices.cc/ETH&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Once you have the prices of your assets auto-updating in Google Sheets, you can calculate the market value of your holdings by multiplying the price by the number of units, shares or coins you hold of an asset.&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;(Price x Quantity = Market Value)
+=GOOGLEFINANCE(&amp;quot;NASDAQ:MSFT&amp;quot;) * {# Shares} = Market Value
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Once you have your Market Value of your holding, you can subtract the cost basis to see your total profit or gain/loss:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;Market Value - Cost Basis = Profit
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Once you calculate the profit, you can calculate the return on equity %:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;Profit / Cost Basis = ROE %
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;I am now tracking all my stocks, crypto and index funds in a single Google sheet with these functions. The prices tend to update at minimum every hour, but usually quicker. I'm impressed that Google has this functionality built-in, it's very useful!&lt;/p&gt;</content><category term="Essay"></category></entry><entry><title>Earnings Report Catalysts</title><link href="https://divbull.com/earnings-report-catalysts.html" rel="alternate"></link><published>2024-02-13T02:25:00-06:00</published><updated>2024-02-13T02:25:00-06:00</updated><author><name>Erick</name></author><id>tag:divbull.com,2024-02-13:/earnings-report-catalysts.html</id><summary type="html">&lt;p&gt;Predicting the way a stock will move on earnings is a dark art. It can be frustrating because a company turns in a clean report, only to have the stock dump after they report. So what drives a stock to move on earnings?&lt;/p&gt;
 &lt;p&gt;To borrow a line from the movie …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Predicting the way a stock will move on earnings is a dark art. It can be frustrating because a company turns in a clean report, only to have the stock dump after they report. So what drives a stock to move on earnings?&lt;/p&gt;
 &lt;p&gt;To borrow a line from the movie "My Cousin Vinny", an earnings report is like a house of cards, built by management to communicate how they are a healthy, functioning business. There are several metrics on which the company must perform well, or the house (stock price) might collapse.&lt;/p&gt;
 &lt;h1&gt;Aggressive Revenue Growth&lt;/h1&gt;

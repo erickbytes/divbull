@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>Diversified Bullish | How to Automate Stock and Crypto Prices in Google Sheets</title>
+    <link rel="shortcut icon" type="image/png" href="https://divbull.com/favicon.png">
+    <link rel="shortcut icon" type="image/x-icon" href="https://divbull.com/favicon.ico">
+    <link href="https://divbull.com/feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="Diversified Bullish Full Atom Feed" />
+    <link href="https://divbull.com/feeds/all.rss.xml" type="application/rss+xml" rel="alternate" title="Diversified Bullish Full RSS Feed" />
+    <link href="https://divbull.com/feeds/essay.atom.xml" type="application/atom+xml" rel="alternate" title="Diversified Bullish Categories Atom Feed" />
+    <link href="https://divbull.com/feeds/essay.rss.xml" type="application/rss+xml" rel="alternate" title="Diversified Bullish Categories RSS Feed" />
+    <link rel="stylesheet" href="https://divbull.com/theme/css/main.css" type="text/css" />
+    <link rel="stylesheet" href="https://divbull.com/theme/css/pygments.css" type="text/css" />
+    <meta name="generator" content="Pelican" />
+    <meta name="description" content="" />
+    <meta name="author" content="Erick" />
+
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="https://divbull.com/">Home</a></li>
+                <li><a href="feeds/all.rss.xml">RSS</a></li>
+                <li><a href="feeds/all.atom.xml">Atom</a></li>
+                <li><a href="https://github.com/erickbytes/divbull">Github</a></li>
+            </ul>
+        </nav>
+        <div class="header_box">
+            <h1><a href="https://divbull.com/">Diversified Bullish</a></h1>
+            <h2>An Investing and Stocks Blog</h2>
+        </div>
+    </header>
+    <div id="wrapper">
+        <div id="content">            <h4 class="date">Feb 19, 2024</h4>
+
+            <article class="post">
+                <h2 class="title">
+                    <a href="https://divbull.com/how-to-automate-stock-and-crypto-prices-in-google-sheets.html" rel="bookmark" title="Permanent Link to &quot;How to Automate Stock and Crypto Prices in Google Sheets&quot;">How to Automate Stock and Crypto Prices in Google Sheets</a>
+                </h2>
+
+                
+                
+
+                <p>I recently discovered two great functions for tracking stocks and crypto. The <a href="https://support.google.com/docs/answer/3093281?hl=en">GOOGLEFINANCE() function</a> can be used to import stocks and crypto prices. Additionally, the <a href="https://support.google.com/docs/answer/3093335?hl=en">IMPORTDATA() function</a> is able to import cryptocurrency prices from cryptoprices.cc.</p>
+<p>Here is the syntax that the Google Finance expects:</p>
+<div class="highlight"><pre><span></span><code>=GOOGLEFINANCE(&quot;{Exchange_Ticker}:{Stock_Ticker}&quot;)
+</code></pre></div>
+
+<p>Note that you can pass other attributes and dates to specify a time frame if required. Refer to the Google documentation links above for more advanced usage.</p>
+<p><strong>Import Microsoft's Nasdaq Exchange Stock Price to Google Sheets</strong></p>
+<div class="highlight"><pre><span></span><code>=GOOGLEFINANCE(&quot;NASDAQ:MSFT&quot;)
+</code></pre></div>
+
+<p><strong>Import Snowflake's NYSE Exchange Stock Price to Google Sheets</strong></p>
+<p>You'll want to make sure the ticker is the correct exchange the stock trades on:</p>
+<div class="highlight"><pre><span></span><code>=GOOGLEFINANCE(&quot;NYSE:SNOW&quot;)
+</code></pre></div>
+
+<p><strong>Import Charles Schwab's S&amp;P 500 Mutual Fund Price to Google Sheets</strong></p>
+<div class="highlight"><pre><span></span><code>=GOOGLEFINANCE(&quot;MUTF:SWPPX&quot;)
+</code></pre></div>
+
+<p>Google Finance also has the ability to fetch crypto prices for assets like Bitcoin and Ethereum. However, these prices seemed to update less reliably than stocks. I then found the IMPORTDATA() function, which updates crypto prices more reliably in my experience. The website cryptoprices.cc has made the prices available via their website and this function.</p>
+<p><strong>Import Bitcoin's Crypto Price to Google Sheets</strong></p>
+<div class="highlight"><pre><span></span><code>=IMPORTDATA(&quot;https://cryptoprices.cc/BTC&quot;)
+</code></pre></div>
+
+<p><strong>Import Ethereum's Crypto Price to Google Sheets</strong></p>
+<div class="highlight"><pre><span></span><code>=IMPORTDATA(&quot;https://cryptoprices.cc/ETH&quot;)
+</code></pre></div>
+
+<p>Once you have the prices of your assets auto-updating in Google Sheets, you can calculate the market value of your holdings by multiplying the price by the number of units, shares or coins you hold of an asset.</p>
+<div class="highlight"><pre><span></span><code>(Price x Quantity = Market Value)
+=GOOGLEFINANCE(&quot;NASDAQ:MSFT&quot;) * {# Shares} = Market Value
+</code></pre></div>
+
+<p>Once you have your Market Value of your holding, you can subtract the cost basis to see your total profit or gain/loss:</p>
+<div class="highlight"><pre><span></span><code>Market Value - Cost Basis = Profit
+</code></pre></div>
+
+<p>Once you calculate the profit, you can calculate the return on equity %:</p>
+<div class="highlight"><pre><span></span><code>Profit / Cost Basis = ROE %
+</code></pre></div>
+
+<p>I am now tracking all my stocks, crypto and index funds in a single Google sheet with these functions. The prices tend to update at minimum every hour, but usually quicker. I'm impressed that Google has this functionality built-in, it's very useful!</p>
+                <div class="clear"></div>
+
+                <div class="info">
+                    <a href="https://divbull.com/how-to-automate-stock-and-crypto-prices-in-google-sheets.html">posted at 04:20</a>
+                    &nbsp;&middot;&nbsp;<a href="https://divbull.com/category/essay.html" rel="tag">Essay</a>
+                </div>
+            </article>
+            <div class="clear"></div>
+            <footer>
+                <p>
+                <a href="https://github.com/jody-frankowski/blue-penguin">Blue Penguin</a> Theme
+                &middot;
+                Powered by <a href="http://getpelican.com">Pelican</a>
+                &middot;
+                <a href="https://divbull.com/feeds/all.atom.xml" rel="alternate">Atom Feed</a>
+                &middot;
+                <a href="https://divbull.com/feeds/all.rss.xml" rel="alternate">Rss Feed</a>
+            </footer>
+        </div>
+        <div class="clear"></div>
+    </div>
+</body>
+</html>

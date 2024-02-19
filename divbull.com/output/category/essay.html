@@ -34,7 +34,65 @@
         </div>
     </header>
     <div id="wrapper">
-        <div id="content">            <h4 class="date">Feb 13, 2024</h4>
+        <div id="content">            <h4 class="date">Feb 19, 2024</h4>
+
+            <article class="post">
+                <h2 class="title">
+                    <a href="https://divbull.com/how-to-automate-stock-and-crypto-prices-in-google-sheets.html" rel="bookmark" title="Permanent Link to &quot;How to Automate Stock and Crypto Prices in Google Sheets&quot;">How to Automate Stock and Crypto Prices in Google Sheets</a>
+                </h2>
+
+                
+                
+
+                <p>I recently discovered two great functions for tracking stocks and crypto. The <a href="https://support.google.com/docs/answer/3093281?hl=en">GOOGLEFINANCE() function</a> can be used to import stocks and crypto prices. Additionally, the <a href="https://support.google.com/docs/answer/3093335?hl=en">IMPORTDATA() function</a> is able to import cryptocurrency prices from cryptoprices.cc.</p>
+<p>Here is the syntax that the Google Finance expects:</p>
+<div class="highlight"><pre><span></span><code>=GOOGLEFINANCE(&quot;{Exchange_Ticker}:{Stock_Ticker}&quot;)
+</code></pre></div>
+
+<p>Note that you can pass other attributes and dates to specify a time frame if required. Refer to the Google documentation links above for more advanced usage.</p>
+<p><strong>Import Microsoft's Nasdaq Exchange Stock Price to Google Sheets</strong></p>
+<div class="highlight"><pre><span></span><code>=GOOGLEFINANCE(&quot;NASDAQ:MSFT&quot;)
+</code></pre></div>
+
+<p><strong>Import Snowflake's NYSE Exchange Stock Price to Google Sheets</strong></p>
+<p>You'll want to make sure the ticker is the correct exchange the stock trades on:</p>
+<div class="highlight"><pre><span></span><code>=GOOGLEFINANCE(&quot;NYSE:SNOW&quot;)
+</code></pre></div>
+
+<p><strong>Import Charles Schwab's S&amp;P 500 Mutual Fund Price to Google Sheets</strong></p>
+<div class="highlight"><pre><span></span><code>=GOOGLEFINANCE(&quot;MUTF:SWPPX&quot;)
+</code></pre></div>
+
+<p>Google Finance also has the ability to fetch crypto prices for assets like Bitcoin and Ethereum. However, these prices seemed to update less reliably than stocks. I then found the IMPORTDATA() function, which updates crypto prices more reliably in my experience. The website cryptoprices.cc has made the prices available via their website and this function.</p>
+<p><strong>Import Bitcoin's Crypto Price to Google Sheets</strong></p>
+<div class="highlight"><pre><span></span><code>=IMPORTDATA(&quot;https://cryptoprices.cc/BTC&quot;)
+</code></pre></div>
+
+<p><strong>Import Ethereum's Crypto Price to Google Sheets</strong></p>
+<div class="highlight"><pre><span></span><code>=IMPORTDATA(&quot;https://cryptoprices.cc/ETH&quot;)
+</code></pre></div>
+
+<p>Once you have the prices of your assets auto-updating in Google Sheets, you can calculate the market value of your holdings by multiplying the price by the number of units, shares or coins you hold of an asset.</p>
+<div class="highlight"><pre><span></span><code>(Price x Quantity = Market Value)
+=GOOGLEFINANCE(&quot;NASDAQ:MSFT&quot;) * {# Shares} = Market Value
+</code></pre></div>
+
+<p>Once you have your Market Value of your holding, you can subtract the cost basis to see your total profit or gain/loss:</p>
+<div class="highlight"><pre><span></span><code>Market Value - Cost Basis = Profit
+</code></pre></div>
+
+<p>Once you calculate the profit, you can calculate the return on equity %:</p>
+<div class="highlight"><pre><span></span><code>Profit / Cost Basis = ROE %
+</code></pre></div>
+
+<p>I am now tracking all my stocks, crypto and index funds in a single Google sheet with these functions. The prices tend to update at minimum every hour, but usually quicker. I'm impressed that Google has this functionality built-in, it's very useful!</p>
+                <div class="clear"></div>
+
+                <div class="info">
+                    <a href="https://divbull.com/how-to-automate-stock-and-crypto-prices-in-google-sheets.html">posted at 04:20</a>
+                    &nbsp;&middot;&nbsp;<a href="https://divbull.com/category/essay.html" rel="tag">Essay</a>
+                </div>
+            </article>            <h4 class="date">Feb 13, 2024</h4>
 
             <article class="post">
                 <h2 class="title">
@@ -329,30 +387,6 @@ There is less stress in a small bet. For me, it's $50-$500 up to $1,000 that I c
 
                 <div class="info">
                     <a href="https://divbull.com/10-ways-i-keep-up-with-my-stocks.html">posted at 14:09</a>
-                    &nbsp;&middot;&nbsp;<a href="https://divbull.com/category/essay.html" rel="tag">Essay</a>
-                </div>
-            </article>            <h4 class="date">Mar 20, 2023</h4>
-
-            <article class="post">
-                <h2 class="title">
-                    <a href="https://divbull.com/achieving-50-month-in-investing-income.html" rel="bookmark" title="Permanent Link to &quot;Achieving $50 / Month in Investing Income&quot;">Achieving $50 / Month in Investing Income</a>
-                </h2>
-
-                
-                
-
-                <p>In March 2023, I achieved a new milestone of passive investing. Since beginning in 2018 with approximately $15,000 in savings, I've accrued a six figure portfolio of funds and stocks with a "DCA and buy and hold" long term mentality. I did this by holding a full time job and earning multiple pay increases along the way.</p>
-<p>About 50% of my retirement funds are in a managed employer match 401(k) with a different bank. My primary bank is Charles Schwab. Most of my self-directed IRA is collecting dividends with Schwab index funds (SCHB, SWPPX and SWTSX) and MSFT. My self directed IRA has a smaller weight of non-dividend growth stocks also. In my taxable portfolio, the core dividend earners are stocks like MSFT, NKE, AAPL, F and NVDA.</p>
-<p>Additionally, 3-5% of my investment portfolio is committed to cryptocurrency assets. After buying incrementally from December 2020 to 2022, I now have market value exceeding $5,500 staked in Ethereum. Approximately 60% of my crypto portfolio is in ETH, followed by 25% Bitcoin, which does not have a staking protocol. Over the past 7 months, my staking rewards netted me $12.48 per month by my calculations.</p>
-<p><strong>Passive Investing Income Breakdown</strong><br>
-Stock Dividends:    $38/month<br>
-Ethereum Staking:   $12.48/month<br></p>
-<p>Combined, they add up to a investment income of $50/month and counting with time. Hold dividend stocks and index funds. Stake Ethereum, if you can handle elevated risk that surrounds crypto. Then again, with the recent banking shakeout, maybe a more decentralized store of value is intriguing. Find a job or start a business, keep saving and reap the rewards of investing. This is how I achieved a new level of passive income. In both, their dividends are automatically re-invested.</p>
-<p>This post and all posts on this blog are not financial advice. All investment decisions have personal risk and you should assess them thoroughly before taking any financial actions.</p>
-                <div class="clear"></div>
-
-                <div class="info">
-                    <a href="https://divbull.com/achieving-50-month-in-investing-income.html">posted at 20:09</a>
                     &nbsp;&middot;&nbsp;<a href="https://divbull.com/category/essay.html" rel="tag">Essay</a>
                 </div>
             </article>
