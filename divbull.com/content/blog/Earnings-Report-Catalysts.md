@@ -54,6 +54,10 @@ Guidance can sway the sentiment of investors. Beating the guidance for earnings 
 
 In Q3 2023, Google turned in a seemingly solid report. However, the stock went -10% after earnings. Why? From reading sentiment online, the stock went down because the company missed their guidance on cloud growth. The cloud growth metric has an outsized impact on Google's earnings. In that quarter, they were penalized for missing. For social media or gaming platforms, monthly active users (MAUs) have outsized importance.
 
+# Management Shake-up
+
+Sometimes a catalyst can be positive or negative, depending on the perceived state of the company its management. Positions like the CEO, Chief Executive Officer, have outsized importance in the management of the company. If investors think the CEO is valuable to the company, the news that they are stepping down can drive the stock down. Conversely, if a CEO is perceived as weak, bringing in a new CEO can be a positive catalyst.
+
 # Catalysts Already Priced Into the Stock
 
 Sometimes, all the good news is priced in. Stocks with momentum tend to run up heading into an earnings report in anticipation. If the report underwhelms and doesn't show any new catalysts, the stock price may deflate after earnings.
