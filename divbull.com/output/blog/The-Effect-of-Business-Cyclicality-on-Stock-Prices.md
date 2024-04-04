@@ -1,0 +1,51 @@
+Title: The Effect of Business Cyclicality on Stock Prices
+Date: 2023-10-30 4:20
+Category: Essay
+
+Ask 10 people if a stock is a good investment. You'll probably get some stories of why they wouldn't invest, past trades, losses, small gains or just indifference. Someone will probably be holding the stock if it's one of the popular blue chips. What you hear might also depend where the stock stands in the macroeconomic environment and how well they've been running the business lately.
+
+For example, if you asked someone about Anheuser-Busch InBev (BUD) earlier this year, you'd probably hear
+about their recent marketing fiascos which led to boycotts of their best-selling beer.
+
+If you asked a shareholder about Tesla (TSLA) last year, they'd probably have mentioned Elon Musk is selling shares to buy Twitter. If they did their research, they'd know in 2022 that Tesla was crushing its vehicle delivery targets.
+
+Last year, the story around Netflix (NFLX) shifted. They reported a decrease in subscribers
+in their quarterly results for the first time in years.
+
+Facebook dba Meta (META) was bloated with costs a year ago and the stock price showed the pain. The company overextended itself and had too many employees and diverging ambitions spreading it too thin. In times of perceived economic weakness, companies' ad budgets are often slashed.
+
+Fast forward a year later and most of these stocks are doing fine. In late 2022,
+the prices of each of these companies contracted, due to market conditions but also based on their perceived strength in their ability to meet investors' expectations. Of course, the bear narratives were blasted across the internet. So what changed since then for these companies?
+
+Meta (META), lead by Mark Zuckerburg, successfully embraced cost cutting measures like
+laying off employees and limiting investment in the Metaverse. In 2023 quarterly earnings reports, the bottom line showed better and leaner earnings. It bottomed below $100 in 2022. Wall Street bought the stock hand over fist after seeing the company's stronger earnings and renewed focus. Still kicking myself for not recognizing this opportunity.
+
+To combat its growth woes, Netflix introduced a new subscription tier with ads. In the following quarters, the stock price rebounded from under $200 and now sits above $400 after its most recent earnings report. I regrettably sold a few shares at a loss near the bottom.
+However, the lesson learned is valuable. Companies will have bad quarters. They will miss expectations sometimes. If it's a good stock, it won't derail the overall narrative
+around the company. In the end, I profited about $400 on my Netflix trade despite selling a few shares for a loss. But I could still be sitting on a few shares if I hadn't begun to doubt the growth narrative.
+
+Anheuser-Busch is still trying to shake off its poor Marketing moves after a misguided campaign
+that invoked negative political discourse. I don't think it changes the business fundamentals although the damage to its Bud Light beer brand seems irreparable. Or maybe people will move on eventually. Regardless, it hasn't moved the stock price. Maybe people will always reach for that light beer, who cares what kind?
+
+Tesla has rebounded this year also from the overhang of Musk's Twitter purchase. This year, the stock is up 100% but it's not all roses. The company is now in the midst of a slowdown since buying a new car usually requires a loan. Thanks to the Fed and its ongoing assault against inflation, the monthly payments for new cars are much more expensive than 2-3 years ago.
+Until macro conditions improve, it's going to be tough sledding for us investors.
+The cycles of business worked in Tesla's favor up until 2022. Tesla has lowered the prices of its cars to increase its sales, a tactic that boosted demand in the past year. This is another example of the levers a company can pull to meet its goals. By changing prices, or extending their product offering a company controls its destiny. Tesla also is extending its product offering with the roll-out of Cybertruck. Deliveries are promised to begin next month, but Musk mentioned on the most recent earnings call it won't contribute to their bottom line meaningfully until 12-18 months down the road.
+
+The Fed's interest rate increase is also weighing on my investments in solar energy, an industry which finds itself in a similar situation as Tesla's automotive loans. I believe
+in the long term story for solar energy. In the short term, if someone wants to install a solar system on their roof or property, it's more expensive to take out the loan. Such is the cyclicality of business. From quarter to quarter, unexpected problems or geopolitical and macroeconomic conditions can surface that challenge a company's ability to hit its targets. As an investor, we need to clearly assess, "Given the recent turbulence, what are the implications for this stock's future success?"
+
+One bad quarter won't sink a company. A few bad quarters won't either. A few bad years won't either, just look at Microsoft (MSFT) from 1999 to 2016. Its price bounced around $50 in this span. During this time it gained a reputation for being dead money to investors because it had done poorly for so long. However, Microsoft rapidly improved its ability to generate cash and innovated on its products. Today, it is one of the world's greatest tech companies. You would have a multi-bagger on your hands if you jumped into Microsoft 10 years ago when it was
+left for dead by Wall Street. Wall Street's loss has now become my gain. Although I didn't get in until 2020, I am now happily long a bag of Microsoft shares with a broad knowledge of their business and hands on experience with many of their products. But even the strongest of companies will succumb to the inevitable up and down cycles of business.
+
+These past few years have been loaded with investing lessons. Don't get spooked out of an investment when a company reports a rough quarter or two. In the case of Netflix,
+of course they changed their product offering to boost their subscribers after I sold.
+The stock's price fundamentals were based on growth and they took measures to restore their subscriber growth to beat Wall Street's expectations. I never imagined they would roll out an ads-based subscription tier. This is an example where the short term speculation for a stock was based on outdated information. Netflix extended its product offering to boost
+its subscribers.
+
+Additionally, the cost of borrowing money affects many goods and services. If a loan is required for someone to buy a company's product, it will thrive in times when money is cheap and stagnate when money becomes expensive. When the fed jacked up interest rates to 5-7%, they shifted the flow of money in the economy. They do this in the name of battling inflation. I wish I had learned this earlier. I had only seen the economy churning in a low interest rate environment for all of my adult life. I've been learning the hard way what an impact these rates can have on investing outcomes and business sales.
+
+In conclusion, cyclicality is not the enemy. It will influence the price of all stocks. Sometimes it will work in your favor. However, sometimes demand can be pulled forward due to external conditions and create "boom or bust" quarters. The pandemic is a perfect example. In 2020 and 2021, we enjoyed the boom times. The quarters since then have been tough on investors, but in general earnings reports seem to be improving. Some companies were doing record business during the pandemic, short-term phenomena. When it happens to be a good quarter, don't always assume the good times will continue rolling. When it goes the other direction, don't panic. It's easier said than done. Above all, trust your conviction. Read the signs for the company's long term health. If you don't have conviction to hold, that's your decision and one we all can understand. None of us know what will happen anyways.
+
+Stocks trade on momentum and the market reacts to their earnings from quarter to quarter. A company that misses earnings estimates or key metrics will cause concern among investors. Sometimes there is simply nothing that can be done to avoid the cycles of business. My suggestion is to develop a thicker skin to hold on and clear thinking to assess if things are really going bad, or if it's just the cyclicality of the business and economy.
+
+Disclaimer: This blog is not financial advice. Some companies mentioned are held by the author.
