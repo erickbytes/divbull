@@ -8,6 +8,8 @@ Additionally, at what point do you harvest gains on an investment? The hang-up i
 
 Sometimes we need money to live or pay for things. A lot of times, stocks are a source of money that provides a means to an end. I can't fault anyone who sells for this reason, I've done it many times.
 
+Diversification is another valid reason to take profits. When a stock increases in value more rapidly than the rest of your portfolio, it begins to have an outsized impact on its trajectory. However, be cautious of selling too early in the name of reducing risk.
+
 Conviction to hold a stock comes from the prospects of the business it represents to make money. The stability of a business can fluctuate wildly in a chaotic world. If for some reason you lost your conviction to hold a company, I understand that as well. Investing is not "forever", it's only as long as you believe the company has positive cash flow and will continue to reap profits.
 
 Many times a stock can shoot up in a short period of time, and then it's flat or negative for years at a time. It's impossible to know when a stock is about to run. In those years of consolidation, it's easy to look at the hot stock of the moment that's blowing up. It's easy to start thinking, "Why am I holding stock A when stock B is about to take off?" So you rotate into stock B just in time for its period of consolidation.
