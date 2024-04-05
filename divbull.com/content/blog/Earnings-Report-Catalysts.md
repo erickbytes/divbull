@@ -56,7 +56,7 @@ In Q3 2023, Google turned in a seemingly solid report. However, the stock went -
 
 # Management Shake-up
 
-Sometimes a catalyst can be positive or negative, depending on the perceived state of the company its management. Positions like the CEO, Chief Executive Officer, have outsized importance in the management of the company. If investors think the CEO is valuable to the company, the news that they are stepping down can drive the stock down. Conversely, if a CEO is perceived as weak, bringing in a new CEO can be a positive catalyst.
+Sometimes a catalyst can be positive or negative, depending on the perceived state of the current management. Positions like the CEO, Chief Executive Officer, have outsized importance in the management of the company. If investors think the CEO is valuable to the company, the news that they are stepping down can drive the stock down. Conversely, if a CEO is perceived as weak, bringing in a new CEO can be a positive catalyst.
 
 # Catalysts Already Priced Into the Stock
 
