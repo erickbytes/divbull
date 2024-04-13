@@ -2,7 +2,7 @@ Title: Why is it Hard to Let Your Winners Run?
 Date: 2024-04-03 19:20 
 Category: Essay
 
-Something I've been meditating on lately is the concept of "letting my winners run". This is a common trope in investing. In a nutshell, the idea is hang on to your best stocks and sell the bad ones if you need to sell something. Of course, it's not so cut and dry. How do you know which ones are the good stocks?
+Something I've been meditating on lately is the concept of "letting my winners run". This is a common trope in investing. In a nutshell, the idea is hang on to your best stocks and sell the bad ones if you need to sell something. Of course, it's not so cut and dried. How do you know which ones are the good stocks?
 
 Additionally, at what point do you harvest gains on an investment? The hang-up is that you could sell a stock too early. This is a solid reason for long term investing, holding a stock for many years, regardless of what the price of the asset is. In theory, this should be easy. Just hold onto your shares. In practice, it's much more difficult to let your winners keep winning. Why?
 
