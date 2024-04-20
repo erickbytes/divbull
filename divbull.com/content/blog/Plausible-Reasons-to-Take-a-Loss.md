@@ -15,7 +15,7 @@ When you buy a stock and it goes underwater, those buys will weigh down your por
 
 **"Cutting the Fat"**
 
-This is a common phrase that means what it sounds like. The "fat" is your bad positions. By removing it, you leave the leaner, quality "meat", aka the stocks that actually perform well. In a sense, this is a good habit to apply to your portfolio in order to rebalance and mitigate risk.
+This is a common phrase you hear when people talk about investing and managing their portfolio. The "fat" is your bad positions. By removing it, you leave the leaner, quality "meat", aka the stocks that actually perform well. In a sense, this is a good habit to apply to your portfolio in order to rebalance and mitigate risk.
 
 **Selling Businesses That Fail to Execute**
 
