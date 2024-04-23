@@ -2,7 +2,7 @@ import getpass
 
 AUTHOR = "Erick"
 SITENAME = "Diversified Bullish"
-SITESUBTITLE = "Musings About Investing + Stocks (Not Financial Advice)"
+SITESUBTITLE = "Musings About Investing (Not Financial Advice)"
 SITEURL = "https://divbull.com"
 PATH = "content"
 TIMEZONE = "America/Chicago"
