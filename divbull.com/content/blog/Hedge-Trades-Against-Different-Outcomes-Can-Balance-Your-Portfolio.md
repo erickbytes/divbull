@@ -5,7 +5,7 @@ Category: Essay
 Don't put all your eggs in one basket. We can avoid this scenario by taking positions that act as a hedge against one another. 
 Here are two examples of hedge pair trades that I've taken in my portfolio:
 
-1) Nvidia vs. Emerging Semiconductors
+**1) Nvidia vs. Emerging Semiconductors**
 
 Right now the most common argument against buying Nvidia stock is that they may not be able to maintain their 95% market share only forever. 
 
@@ -28,7 +28,7 @@ Here are the top 10 holdings of the [SOXX Semiconductor ETF](https://www.ishares
 
 Other notable holdings include Intel, Marvell, Lam Research and a basket of 30+ semiconductor related companies. If you're bullish on semiconductors, why not play the field? You're still buying Nvidia, but spreading your bet amongst a bunch of promising companies. If you believe a rising tide lifts all boats and there will be many winners in our AI future... why not own some Nvidia and something like the SOXX ETF?
 
-2) Tesla + EVs + China Automakers (Future Automobiles) Vs. Toyota + Ford (Legacy Automobiles)
+**2) Tesla + EVs + China Automakers (Future Automobiles) Vs. Toyota + Ford (Legacy Automobiles)**
 
 Tesla boomed in the early 2020s by riding the EV wave and a low interest rate environment to payday. However, now the reality of 2024 is setting in for the electric vehicle market. Our EV future is somewhat postponed at the moment, or maybe it will take longer than we thought. 
 
@@ -41,7 +41,7 @@ Hybrid vehicles have emerged as the most sought after type of vehicle after Tesl
 
 Holding both Tesla and legacy auto is a way to play both sides of the transition to electric vehicles. If consumer tastes move towards hybrids in the short term, Tesla will have a tougher environment to sell cars and Toyota will reap rewards from selling more hybrids. If electric vehicles gain traction quicker than expected, fade legacy auto if they fail to adapt to what kind of car people want to buy in the future. In the long run, according to Llama 3 AI, we have an estimated 50-60 years of gasonline fossil fuels left on the planet. Someday, we'll need EVs and it won't be a choice. Who knows when that will actually happen. Play both sides of the trade by holding Tesla or Chinese electric vehicle makers against legacy automakers.
 
-3) Bitcoin vs. Ethereum + Alt-Coins
+**3) Bitcoin vs. Ethereum + Alt-Coins**
 
 Bitcoin was the first mover in the crypto world. Ethereum has solidified as #2 in the crypto space. Most likely both will be important in cryptocurrency's future, but you could see better returns in some alt-coins in the short term. Crypto has a feel like there will be "many winners" in the long run, but who knows how many and for which use cases. Or maybe it will be like big tech, with only an oligarchy of coins reaching elite status. It's too early to tell how this space will shake out in the long run, so I'm holding some smaller cap coins along with a heavy weighting of the blue-chip coins.
 
