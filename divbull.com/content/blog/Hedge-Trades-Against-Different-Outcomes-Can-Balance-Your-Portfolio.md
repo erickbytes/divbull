@@ -1,4 +1,4 @@
-Title: Two Examples of Hedge Trades That Can Balance Your Portfolio 
+Title: Three Examples of Hedge Trades That Can Balance Your Portfolio 
 Date: 2024-05-25 4:20 
 Category: Essay
 
