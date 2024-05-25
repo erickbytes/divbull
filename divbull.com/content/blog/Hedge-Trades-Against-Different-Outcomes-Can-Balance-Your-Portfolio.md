@@ -43,7 +43,7 @@ Holding both Tesla and legacy auto is a way to play both sides of the transition
 
 3) Bitcoin vs. Ethereum + Alt-Coins
 
-Bitcoin was the first mover in the crypto world. Ethereum has solidified as #2 in the crypto space. Most likely both will be important in cryptocurrency's future, but you could see better returns in some alt-coins in the short term. Crypto has a feel like there will be "many winners" in the long run, but who knows how many and for which use cases. Or maybe it will be like big tech, with only an oligarchy of coins reaching elite status. It's too early to tell how this space will shake out in the long run, so I'm holding some smaller cap and coins with a heavy weighting of the blue-chip coins.
+Bitcoin was the first mover in the crypto world. Ethereum has solidified as #2 in the crypto space. Most likely both will be important in cryptocurrency's future, but you could see better returns in some alt-coins in the short term. Crypto has a feel like there will be "many winners" in the long run, but who knows how many and for which use cases. Or maybe it will be like big tech, with only an oligarchy of coins reaching elite status. It's too early to tell how this space will shake out in the long run, so I'm holding some smaller cap coins along with a heavy weighting of the blue-chip coins.
 
 **Wrapping Up**
 
