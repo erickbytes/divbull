@@ -9,9 +9,9 @@ Here are two examples of hedge pair trades that I've taken in my portfolio:
 
 Right now the most common argument against buying Nvidia stock is that they won't be able to maintain their 95% market share only for so long. 
 
-I'm holding an Nvidia long position, but realized when I buy other semiconductors, I'm hedging against their dominany position eroding over time.
+I'm holding an Nvidia long position, but realized when I buy other semiconductors, I'm hedging against their dominant position eroding over time.
 
-Here are the top 10 holdings of SOXX:
+Here are the top 10 holdings of the SOXX Semiconductor ETF:
 
     NVDA NVIDIA Corporation (9.74%)
     AVGO Broadcom Inc. (7.95%)
@@ -33,8 +33,12 @@ Tesla boomed in the early 2020s by riding the EV wave and a low interest rate en
 
 Hybrid vehicles have emerged as the most sought after type of vehicle after Tesla rode the EV boom into 2021. Toyota is notably the biggest winner in the resurgence of hybrids and the purest play to fade our electric vehicle future. Toyota has been vocal in their opposition against the feasibility of electric vehicles. Ford is also losing money on its electric vehicle program but has remained committed to a profitable electric vehicle in the future, so they are less of a direct play against Tesla. 
 
-Holding both Tesla and legacy auto is a way to play both sides of the transition to electric vehicles. If consumer tastes move towards hybrids in the short term, Tesla will have a tougher environemnt to sell cars and Toyota will reap rewards from selling more hybrids. If electric vehicles gain more traction, the most likely outcome in the long run, fade legacy auto. Play both sides of the trade by holding both.
+Holding both Tesla and legacy auto is a way to play both sides of the transition to electric vehicles. If consumer tastes move towards hybrids in the short term, Tesla will have a tougher environemnt to sell cars and Toyota will reap rewards from selling more hybrids. If electric vehicles gain traction quicker than expected, fade legacy auto that doesn't adapt to what kind of car people want to buy. Play both sides of the trade by holding both.
 
-Conclusion
+3) Bitcoin vs. Ethereum + Alt-Coins
+
+Bitcoin was the first mover in the crypto world. Ethereum has solidified as #2 in the crypto space. Most likely both will be important in cryptocurrency's future, but you could see better returns in some alt-coins in the short term. Crypto has a feel like there will be "many winners" in the long run, but who knows how many and for which use cases. Or maybe it will be like big tech, with only an oligarchy of coins reaching elite status. Too early to tell, so I'm gonna a basket of coins with a heavy weighting of the blue-chip coins.
+
+**Wrapping Up**
 
 It's important to identify when an industry has "many winners" versus possibly only a few elite companies that emerge in the long run. It's possible to have the right industry, but not the right execution by the company you own. We can mitigate risk by making trades that hedge each other. This might limit gains on a higher conviction play, but it also caps your losses if the play doesn't pan out.
