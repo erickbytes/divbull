@@ -3,7 +3,7 @@ Date: 2024-05-25 4:20
 Category: Essay
 
 Don't put all your eggs in one basket. We can avoid this scenario by taking positions that act as a hedge against one another. 
-Here are two examples of hedge pair trades that I've taken in my portfolio:
+Here are some examples of hedge pair trades that I've taken in my portfolio:
 
 **1) Nvidia vs. Emerging Semiconductors**
 
