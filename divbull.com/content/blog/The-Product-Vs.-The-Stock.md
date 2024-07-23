@@ -12,7 +12,7 @@ The best companies warrant buying at high multiples, but it's an elite group. As
 
 Since 2012, I used Spotify happily. In 2020, applying this product --> stock logic, I bought my first SPOT shares at $158. I voluntarily pay each month to have a full library of songs on my phone. Why not own this company? I got in and watched it soar in 2020 and 2021. 
 
-In 2021 the stock price ballooned and I bought 2 more shares at $320. Then 2022 arrived and SPOT fell under $100. Seeing a DCA oppurtunity in fall 2022, I scooped more shares around $75-$100, doubling down on my position.
+In 2021 the stock price ballooned and I bought 2 more shares at $320. Then 2022 arrived and SPOT fell under $100. Seeing a DCA opportunity in fall 2022, I scooped more shares around $75-$100, doubling down on my position.
 
 Since then, Spotify has shown they are the real deal. Revenue was up 20% in Q1 2024. 32 million pairs of Crocs were sold, up 3% YoY. Monthly active users continue to grow. A savvy shift into podcasts has made the product even more compelling. Shares are back over $300. The company reached profitability in Q3 2023 for the 1st time in a year. Spotify is flexing its pricing power by raising subscription prices. 
 
