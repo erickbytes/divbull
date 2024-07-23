@@ -14,7 +14,7 @@ Since 2012, I used Spotify happily. In 2020, applying this product --> stock log
 
 In 2021 the stock price ballooned and I bought 2 more shares at $320. Then 2022 arrived and SPOT fell under $100. Seeing a DCA opportunity in fall 2022, I scooped more shares around $75-$100, doubling down on my position.
 
-Since then, Spotify has shown they are the real deal. Revenue was up 20% in Q1 2024. 32 million pairs of Crocs were sold, up 3% YoY. Monthly active users continue to grow. A savvy shift into podcasts has made the product even more compelling. Shares are back over $300. The company reached profitability in Q3 2023 for the 1st time in a year. Spotify is flexing its pricing power by raising subscription prices. 
+Since then, Spotify has shown they are the real deal. Monthly active users continue to grow. Revenue was up 20% in Q1 2024. A savvy shift into podcasts has made the product even more compelling. Shares are back over $300. The company reached profitability in Q3 2023 for the 1st time in a year. Spotify is flexing its pricing power by raising subscription prices. 
 
 ![SPOT Chart After Earnings Report]({static}/images/SPOT-post-2024-Q2-earnings.png)
 <center>SPOT Surges After Reporting Earnings, [Google](https://www.google.com/search?q=SPOT-stock&ie=UTF-8)</center>
@@ -32,7 +32,7 @@ Although I've never tried Crocs myself, I see them everywhere I go. They are a p
 <center>Crocs Shoes, [Google](https://www.google.com/search?q=SPOT-stock&ie=UTF-8)</center>
 
 
-After seeing the stock dip under $90 in fall 2023, I decided to roll the dice on it. I bought more from $100-$140. It's up 40% year to date. Now, it's my 7th largest stock position. Some might prefer to invest elsewhere than shoes. Q1 2024 net income was $792.6 million compared to $540.2 million in 2022. I believe this is an extraordinary shoe company with compounding and growth potential. 
+After seeing the stock dip under $90 in fall 2023, I decided to roll the dice on it. I bought more from $100-$140. It's up 40% year to date. Now, it's my 7th largest stock position. Some might prefer to invest elsewhere than shoes. Q1 2024 net income was $792.6 million compared to $540.2 million in 2022. 32 million pairs of Crocs were sold in Q1 2024, up 3% YoY. I believe this is an extraordinary shoe product with compounding and growth potential.
 
 One pleasant surprise has been their management. They are locked in and performing well after following the company the past year. They sold 119.6 million pairs of shoes worldwide for the Crocs Brand. This is a great product that seems to have half the Earth hooked, and the other half disgusted. Crocs acquiring HEYDUDE left an overhang that should lift with the strength of another established brand finding its footing.
 
