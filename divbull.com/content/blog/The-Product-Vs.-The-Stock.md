@@ -29,7 +29,7 @@ CROX shoes stand out. They're comfortable, versatile and as funky as you want th
 Although I've never tried Crocs myself, I see them everywhere I go. They are a phenomenon that many people don't want to acknowledge. Most of my life, they were an afterthought. I often remarked in the past how polarizing they were amongst the people I knew. Either you wore Crocs or you saw them as hideous, with very few in between. It turns out there are enough of the former to keep Crocs growing profitably for the past 10 years.
 
 ![Crocs Website]({static}/images/Crocs-shoes.png)
-<center>Crocs Shoes, [Google](https://www.google.com/search?q=SPOT-stock&ie=UTF-8)</center>
+<center>Crocs Shoes, [Crocs Website](https://careers.crocs.com/&ie=UTF-8)</center>
 
 
 After seeing the stock dip under $90 in fall 2023, I decided to roll the dice on it. I bought more from $100-$140. It's up 40% year to date. Now, it's my 7th largest stock position. Some might prefer to invest elsewhere than shoes. Q1 2024 net income was $792.6 million compared to $540.2 million in 2022. 32 million pairs of Crocs were sold in Q1 2024, up 3% YoY. I believe this is an extraordinary shoe product with compounding and growth potential.
