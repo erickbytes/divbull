@@ -2,7 +2,7 @@ Title: Q2 2024 Earnings Report Reflections
 Date: 2024-08-15 15:02
 Category: Essay
 
-In July and August, I listened to 25 earnings calls and read 2 transcripts of earnings reports for the quarter. 
+In July and August, I listened to 25 earnings calls and read 2 call transcripts for the quarter. 
 This is the best I've ever done in terms of covering the earnings reports for companies I own. At the moment 
 I'm holding 38 stocks with 5 more companies yet to report for this quarter. Below, I have written some themes and 
 patterns observed here to reflect on what I heard in the past month.
