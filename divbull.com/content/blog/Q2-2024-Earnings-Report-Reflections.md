@@ -40,7 +40,7 @@ On the Pinterest (PINS) call, they noted "broader headwinds" for their food & be
 
 **China Growth is at a Premium**
 
-After a period of relative prosperity for american companies operating in China, it seems the growth has stalled 
+After a period of relative prosperity for American companies operating in China, it seems the growth has stalled 
 or at least slowed down. This quarter, Apple's China sales were down 6% (3% currency related). They did celebrate 
 a record high Chinese install base for the quarter. Crocs (CROX) is showing impressive growth with 70% sales growth
 in China. Tesla (TSLA) China growth has declined with the overall auto industry lull in recent years. It has good 
