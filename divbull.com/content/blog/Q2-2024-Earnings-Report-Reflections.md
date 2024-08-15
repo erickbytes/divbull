@@ -12,7 +12,7 @@ patterns observed here to reflect on what I heard in the past month.
 I heard many variations of "rate cuts coming later this year" meaning good times are coming for a lot of companies.
 Nerdwallet (NRDS) said their loans business will pick up once rate cuts happen. Solar companies like 
 Enphase Energy (ENPH) said "lower rates will be a tailwind" on their earnings call.
-The consensus says the first rate cut will be in September..
+The consensus says the first rate cut will be in September.
 
 **Currency Volatility Uncertainty**
 
