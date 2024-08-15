@@ -66,6 +66,6 @@ As Elon once tweeted, it's hard to turn profits in the auto business. This is an
 
 **Marijuana Stocks Will Benefit from Relaxed Government Regulation in the Future**
 
-This is nothing new as murmurs of descueduling marijuana have floated around for years. But this time it might be different. On their earnings call, Cresco Labs (CRLBF) said polls show support for schedule III drug reclassification. They are watching as adult use legislation hits the ballot in Florida in November, a crucial state with lots of potential. No one knows when the federal reclassification will hit the US. Cresco said on its recent earnings call, "Reform is imminent and we are ready." 
+This is nothing new as murmurs of descheduling marijuana have floated around for years and state legislation change is ongoing. But this time it might be different. On their earnings call, Cresco Labs (CRLBF) said polls show support for schedule III drug reclassification. They are watching as adult use legislation hits the ballot in Florida in November, a crucial state with lots of potential. No one knows when the federal reclassification will hit the US. Cresco said on its recent earnings call, "Reform is imminent and we are ready." 
 
 Disclosure: the author holds the stocks mentioned at the time of writing.
