@@ -31,7 +31,7 @@ unaffected or even thriving regardless.
 Disney (DIS) and Paramount (PARA) both reached streaming profitability on their respective platforms, 
 Disney+ and Paramount+ in this quarter. Disney's three headed monster of Hulu, Disney+ and ESPN is now making money. 
 It seems legacy media is figuring out how to run a streaming platform that makes money. Spotify (SPOT) also recorded 
-its 3rd consucutive quarter of profitablility in the audio streaming world. Fubo (FUBO) is the other streamer 
+its 3rd consecutive quarter of profitablility in the audio streaming world. Fubo (FUBO) is the other streamer 
 I follow which is not currently profitable but is giving promising guidance for the future by raising revenue and subscriber guidance.
 
 **Food & Beverage Fading**
