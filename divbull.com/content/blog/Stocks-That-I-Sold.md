@@ -24,7 +24,7 @@ I've needed to raise money from my stock portfolio this year. More often, I chos
 **DigitalOcean (DOCN)**
 
 - sold for: -$324.36 loss (-31.56%)
-- reason: not profitable, competitor with AWS, bought Amazon AMZN instead
+- reason: not profitable, competitor with AWS, rotated to Amazon (AMZN)
 
 **Canopy Growth Corporation (CGC)**
 
@@ -49,7 +49,7 @@ I've needed to raise money from my stock portfolio this year. More often, I chos
 **Roku (ROKU)**
 
 - sold for: -$631.42 loss (-36.62%)
-- reason: dependent on TV manaufacturers, TV Operating System needs distribution. Lack of a moat?
+- reason: dependent on TV manaufacturers, TV Operating System needs distribution, lack of a moat, not profitable
 
 **Yeti (YETI)**
 
