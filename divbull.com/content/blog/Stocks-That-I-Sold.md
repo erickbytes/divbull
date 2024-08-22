@@ -19,7 +19,7 @@ I've needed to raise money from my stock portfolio this year. More often, I chos
 **The Charles Schwab Corporation (SCHW)**
 
 - sold for: +$176.36 gain (+14.65%)
-- reason: lackluster earning reports, sentiment very low, new brokerage/Robin Hood competition, customer outages, lack of growth prospects
+- reason: lackluster earning reports, sentiment very low, new brokerage/Robinhood competition, customer outages, lack of growth prospects, lack of understanding how banks make money (unfamiliar with banking industry)
 
 **DigitalOcean (DOCN)**
 
@@ -84,7 +84,7 @@ I've needed to raise money from my stock portfolio this year. More often, I chos
 **Sofi Technologies (SOFI)**
 
 - sold for: -$362.07 (-34.55%)
-- reason: price trades erratically, prefer to invest in other industries, lack of catalysts to move stock
+- reason: price trades erratically, prefer to invest in other industries, lack of understanding how banks make money (unfamiliar with banking industry)
 
 **Conclusion**
 
