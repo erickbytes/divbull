@@ -9,7 +9,7 @@ I've needed to raise money from my stock portfolio this year. More often, I chos
 **Snowflake (SNOW)**
 
 - sold for: -$1,155.92 loss (-17.56%)
-- reason: excessive stock based compensation (41% of revenue), usage based model still needs to be proved, management sub-par, killed the stock price, not currently profitable, product is a glorfied database?
+- reason: excessive stock based compensation (41% of revenue), usage based model still needs to be proved, management sub-par + killed the stock price, not currently profitable, product is a glorified database?
 
 **Etsy (ETSY)**
 
