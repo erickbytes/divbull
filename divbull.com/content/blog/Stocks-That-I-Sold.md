@@ -34,12 +34,12 @@ I've needed to raise money from my stock portfolio this year. More often, I chos
 **Coursera (COUR)**
 
 - sold for: -$741.27 loss (-52.89%)
-- reason: not profitable, prefer better opportunities to invest
+- reason: not profitable, product potential existential threat by AI, prefer better opportunities to invest
 
 **Datadog (DDOG)**
 
 - sold for: $469.79 gain (+21.21%)
-- reason: cutting back tech exposure, huge bills for most customers could be a negative
+- reason: cutting back tech exposure, huge customer bills often reported negatively
 
 **UIPath (PATH)**
 
@@ -49,7 +49,7 @@ I've needed to raise money from my stock portfolio this year. More often, I chos
 **Roku (ROKU)**
 
 - sold for: -$631.42 loss (-36.62%)
-- reason: dependent on TV manaufacturers, TV Operating System needs distribution, lack of a moat, not profitable
+- reason: dependent on TV manufacturers, TV Operating System needs distribution, not profitable, lack of a moat?
 
 **Yeti (YETI)**
 
