@@ -4,7 +4,7 @@ Category: Essay
 
 In July and August, I listened to 25 earnings calls and read 2 call transcripts for the quarter. 
 This is the best I've ever done in terms of covering the earnings reports for companies I own. At the moment 
-I'm holding 38 stocks with 5 more companies yet to report for this quarter. Below, I have written some themes and 
+I'm holding 38 stocks with 6 more companies yet to report for this quarter. Below, I have written some themes and 
 patterns observed here to reflect on what I heard in the past month.
 
 **Rate Cuts Are Coming**
@@ -31,8 +31,8 @@ unaffected or even thriving regardless.
 Disney (DIS) and Paramount (PARA) both reached streaming profitability on their respective platforms, 
 Disney+ and Paramount+ in this quarter. Disney's three headed monster of Hulu, Disney+ and ESPN is now making money. 
 It seems legacy media is figuring out how to run a streaming platform that makes money. Spotify (SPOT) also recorded 
-its 3rd consecutive quarter of profitablility in the audio streaming world. Fubo (FUBO) is the other streamer 
-I follow which is not currently profitable but is giving promising guidance for the future by raising revenue and subscriber guidance.
+its 3rd consecutive quarter of profitability in the audio streaming world. Fubo (FUBO) is the other streamer 
+I follow which is not currently profitable but is giving promising guidance for the future by raising revenue and subscriber guidance. FUBO won an injunction in court against VENU, the new sports streaming joint venture from Disney and Warner Bros. They're guiding to be profitable sometime in 2025.
 
 **Food & Beverage Fading**
 
