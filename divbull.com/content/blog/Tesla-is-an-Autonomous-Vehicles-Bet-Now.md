@@ -8,7 +8,7 @@ Tesla cornered the EV market in the 2020s and grew its sales impressively. My st
 
 In 2024, the company finds itself heading down a new road: autonomous vehicles. Elon himself said on the earnings calls, if you don't believe vehicles will drive themselves someday, sell the stock.
 
-A bet on Tesla is a bet on electric vehicles. In order for the stock price to hold up, they need the Cybercab to be unveiled.
+A bet on Tesla is a bet on electric vehicles with some additional moonshots. In order for the stock price to hold up, they need the Cybercab to be unveiled.
 
 Tesla changed the world by being the first profitable pure electric vehicle maker. The million dollar question is now... can they change the world again?
 
