@@ -2,7 +2,7 @@ Title: Tesla is an Autonomous Vehicles Bet Now
 Date: 2024-09-05 3:10 
 Category: Essay
 
-When I began investing in Tesla (TSLA) in 2019, I bought the stock because I believed in electric vehicles. They made sense to me. Someday, we'll be out of gas. We'll need electric vehicles. Stocks go up in the long run and demand for electic vehicles will grow in the future, so I made it a long term investment.
+When I began investing in Tesla (TSLA) in 2019, I bought the stock because I believed in electric vehicles. They made sense to me. Someday, we'll be out of gas. We'll need electric vehicles. Stocks go up in the long run and demand for electric vehicles will grow in the future, so I made it a long term investment.
 
 Tesla cornered the EV market in the 2020s and grew its sales impressively. My stock soared. Tesla was overbought in 2021, before the EV wave fizzled out with interest rates jacked up. Now growth is slowing. Electric vehicle sales are decelerating. However, the rise of the robotaxi is now what we investors are told to wait for.
 
