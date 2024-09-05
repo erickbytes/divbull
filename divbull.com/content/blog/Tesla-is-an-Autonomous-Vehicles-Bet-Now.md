@@ -12,7 +12,7 @@ A bet on Tesla is a bet on electric vehicles. In order for the stock price to ho
 
 Tesla changed the world by being the first profitable pure electric vehicle maker. The million dollar question is now... can they change the world again?
 
-They have a convincing product with Full Self Driving (FSD) seemingly improving every month. But what are the real timelines we'll see for autonomous vehicles? Teslas may also face opposition from other motorists on the road. If no one is driving the car, will other drivers accept Teslas driving on the road and not interfere with them? Will lawmakers allow these cards to run the streets?
+They have a convincing product with Full Self Driving (FSD) seemingly improving every month. But what are the real timelines we'll see for autonomous vehicles? Teslas may also face opposition from other motorists on the road. If no one is driving the car, will other drivers accept Teslas driving on the road and not interfere with them? Will lawmakers allow these cars to run the streets?
 
 Waymo is already active in a small grid of California and Baidu (BIDU) is assisting Tesla with mapping in China. Will the world continue to shift to AI vehicles?
 
