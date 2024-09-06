@@ -19,3 +19,6 @@ Waymo is already active in a small grid of California and Baidu (BIDU) is assist
 Despite the uncertainty of this line of new autonomous business, we should not count Tesla out. It's a company with many irons in the fire that could yield profits in the future. For example, 46% of Q2 net income came from Tesla's energy business, not from EVs. It also claims it's now using its Optimus robot in production.
 
 Tesla's robotaxi event on October 10th will hopefully tell us more about what our vehicles will or will not do in the future. We'll see.
+
+.. image:: {static}/images/tesla-fsd-rollout.png
+  :alt: important milestones for Tesla full self driving
