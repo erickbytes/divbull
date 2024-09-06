@@ -20,5 +20,4 @@ Despite the uncertainty of this line of new autonomous business, we should not c
 
 Tesla's robotaxi event on October 10th will hopefully tell us more about what our vehicles will or will not do in the future. We'll see.
 
-.. image:: {static}/images/tesla-fsd-rollout.png
-  :alt: important milestones for Tesla full self driving
+![Tesla FSD Rollout]({static}/images/tesla-fsd-rollout.png)
