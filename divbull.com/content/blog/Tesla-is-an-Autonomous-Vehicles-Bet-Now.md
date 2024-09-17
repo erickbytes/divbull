@@ -18,7 +18,7 @@ Waymo is already active in a small grid of California and Baidu (BIDU) is assist
 
 Despite the uncertainty of this line of new autonomous business, we should not count Tesla out. It's a company with many irons in the fire that could yield profits in the future. For example, 46% of Q2 net income came from Tesla's energy business, not from EVs. It also claims it's now using its Optimus robot in production.
 
-I'm not sure what the probability is that Tesla succeeds in autonomous vehicles. Because of this uncertainty, I've trimmed my stake and locking in long term gains. I intend to remain invested in Tesla for the long run, unless the investment case changes substantially in some unexpected way. It is still the best stock I've ever owned so far in terms of returns.
+I'm not sure what the probability is that Tesla succeeds in autonomous vehicles. Because of this uncertainty, I've trimmed my stake and locked in a considerable amount of long term gains. I intend to remain invested in Tesla for the long run, unless the investment case changes substantially in some unexpected way. It is still the best stock I've ever owned so far in terms of returns.
 
 Tesla's robotaxi event on October 10th will hopefully tell us more about what our vehicles will or will not do in the future. We'll see.
 
