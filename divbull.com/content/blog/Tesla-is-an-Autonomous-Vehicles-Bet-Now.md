@@ -10,7 +10,7 @@ In 2024, the company finds itself heading down a new road: autonomous vehicles. 
 
 A bet on Tesla is a bet on electric vehicles, robotaxis and some additional moonshots. In order for the stock price to hold up, they need the Cybercab to be unveiled and they'll need to grow other revenue streams.
 
-Tesla changed the world by being the first profitable pure electric vehicle maker. The billion dollar question is now... can they change the world again?
+Tesla changed the world by being the first profitable pure electric vehicle maker. The trillion dollar question is now... can they change the world again?
 
 They have a convincing product with Full Self Driving (FSD) seemingly improving every month. But what are the real timelines we'll see for autonomous vehicles? Teslas may also face opposition from other motorists on the road. If no one is driving the car, will other drivers accept Teslas driving on the road and not interfere with them? Will lawmakers allow these cars to run the streets?
 
