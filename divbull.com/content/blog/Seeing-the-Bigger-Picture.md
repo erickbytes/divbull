@@ -12,7 +12,7 @@ While I saw my portfolio under siege that year, I began to doubt how safe of an 
 
 By 2023, 3 years after getting in, I had lost my conviction. I sold out my last Netflix share at $375 because I needed extra money and took a little last sliver of profit. Subscribers were falling (basically only for one quarter, another rookie mistake, putting too much emphasis on one quarter haha). Now the company says they won't even report quarterly subscriber numbers. 
 
-I no longer believed in the fundamentals because the stock price took dive, then, of course, it recovered. The stock went up 2-3x after I sold. It's been a hard lesson to learn. The silver lining is that the experience I gained might help me invest better in the future. Sometimes we lose sight of the big picture. Sometimes we flip from bull to bear. It happens.
+I no longer believed in the fundamentals because the stock price took dive. Then, of course, it recovered. The stock went up 2-3x after I sold. It's been a hard lesson to learn. The silver lining is that the experience I gained might help me invest better in the future. Sometimes we lose sight of the big picture. Sometimes we flip from bull to bear. It happens.
 
 When I was in business school, we'd read case studies about Netflix and how they changed the media game. They started as a mail-in DVD company and adapted into streaming. It's a great story. I have a hypothesis that the companies that make the right moves that get written about in biz school case studies are the companies you want to own, as long as they're still dominating their market.
 
