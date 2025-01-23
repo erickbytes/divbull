@@ -1,5 +1,5 @@
 Title: Seeing the Bigger Picture 
-Date: 2025-01-22 21:02
+Date: 2025-01-22 21:10
 Category: Essay
 
 In investing, we get it wrong sometimes. It's called being human. Investing in single stocks is a constant reassessment. Just because you made a mistake in the past, doesn't mean you have to live with it forever.
