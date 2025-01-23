@@ -4,7 +4,7 @@ Category: Essay
 
 In investing, we get it wrong sometimes. It's called being human. Investing in single stocks is a constant reassessment. Just because you made a mistake in the past, doesn't mean you have to live with it forever.
 
-In the past, I treated my Netflix (NFLX) position like a trade. I took some profits above $500 in 2021. Life was good. Foolishly, I began to doubt the security of the business when the stock suffered a [60% drawdown in 2022]([https://www.fool.com/investing/2022/10/14/why-netflix-is-down-60-this-year/).
+In the past, I treated my Netflix (NFLX) position like a trade. I took some profits above $500 in 2021. Life was good. Foolishly, I began to doubt the security of the business when the stock suffered a [60% drawdown in 2022](https://www.fool.com/investing/2022/10/14/why-netflix-is-down-60-this-year/).
 
 I always thought I had strong conviction to hold through bad times, but I'd never seen a stock move like Netflix did in 2022. And it wasn't just Netflix that suffered that year. Most of the stocks in my portfolio went through corrections or more extreme drawdowns. I started to look at each of my stocks and think, which of these can I really trust? I was a bit scared of seeing more stocks sell off. It definitely affected me pschologically to see my frothy gains of 2021 slowly disappear by the end of 2022. In hindsight, this was the time to buy. I did buy a lot back then, but also made some mistakes. One of the biggest being Netflix.
 
