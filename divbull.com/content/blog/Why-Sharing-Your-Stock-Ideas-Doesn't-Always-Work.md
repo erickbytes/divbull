@@ -8,7 +8,7 @@ However, it is not always going to work out sharing your ideas with friends, fam
 People panic. People don't understand what they're invested in. In conditions where asset prices are dipping, they cave in and sell.
 You can lead a horse to water, but you can't make it drink.
 
-This is why you can't really talk about stocks with the average joe. They won't stay in the game long enough to win. Or they'll takre profits too early.
+This is why you can't really talk about stocks with the average joe. They won't stay in the game long enough to win. Or they'll take profits too early.
 Even in something as proven over as the S&P 500, people will start to doubt it unless they are seasoned investor.
 
 Sometimes, we need to cut our losses in investing. Other times, we just need to wait longer for a rebound. When faced with this circumstance, being able to discern which right road to take is never guaranteed.
