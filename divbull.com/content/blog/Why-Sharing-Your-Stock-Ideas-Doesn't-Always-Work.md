@@ -9,7 +9,7 @@ People panic. People don't understand what they're invested in. In conditions wh
 You can lead a horse to water, but you can't make it drink.
 
 This is why you can't really talk about stocks with the average joe. They won't stay in the game long enough to win. Or they'll take profits too early.
-Even in something as proven over as the S&P 500, people will start to doubt it unless they are seasoned investor.
+Even in something as proven over time as the S&P 500, people will start to doubt it unless they are seasoned investor.
 
 Sometimes, we need to cut our losses in investing. Other times, we just need to wait longer for a rebound. When faced with this circumstance, being able to discern which right road to take is never guaranteed.
 
