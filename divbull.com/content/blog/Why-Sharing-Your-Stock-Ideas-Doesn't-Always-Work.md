@@ -1,5 +1,5 @@
 Title: Why Sharing Your Stock Ideas Doesn't Always Work 
-Date: 2025-02-14 0:20 
+Date: 2025-02-15 0:20 
 Category: Essay
 
 I love to talk about stocks: stocks that made me money in the past, stocks I'm holding now and stocks I may buy in the future. 
