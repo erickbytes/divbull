@@ -9,7 +9,7 @@ Category: Essay
 
 3. r/Investing
 
-4. r/ETFs
+4. r/StockMarket
 
 5. r/cryptocurrency
 
@@ -19,8 +19,10 @@ Category: Essay
 
 8. r/ValueInvesting
 
-9. r/StockMarket
+9. r/ETFs
 
 10. r/DividendStocks
 
 11. r/fire
+
+12. r/SwingTrading
