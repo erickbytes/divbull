@@ -14,7 +14,7 @@ This company was a short-term trade of which I knew so little about the company 
 
 + LYFT, -64.24%
 
-I wrote earlier on this blog about my wise move to exit at $35-$55. The price currently sits at $16.
+I wrote in an [earlier post on this blog](https://divbull.com/getting-out-of-lyft-stock) about my wise move to exit at $35-$55. The price currently sits at $16.
 In their case, it didn't pay to be #2 in the rideshare industry. More competition ramps up soon with Waymo delivering 250K rides and Tesla beginning its rollout in June.
 
 + MTCH, -81.22%
