@@ -10,7 +10,7 @@ I entered Krispy Kreme Donuts for a short term trade to medium term investment. 
 
 + TDC, -51.55%
 
-This company was a short-term trade of which I knew so little about the company Teradata. Purely traded on price for a small $100-$150 position, but closed at a small profit.
+This company was a short-term trade of which I knew so little about the company, Teradata. Purely traded on price for a small $100-$150 position and closed at a small profit. Really not sure why I messed with this stock. It was a good move to kick it out of my portfolio, seeing it has lost half its value looking back to when I traded it.
 
 + LYFT, -64.24%
 
@@ -24,7 +24,7 @@ I entered Match Group thinking it must be a high-margin business. Tinder and OKC
 
 + EB, -89.01%
 
-Eventbright was a well-known startup in the ZIRP era. They pop up occasionally in ticketing for events I attend. I only owned 1 share, which I bought and sold above $20 for a tidy $0.67 profit. The pandemic was a huge setback to their business in a sense and the stock reflects that thesis today.
+Eventbright was a well-known startup in the ZIRP era. They pop up occasionally in ticketing for events I attend. I only owned 1 share, which I bought and sold above $20 for a tidy $0.67 profit. The pandemic was a huge setback to their business and the stock reflects that thesis today.
 
 + BYND, -97.50%
 
