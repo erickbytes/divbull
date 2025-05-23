@@ -20,15 +20,15 @@ and Tesla beginning its rollout in June. I closed out my Lyft position for a $60
 
 + MTCH, -81.22%
 
-I entered Match Group thinking it must be a high-margin business. Tinder and OKCupid are pinnacles of single dating life. However, I had no conviction in the idea nor the interest to understand the economics of dating apps. In retrospect, it was the right move. I sold my 3 shares to cash in $5 of profits before the bottom fell out of this stock.
+I entered Match Group thinking it must be a high-margin business. Tinder and OKCupid are pinnacles of single dating life. However, I had no conviction in the idea nor the interest to understand the economics of dating apps. In retrospect, it was the right move. I sold my 3 shares at an average of $158 to cash in $5 of profits before the bottom fell out of this stock. It now trades around $29. Sometimes the best wins are the shots you don't take.
 
 + EB, -89.01%
 
-Eventbright was a well-known startup in the ZIRP era. They pop up occasionally in ticketing for events I attend. I only owned 1 share, which I bought and sold above $20 for a tidy $0.67 profit. The pandemic KO'd their business in a sense and the stock reflects it today.
+Eventbright was a well-known startup in the ZIRP era. They pop up occasionally in ticketing for events I attend. I only owned 1 share, which I bought and sold above $20 for a tidy $0.67 profit. The pandemic was a huge setback to their business in a sense and the stock reflects that thesis today.
 
-+ BYND, -97.11%
++ BYND, -97.50%
 
-Beyond Meat rode a wave that turned out to be more of a fad. Veggie meat pops up occasionally at the restaurant. There are other products in this category, but it seems the demand for this type of food was overestimated. The position was small, 7 shares. Thankfully I didn't hang onto this one and closed out selling portions from $99-$141 for a $138 profit. I sold because it was low conviction to believe in the fake meat industry. Today it is priced under $3, so I made the right call to get out.
+Beyond Meat rode a wave that turned out to be more of a fad. Veggie meat pops up occasionally at the restaurant. There are other products in this category, but it seems the demand for this type of food was overestimated. The position was small, 7 shares. Thankfully I didn't hang onto this one. I closed out the position at a $114 average for a $138 profit. I sold because it was low conviction to believe in the fake meat industry. Today it is priced under $3, so I made the right call to get out.
 
 + BRDS, -100%
 
