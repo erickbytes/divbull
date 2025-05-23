@@ -2,7 +2,7 @@ Title: Stocks I Sold That Went Down More Than 50%
 Date: 2025-05-22 13:20 
 Category: Essay
 
-Occasionally, you will be holding stocks that you should sell. It is not always going to work out when you sell. I've also sold 5 stocks that went up >50%. Most times, you should hold. But this only works when the business is executing its plan and reaping profits. In some of these trades, I got out at a profit before the stock moved down. In others, I took a loss to move on from a bad decision.
+Occasionally, you will be holding stocks that you should sell. It is not always going to work out when you sell. I've also sold 5 stocks that went up >50%. Most times, you should hold. But this only works when the business is executing its plan and reaping profits. In some of these trades, I got out at a profit before the stock moved down. In others, I took a loss to move on from a bad decision, and then the stock continued to lose more than half its value.
 
 + DNUT, -51.00%
 
