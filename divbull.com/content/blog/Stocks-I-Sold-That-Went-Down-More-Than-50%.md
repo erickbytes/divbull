@@ -15,19 +15,19 @@ This company was a short-term trade of which I knew so little about the company 
 + LYFT, -64.24%
 
 I wrote in an [earlier post on this blog](https://divbull.com/getting-out-of-lyft-stock) about my wise move to exit at $35-$55. The price currently sits at $16.
-In their case, it didn't pay to be #2 in the rideshare industry. More competition ramps up soon with Waymo delivering 250K rides and Tesla beginning its rollout in June.
+In their case, it didn't pay to be #2 in the rideshare industry. More competition ramps up soon with Waymo delivering 250K rides and Tesla beginning its rollout in June. I closed out my Lyft position for a $600+ loss. I would be sitting on much larger losses if I kept my shares.
 
 + MTCH, -81.22%
 
-I entered Match Group thinking it must be a high-margin business. Tinder and OKCupid are pinnacles of single dating life. However, I had no conviction in the idea nor the interest to understand the economics of dating apps. In retrospect, it was the right move. I sold my 3 or so shares before the bottom fell out of this stock.
+I entered Match Group thinking it must be a high-margin business. Tinder and OKCupid are pinnacles of single dating life. However, I had no conviction in the idea nor the interest to understand the economics of dating apps. In retrospect, it was the right move. I sold my 3 or so shares to cash in $5 of profits before the bottom fell out of this stock.
 
 + EB, -89.01%
 
-Eventbright was a well-known startup in the ZIRP era. They pop up occasionally in ticketing for events I attend. I only owned 1 share, which I bought and sold above $20 for a small profit. The pandemic KO'd their business in a sense and the stock reflects it today.
+Eventbright was a well-known startup in the ZIRP era. They pop up occasionally in ticketing for events I attend. I only owned 1 share, which I bought and sold above $20 for a tidy $0.67 profit. The pandemic KO'd their business in a sense and the stock reflects it today.
 
 + BYND, -97.11%
 
-Beyond Meat rode a wave that turned out to be more of a fad. Veggie meat pops up occasionally at the restaurant. There are other products in this category, but it seems the demand for this type of food was overestimated. The position was only $500 or less. Thankfully I didn't hang onto this one.
+Beyond Meat rode a wave that turned out to be more of a fad. Veggie meat pops up occasionally at the restaurant. There are other products in this category, but it seems the demand for this type of food was overestimated. The position was only $500 or less. Thankfully I didn't hang onto this one and closed out above $100 for a $138 profit. Today it is priced under $3.
 
 + BRDS, -100%
 
