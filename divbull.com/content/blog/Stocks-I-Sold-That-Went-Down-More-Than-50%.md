@@ -18,6 +18,10 @@ I wrote in an [earlier post on this blog](https://divbull.com/getting-out-of-lyf
 number 2 in the rideshare industry. More competition ramps up soon with Waymo delivering 250K rides 
 and Tesla beginning its rollout in June. I closed out my Lyft position for a $600+ loss. Similar to Krispy Kreme, I took the losses to lower my taxable income. In both stocks, I would be sitting on much larger losses if I kept my shares.
 
++ CGC, -76.02%
+
+I wanted to invest in the marijuana boom, and Canopy Growth was one of the best known options to play the trend 5 years ago. This trade is runner-up for my worst investment. The business is run like it's management's own personal credit card account. They're nowhere near profitable, and no signs of a turnaround. I rode this stock down too far and made the mistake of adding when it tanked. In the end, it was a $1,052 mistake that cost me most of my investment after holding for 3 years. The silver lining is that I did sell at a local high exiting at $7 before it dropped another 76%.
+
 + MTCH, -81.22%
 
 I entered Match Group thinking it must be a high-margin business. Tinder, Hinge and OKCupid are pinnacles of single dating life. Match Group has the market cornered it seems. However, I had no conviction in the idea nor the interest to understand the economics of dating apps. Then consider the fact that a dating app that does its job, forming a relationship, causes Match to lose 2 users everytime it succeeds. In retrospect, it was the right move to move on from being a dating app investor. I sold my 3 shares at an average of $158 to cash in $5 of profits before the bottom fell out of this stock. It now trades around $29. Sometimes the best wins are the shots you don't take.
