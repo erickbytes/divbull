@@ -18,7 +18,7 @@ One of my first stock picks was a good one in hindsight. However, my inexperienc
 
 + PLTR, +408%
 
-I only held one share of Palantir for 6 months in 2021. I saw the stock constantly being discussed online and threw in $23. That share is now worth $124. Their dependency on government business contracts seemed a turn-off to me. I sold. I get that now they have the AI story as well. This is a promising company for sure, but I won't be purchasing shares at such a high valuation. 
+I only held one share of Palantir for 6 months in 2021. I saw the stock constantly being discussed online and threw in $23. That share is now worth $124. Their dependency on government business contracts seemed a turn-off to me. I sold. I get that now they have the AI story as well. This is a promising company for sure, but I won't be purchasing shares at such a high valuation. At least my S&P 500 position gives me some exposure to Palantir's upside, so I caught the gains since they were added in September 2024.
 
 **Nobody Gets It Right Every Time**
 
