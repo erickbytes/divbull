@@ -37,7 +37,7 @@ I entered Match Group thinking it must be a high-margin business. It holds my pe
 
 + EB, -89%
 
-Eventbright was a well-known startup in the ZIRP era. They pop up occasionally in ticketing for events I attend. I only owned 1 share, which I bought and sold above $20 for a tidy $0.67 profit. The pandemic was a huge setback to their business and the stock reflects that thesis today.
+Eventbright was a well-known startup in the ZIRP era. They pop up occasionally in ticketing for events I attend. I only owned 1 share, which I bought and sold above $20 for a tidy $0.67 profit. The pandemic was a huge setback to their business and the stock reflects that thesis today. The market price as of today hovers around $2.
 
 + BYND, -97.5%
 
