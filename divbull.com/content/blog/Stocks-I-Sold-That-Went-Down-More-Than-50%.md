@@ -33,7 +33,7 @@ I wanted to invest in the marijuana boom, and Canopy Growth was one of the best 
 
 + MTCH, -81%
 
-I entered Match Group thinking it must be a high-margin business. Tinder, Hinge, Match.com and OKCupid are pinnacles of single dating life. Match Group has the market cornered it seems. However, I had no conviction in the idea nor the interest to understand the economics of dating apps. Then consider the fact that a dating app that does its job, connecting 2 people to start a relationship, causes Match to lose 2 users everytime it succeeds. In retrospect, it was the right move to move on from being a dating app investor. I sold my 3 shares at an average of $158 to cash in $5 of profits before the bottom fell out of this stock. It now trades around $29. Sometimes the best wins are the shots you don't take.
+I entered Match Group thinking it must be a high-margin business. It holds my personal record for the shortest time I've ever held an investment at 1 month and 3 days from open to close. Tinder, Hinge, Match.com and OKCupid are pinnacles of single dating life. Match Group has the market cornered it seems. However, I had no conviction in the idea nor the interest to understand the economics of dating apps. Then consider the fact that a dating app that does its job, connecting 2 people to start a relationship, causes Match to lose 2 users everytime it succeeds. In retrospect, it was the right move to move on from being a dating app investor. I sold my 3 shares at an average of $158 to cash in $5 of profits before the bottom fell out of this stock. It now trades around $29. Sometimes the best wins are the shots you don't take.
 
 + EB, -89%
 

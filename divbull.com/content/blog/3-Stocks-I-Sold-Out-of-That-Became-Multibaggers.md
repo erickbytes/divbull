@@ -10,11 +10,11 @@ but I think it's a healthy exercise to review your mistakes and try to not repea
 + BROS, +128%
 
 I decided I didn't want to invest in the "next Starbucks". Even though the business is growing healthily, I decided 
-I prefer other oppurtunities. People seem passionate about their Dutch Bros drinks. I misread the stock and could have doubled my money if I bought instead of selling out.
+I prefer other opportunities. People seem passionate about their Dutch Bros drinks. I misread the stock and could have doubled my money if I bought instead of selling out in 2024 at $29.50 for a measly $7 profit.
 
 + PBPB, +248%
 
-One of my first stock picks was a good one in hindsight. However, my inexperience caused me to doubt the future of this sandwich shop chain. Checking back 5 years later, I was shocked to see how the stock had done since I sold the bottom in 2020. If I had stayed the course instead of bailing after 4 months, I would have tripled my money today. Instead I sold out at a ~$300 loss, instead of sitting on a $1700 gain.
+One of my first stock picks was a good one in hindsight. However, my inexperience caused me to doubt the future of this sandwich shop chain. Checking back 5 years later, I was shocked to see how the stock had done. I sold the bottom at $2.89 in 2020. If I had stayed the course instead of bailing after 4 months, I would have tripled my money within 5 years. Instead I sold out at a ~$300 loss, flushing away what would have been a $1,700 gain today.
 
 + PLTR, +408%
 
