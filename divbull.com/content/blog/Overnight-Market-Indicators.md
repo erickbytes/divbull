@@ -14,7 +14,7 @@ Most stocks now trade on an "overnight" market, which can be seen when checking 
 
 + Europe and Asian Markets
 
-Germany, Japan and Chinese markets may give hints about what is coming tomorrow. If Nvidia stock trades up in Germany, it will likely do the same here. If Nintendo trades up in Japan, its American Depository Receipts (ADRs) tend to see the same price action. I am holding a Japanese growth stock ETF (RAYJ), so I often check a watchlist of stocks I hold through it most nights at 6 PM CST when the Japanese markets begin trading.
+Germany, Japan and Chinese markets may give hints about what is coming tomorrow. If Nvidia stock trades up in Germany, it will likely do the same here. If Nintendo trades up in Japan, its American Depository Receipts (ADRs) tend to see the same price action. I am holding a Japanese growth stock ETF, [RAYJ](https://funds.rayliant.com/rayj/). So I often check a watchlist of stocks I hold through it most nights at 6 PM CST when the Japanese markets begin trading.
 
 + Bitcoin
 
