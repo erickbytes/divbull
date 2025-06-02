@@ -9,7 +9,7 @@ Six months ago, I decided I wanted to invest in a REIT (Real Estate Investment T
 Reading online, I found that because REITs are required to pass through 90% of their income to shareholders. This gives them a different tax classification. The dividends REITs yield are "non-qualified dividends" which are part of your taxable income. This means that REITs are best suited for a tax advantaged account like a Roth IRA to keep more of your dividends.
 
 Before I discovered this REIT tax nuance, I bought Realty Income in my taxable brokerage account. Now, I'm contemplating how I will shift my REIT holding into my Roth IRA. From what I've researched online, I would need to sell the position and re-buy in my Roth IRA. It is ok to keep a REIT in your taxable brokerage if you want to yield money you can use immediately.
-However, the tax hit on your dividends will be substantial in a taxable brokerage account.
+However, the tax hit on your dividends will be substantial in a taxable brokerage account. You'll also pay a higher tax on the dividends if you earn more from your salary or business, depending which tax bracket you fall into.
 
 For new investors, the key concept here is that certain assets are better suited for your tax advantaged accounts. Another example of this that I realized recently is that holding bonds in a Roth IRA negates the tax advantage of the Roth. Bonds are best suited for a 401(k). 
 
