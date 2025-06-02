@@ -2,9 +2,9 @@ Title: REIT Tax Strategy for Minimizing Your Tax Bill
 Date: 2025-06-02 14:00 
 Category: Essay
 
-I am always learning in investing. Recently I've been reading into different cases of optimizing assets by keeping them in the right account. Placing different assets in the proper type of account can have a huge impact on your net worth down the road by reducing your tax bill. Certain assets are best suited for a 401(k) vs. some for Roth vs. a taxable brokerage account.
+I am always learning in investing. Recently I've been reading into different cases of optimizing assets by keeping them in the right account. Placing different assets in the proper type of account can have a huge impact on your net worth down the road by reducing your tax bill. Certain assets are best suited for a 401(k), some for a tax advantaged Roth IRA and the rest into a taxable brokerage account.
 
-Six months ago, I decided I wanted to invest in a REIT (Real Estate Investment Trust) to diversify into real estate. By owning a REIT, you collect the income from a portfolio of rental properties. I chose to invest in Realty Income (O). I liked that it yields a monthly dividend, which I've reinvested back into my position. So far, it's been a steady place to keep a 1.4% position size in this turbulent year and I'm slightly in the green in profits.
+Six months ago, I decided I wanted to invest in a REIT (Real Estate Investment Trust) to diversify my portfolio into real estate. By owning a REIT, you collect the income from a portfolio of rental properties. I chose to invest in Realty Income (O). I liked that it yields a monthly dividend, which I've reinvested back into my position. So far, it's been a steady place to keep a 1.4% position size in this turbulent year and I'm slightly in the green in profits.
 
 Reading online, I found that because REITs are required to pass through 90% of their income to shareholders, which gives them a different tax classification. The dividends REITs yield are "non-qualified dividends" which are part of your taxable income. This means that REITs are best suited for a tax advantaged account like a Roth IRA. 
 
