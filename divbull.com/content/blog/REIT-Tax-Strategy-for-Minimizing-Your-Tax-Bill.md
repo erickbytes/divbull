@@ -8,9 +8,8 @@ Six months ago, I decided I wanted to invest in a REIT (Real Estate Investment T
 
 I chose to invest in [Realty Income (O)](https://www.realtyincome.com/). It yields a monthly dividend, which I've reinvested back into my position. So far, it's been a steady place to keep a 1.4% position size in this turbulent year. As of today, I'm slightly in the green in profits. In their Q1 earnings report on May 5th, Realty Income mentioned it is the 7th largest REIT globally. They also pointed out that they have 98.5% portfolio occupancy, so nearly 99% of their properties are being actively rented.
 
-    "We owned or held interests in 15,627 properties, which were leased to 1,598 clients doing business in 91 industries."
-    
-    - Q1 2025 Realty Income Earnings Call
+> "We owned or held interests in 15,627 properties, which were leased to 1,598 clients doing business in 91 industries."
+> - Q1 2025 Realty Income Earnings Call
 
 Reading online, I found that REITs are required to pass through 90% of their taxable income to shareholders. This gives them a different tax classification. The dividends REITs yield are "non-qualified dividends" which are part of your taxable income. This means that REITs are best suited for a tax advantaged account like a Roth IRA to keep more of your dividends.
 
