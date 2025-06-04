@@ -4,7 +4,7 @@ Category: Essay
 
 Tesla is unique company. They make electric vehicles, robotics and also have a thriving energy storage business.
 
-Fundamentals-based investors tend to squeem when they dig into Tesla's financials. The valuation of Tesla often 
+Fundamentals-based investors get squeamish when they dig into Tesla's financials. The valuation of Tesla often 
 struggles to hold up against its actual fundamentals. Because of this, a 50% drawdown is not uncommon for the stock. 
 
 My theory of Tesla stock is that you can't look at it this way. It is a "story stock", with levers in AI, autonomous driving robotaxis and the transition to renewable energy backing it. Tesla trades on vibes and stories.
