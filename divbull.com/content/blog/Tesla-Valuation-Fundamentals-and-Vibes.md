@@ -11,7 +11,7 @@ My theory of Tesla stock is that you can't look at it this way. It is a "story s
 
 They are a profitable at a time when the electric vehicle (EV) movement is pumping the brakes. Long term, I believe Tesla will be competitive in EVs, but it is getting tougher for them with more competitors entering the market.
 
-Tesla had the "first mover" advantage in EVs and parlayed it into a profitable business with many potential new levers of growth. Nowadays, it is a more risky bet given how its valuation has swollen since 2019. I wouldn't recommend the stock in 2025, given what I've known from being an investor for 6 years. I have sold down the position to below a 10% allocation in my portfolio to hedge my downside risk if robotaxis don't pan out.
+Tesla had the "first mover" advantage in EVs and parlayed it into a profitable business with many potential new levers of growth. Nowadays, it is a more risky bet given how its valuation has swollen since 2019. I have sold down the position to below a 10% allocation in my portfolio to hedge my downside risk if robotaxis don't pan out. I wouldn't recommend the stock in 2025, given what I've known from being an investor for 6 years. But could there be more money to be made on the stock? Ultimately, that's what investors want.
 
 My point is that Tesla is its own animal. Someday, it will likely be thriving in robotics and autonomous driving. When you consider Tesla as an investor, you need to consider the vibes and the story. Admittedly, it is risky to invest this way. That's why more disciplined investors have scoffed at its prospects as an investment ever since I first bought the stock 6 years ago.
 
