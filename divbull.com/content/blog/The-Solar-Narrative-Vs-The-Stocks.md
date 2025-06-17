@@ -1,5 +1,5 @@
 Title: The Solar Narrative Vs. The Stocks 
-Date: 2025-06-17 4:20 
+Date: 2025-06-17 11:45 
 Category: Essay
 
 In its 2024 Q2 and Q3 earnings reports, Enphase Energy had an optimistic tone on their earnings call.
