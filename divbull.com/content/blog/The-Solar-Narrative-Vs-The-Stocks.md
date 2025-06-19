@@ -30,8 +30,8 @@ This morning, Enphase Energy shares are priced at $33, down -23%. Sunrun shares 
 down -40% this morning on the solar credit termination news. In total, my solar investment loss has 
 been $3,369. In theory, solar was a great investment idea. In practice, it was not for me. Perhaps 
 I could chalk it up to poor timing and could have held longer. In the end, I harvested 
-the losses to lower my tax bill, preventing another $1,062 of losses had I held on. I fully believe Sunrun 
-may go bankrupt someday. We'll see.
+the losses to lower my tax bill, preventing another $1,062 of capital loss had I held on. I fully 
+believe Sunrun may go bankrupt someday. We'll see.
 
 Today, I'm only holding a small position in First Solar (FSLR) to invest in the solar industry. 
 In my opinion, this company is the most likely to succeed of the 3 companies I had invested in, 
@@ -49,15 +49,18 @@ to me when I started buying solar stocks. It's a nugget of wisdom gleaned from m
 
 While I can be right about a general trend like solar, it is less likely that I'll  pick the 
 "winners" that make it long term in this industry. Therefore, I've reduced my solar exposure 
-for now. If I feel the industry sentiment improving, I may eventually buy more of a solar energy 
+for now. If I feel the industry sentiment improving, I'll buy more of a solar energy 
 ETF like the Invesco Solar ETF (TAN). 
 
 While the long term solar narrative is unaffected, the businesses competing in this space are 
 undergoing growing pains. The subsidies they've grown dependent on are being taken away. 
 Will they survive? Some will, and some will not. That's the reality of business.
 There is always risk in investing. Threats can come from government action. In this case, 
-a policy reversal spelled doom for solar stocks. They'll likely recover in the long term, 
-but that is not much consolation for investors.
+a policy reversal spelled doom for solar stocks. Some of them will likely recover in the long term, 
+but that is not much consolation for investors. Maybe I got what I deserved, investing in an industry 
+more reliant on the government, when that government is cutting clean energy subsidies and raising interest rates,
+while other energy sources like nuclear remain uncut.
+
 
 
 
