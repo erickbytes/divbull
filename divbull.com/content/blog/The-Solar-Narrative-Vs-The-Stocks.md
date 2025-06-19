@@ -40,7 +40,7 @@ solar credit news, not as bad as the ENPH and RUN. It seems to have the stronges
 after following these 3 companies since 2021.
 
 A critical nuance of investing in Solar is to distinguish whether the business competes in 
-commercial or residential solar. Enphase and Sunrun sell primarily to the residential solar customer. 
+commercial or residential solar. Enphase and Sunrun are more exposed to the residential solar customer. 
 The subsidy revisions in the recent tax bill imply a larger hit to the companies in the residential sector. 
 The moves in ENPH and RUN confirmed by dropping more than others who compete in commercial solar, like 
 First Solar. It's easy to want to "invest in solar" without considering that residential home installation 
