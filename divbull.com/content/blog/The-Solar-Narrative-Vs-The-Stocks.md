@@ -28,11 +28,11 @@ taking a slightly smaller but still significant loss. I sold out of both because
 that they could go lower based on shaky business fundamentals. Recently, that has been the case.
 This morning, Enphase Energy shares are priced at $33, down -23%. Sunrun shares are priced at $5.73,
 down -40% this morning on the solar credit termination news. Bankruptcy appears to be a real possibility.
-My total realized loss from solar investments is $3,369.
 
 In theory, solar was a great investment idea. In practice, it was not for me. Perhaps 
-I could chalk it up to poor timing, mediocre stock picking and unlucky policy. After owning for approximately 2 years, 
-I harvested the losses to lower my tax bill. In retrospect, this prevented another $1,062 of capital loss had I held on.
+I could chalk it up to poor timing, mediocre stock picking and unlucky policy. After owning for 
+approximately 2 years, I harvested the losses to lower my tax bill. In retrospect, this prevented 
+another $1,062 of capital loss had I held on. My total realized loss from solar investments is $3,369.
 
 Today, I'm only holding a small position in First Solar (FSLR) to invest in the solar industry. 
 In my opinion, this company is the most likely to succeed of the 3 companies I had invested in, 
