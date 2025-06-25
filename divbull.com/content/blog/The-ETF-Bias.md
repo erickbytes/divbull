@@ -13,7 +13,7 @@ If you are approaching retirement increase how much is in bonds, money market fu
 This target allocation can be achieved with both passive funds and individual stocks.
 
 I propose that the financial industry has a bias against individual stock picking, perhaps 
-because it is difficult to succceed. However, financial pros and bogleheads often write off stockpicking 
+because it is difficult to succeed. However, financial pros and bogleheads often write off stockpicking 
 as being like going to the casino.
 
 The truth is that it's easy to lose money by picking a bad stock at the wrong time. I've picked 
