@@ -18,8 +18,10 @@ as being like going to the casino.
 
 The truth is that it's easy to lose money by picking a bad stock at the wrong time. I've picked 
 plenty of losers. But if you choose well, you can ride a stock's momentum for a long time, beat 
-the market and make gains in multiples higher than a passive approach. With stockpicking, you 
-need to be more dilligent in taking profits to reduce your downside risk.
+the market and make gains multiples higher than a passive approach. With stockpicking, you 
+might need to be more dilligent in taking profits to reduce your downside risk. This active nature 
+is not desirable to fund oriented investors. For those who don't mind the time to be hands on, 
+this gives more granular control of your risk exposure.
 
 Don't get me wrong, you should own the market. My 5th largest position currently is an S&P 500 
 index fund. I'm not suggesting we should abandon ETFs and mutual funds. Instead, keep your eyes 
