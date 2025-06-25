@@ -34,7 +34,7 @@ selling console of all time. These types of moves plus some lucky timing can win
 
 I'm currently long at least 5 stocks that beat the market over the past 5 years. My bets on Cloudflare, 
 Nvidia, Microsoft, Spotify and Tesla all beat the market in that time span. If I listened to 
-the "play it safe" crowd, I would have missed out on these mult-bagger gains. Sure, Microsoft and Nvidia 
+the "play it safe" crowd, I would have missed out on these multi-bagger gains. Sure, Microsoft and Nvidia 
 are two of the largest companies in the S&P 500 so I'm still somewhat correlated there with the S&P 500. 
 I'm happy to have higher exposure to these incredible companies in the early innings of the AI trend.
 
