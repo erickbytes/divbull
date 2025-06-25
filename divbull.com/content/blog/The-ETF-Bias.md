@@ -39,7 +39,7 @@ are two of the largest companies in the S&P 500 so I'm still somewhat correlated
 I'm happy to have higher exposure to these incredible companies in the early innings of the AI trend.
 
 Of course, for some investors they view researching companies and trying to assess their quality as 
-unneccessary burden. I view it as an activity that I enjoy that makes me money when I excel. While 
+unnecessary burden. I view it as an activity that I enjoy that makes me money when I excel. While 
 I appreciate the "set it and forget it" nature of index funds and ETFs, I find the challenge of 
 stockpicking to be like an enjoyable hobby. Personal finance truly is personal. You should discover 
 where your risk tolerance falls on the spectrum. I might have survivor bias from some lucky picks, 
