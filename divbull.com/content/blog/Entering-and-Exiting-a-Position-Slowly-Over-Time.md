@@ -15,20 +15,21 @@ Sometimes it becomes clear that a company has negative headwinds, so I might lig
 Otherwise, if a trend like AI presents itself as an opportunity, I tend to lean in to that trend.
  
 Today, I bought more Spotify. It's the first time since I added more shares at $403 in Nov. 2024. 
-I trimmed 3 shares earlier this year at $500 to lock in profits, but wanted to invest more in this winning company.
+I trimmed 3 shares earlier this year at $500 to lock in profits, but wanted to invest more in 
+this winning company.
 
-I've now bought Spotify stock in a range of $75 to $685 per share. Up at this high level, I'm not adding heavily.
-I picked up 2 shares, 1 of which was the first in my Roth IRA. My share count is now up to 17.
+I've now bought Spotify stock in a range of $75 to $685 per share. Up at this high level, I'm not 
+adding heavily. I picked up 2 shares, 1 of which was the first in my Roth IRA. My share count is now up to 17.
 I was aiming to bring Spotify to an invested capital level on par with my Meta and Google investments. 
 In my view, this is a high conviction hold that has earned its spot among tech's elite companies.
 However, such a high price implies risk should their impressive growth slow.
 
 I may regret adding Spotify at such a high valuation. The business looks strong, with estimated over 700 million 
 monthly active users. Sometimes, we should look to add to our winners. In my opinion, Spotify has proven 
-it is a winner. Assuming the executive team is able to continue its stellar performance,
-I believe the stock is going higher. Just one month ago, it reached all time high of $785. I bought 
-this stock today at $100 less than its market price 1 month ago. It seems the business can support 
-this lofty valuation and has the potential to grow even more.
+it is a winner. Their gamechanging music streaming model growth story and focus on a best in class music player product has paid off.
+Assuming the executive team is able to continue its stellar performance, I believe the stock is going higher.
+Just one month ago, it reached all time high of $785. I bought this stock today at $100 less than its market price only 30 days ago. 
+It seems the business can support this lofty valuation and has the potential to grow even more.
 
 On my Tesla investment, I've been lowering my cost basis and trimming profits by selling shares I bought at higher lots 
 and some of my shares I bought at $17. I have "house money" riding in the stock. I added and reduced my position at 
