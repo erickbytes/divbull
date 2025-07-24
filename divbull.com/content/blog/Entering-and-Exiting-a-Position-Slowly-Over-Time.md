@@ -18,23 +18,25 @@ Today, I bought more Spotify. It's the first time since I added more shares at $
 I also trimmed some shares earlier this year, but wanted to invest more in this winning company.
 
 I've now bought Spotify stock in a range of $75 to $685 per share. Up at this high level, I'm not adding heavily.
-I do want to bring Spotify to an invested capital level on par with Meta and Google investments. 
+I picked up 2 shares, 1 of which was the first in my Roth IRA. My share count is now up to 17.
+I was aiming to bring Spotify to an invested capital level on par with my Meta and Google investments. 
 In my view, this is a high conviction hold that has earned its spot among tech's elite companies.
+However, such a high price implies risk should their impressive growth slow.
 
 I may regret adding Spotify at such a high valuation. The business looks strong, now over 700 million 
 monthly active users. Sometimes, we should look to add to our winners. In my opinion, Spotify has proven 
 it is a winner. Assuming the executive team is able to continue its stellar performance,
-I believe the stock is going higher. Just 1 month ago, it reached all time high of $785 
-However, such a high price implies risk should their impressive growth slow.
+I believe the stock is going higher. Just one month ago, it reached all time high of $785. I bought 
+it today at $100 less than 1 month ago. 
 
-On Tesla, I've been lowering my cost basis by selling shares I bought at higher lots. I have 
-"house money" riding in the stock. I added and reduced my position at various times. I sold 76% 
-of my total Tesla stake over the past 3 years, locking in a tidy amount of profits. I want to hang 
-on to my last 100 shares for a long time.
+On my Tesla investment, I've been lowering my cost basis and trimming profits by selling shares I bought at higher lots 
+and some of my shares I bought at $17. I have "house money" riding in the stock. I added and reduced my position at 
+various times. I sold 76% of my total Tesla stake over the past 3 years, locking in a tidy amount of profits.
+I want to hang on to my last 100 shares for a long time.
 
 Companies like Nvidia, Oracle, Microsoft, Amazon, Google and Meta have become a measuring bar for me.
 Do I think this can achieve better returns than the "hyperscalers"? If not, I probably won't add or 
-maybe might lighten up a position.Typically, I will only do this when I need to pay taxes or raise 
+maybe might lighten up a position. Typically, I will only do this when I need to pay taxes or raise 
 cash for living expenses.
 
 In fact, the only stock I've never sold a share of is Microsoft. This is very rare, but it has been 
