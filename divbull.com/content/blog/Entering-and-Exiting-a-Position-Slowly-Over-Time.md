@@ -42,6 +42,6 @@ maybe might lighten up a position. Typically, I will only do this when I need to
 cash for living expenses.
 
 In fact, the only stock I've never sold a share of is Microsoft. This is very rare, but it has been 
-my highest conviction play in the past 5 years. It's worked out great, with some lucky timing to  catch the AI trend. 
+my highest conviction play in the past 5 years. It's worked out great, with some lucky timing to catch the AI trend. 
 This is more exception than the norm. Typically, I will be leveling a stock position over time in line with where 
 I see suitable levels of invested capital versus other stocks. 
