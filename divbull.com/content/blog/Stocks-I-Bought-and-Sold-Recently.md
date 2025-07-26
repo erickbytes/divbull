@@ -180,6 +180,15 @@ Sold: 4 Shares
 
 Remaining: 26 Shares
 
+**AMZN**
+
+I added 3 shares in April at $171. In July, I sold 3 shares that I bought in my taxable brokerage at $228. 
+Essentially my share count remained the same, but my cost basis was reduced by approximately $150 with this maneuver.
+
+Sold: 3 Shares
+
+Remaining: 14 Shares
+
 **RACE**
 
 Ferrari makes one less car than the market demands to always ensure a full order book. I like that it's an
