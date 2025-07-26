@@ -59,8 +59,9 @@ Ryohein Keikaku, Disco Corp and many others.
 
 Reddit is a guilty pleasure for me. I spend way too much time there. They seem to have a mine of fodder for
 AI to train on in their forums. Often I find if I use an app or product nearly every day, it 
-is a signal that it might be a good investment. In January, I bought some shares at $185.
-In April, I bought more at $87. I continued adding on the bounce since April. As it stands,
+is a signal that it might be a good investment. But then again, I could have drawn the same conclusion
+about Stack Overflow 10 years ago and it would have turned out to be incorrect. In January, I bought some shares 
+at $185. In April, I bought more at $87. I continued adding on the bounce since April. As it stands,
 I'm holding the position at breakeven.
 
 **DUOL**
@@ -71,7 +72,9 @@ but I'm willing to make the bet based on the past few earnings calls.
 I'm on a 131 day Spanish streak. Using the product, I'm enjoying it. 
 Their artistic execution makes learning more fun. Per their Q2 earnings report,
 Duolingo added a record number of DAUs, surpassing 10 million paid subscribers.
-They are rapidly expanding their course offering with the help of AI.
+They are rapidly expanding their course offering with the help of AI. I bought the dip in March,
+but regret that I didn't trim profits when stock sharply rose sabove $500 after its most recent earnings report. 
+It's now hovering around $360.
 
 **SOUN**
 
