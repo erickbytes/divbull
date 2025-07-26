@@ -168,6 +168,17 @@ Sold: 18 Shares
 
 Remaining: 75 Shares
 
+**META**
+
+Sold a chunk of Meta shares to raise money. Bullish on their ads business and ability to use AI to improve its
+effectiveness. Facebook, Whatsapp and Instagram. Meta is flashing cash to build an AI superteam. Who knows how it
+will shake out, but Meta will be there competing with AI. Lightened position because I needed extra cash. Believe we will
+see Meta stock at $1000 per share someday.
+
+Sold: 3 Shares
+
+Remaining: 7 Shares
+
 **GOOG**
 
 I chose to make a slight trim of shares I bought at $180 before their earnings report. I regretted it because 
@@ -184,10 +195,10 @@ Remaining: 26 Shares
 
 **AMZN**
 
-Another hyperscaler. Investing in Anthropic. Has Zoox in the autonomous taxi space. The godfather of e-commerce.
-Bezo's baby. C'mon it's Amazon! Yet another cloud computing competitor in AWS. Lots to like. I added 3 shares in 
-April at $171. In July, I sold 3 shares that I bought in my taxable brokerage at $228. Essentially my share count 
-remained the same, but my cost basis was reduced by approximately $150 with this maneuver.
+Another hyperscaler. Investing in Anthropic. Has Zoox in the autonomous taxi space. The godfather of e-commerce with 
+an ads business and streaming. Bezo's baby. C'mon it's Amazon! Yet another cloud computing competitor in AWS. Lots to like. 
+I added 3 shares in April at $171. In July, I sold 3 shares that I bought in my taxable brokerage at $228. Essentially 
+my share count remained the same, but my cost basis was reduced by approximately $150 with this maneuver.
 
 Sold: 3 Shares
 
