@@ -82,8 +82,8 @@ Remaining: 27 Shares
 The edge computing layer of the internet. Cybersecurity.
 I was overweight Cloudflare for a long time and am finally taking profits.
 It was one hell of a ride from $180 in 2021 to the bottom in 2022 where 
-I bought as low as $39.In the end, I have a multi-bagger. The price has gone 
-4x those $39 to $199! Cloudflare is going to win at AI by being an internet 
+I bought as low as $39. In the end, I have a multi-bagger. The price has gone 
+5x those $39 to $199! Cloudflare is going to win at AI by being an internet 
 advocate and mediary between the hyperscalers and the web.
 
 Sold: 66 Shares
