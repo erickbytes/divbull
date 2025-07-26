@@ -50,9 +50,10 @@ like a stake in The Pokemon Company and the Seattle Mariners baseball team, plus
 
 **RAYJ**
 
-Japanese equities are very intriguing to me. This ETF raises my international exposure 
-via Japanese growth stocks like Mitsubishi, Kawasaki, Hitachi, Sanrio, Asics, Toyota,
-Ryohein Keikaku, Disco Corp and many others.
+In addition to Nintendo, other Japanese equities are very intriguing to me. This ETF raises 
+my international exposure via Japanese growth stocks like Mitsubishi, Kawasaki, Hitachi, 
+Sanrio, Asics, Toyota, Ryohein Keikaku, Disco Corp and many others. I like this as a diversification play
+away from the US hyperscalers.
 
 **RDDT**
 
