@@ -141,10 +141,12 @@ Remaining: 75 Shares
 
 **GOOG**
 
-I chose to make a slight trim of shares I bout at $180 before their earnings report. I regretted it because 
+I chose to make a slight trim of shares I bought at $180 before their earnings report. I regretted it because 
 the sentiment has flipped somewhat bullish recently. This sell is more about leveling this to even with my 
 Meta and Spotify investments. YouTube ad revenue is running up. Search revenue is still growing. 
-Gemini has 450 million users, including me. Google is still winning. 
+Cloud computing grew 32% in the most recent quarter. Gemini has 450 million users, including me. 
+All bullish indicators. Google is still winning. The question is what will happen to their
+profit stream of search in the future, which will need to be defended against new AI competition.
 
 Sold: 4 Shares
 
