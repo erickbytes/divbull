@@ -71,6 +71,7 @@ I wish I bought and held more, but feel good with my shares. I intend to
 hold on as Roblox seems to have improving fundamentals every day.
 
 Sold: 33 Shares
+
 Remaining: 27 Shares
 
 
@@ -84,6 +85,7 @@ I bought as low as $39.In the end, I have a multi-bagger. The price has gone
 advocate and mediary between the hyperscalers and the web.
 
 Sold: 66 Shares
+
 Remaining: 40 Shares
 
 
@@ -98,6 +100,7 @@ unrealized gains and sell some higher cost trading share lots at their cost basi
 Nonetheless, long conviction rewarded my portfolio with another multi-bagger.
 
 Sold: 9 Shares
+
 Remaining: 11 Shares
 
 
@@ -108,6 +111,7 @@ This was small amount of the position. It was needed for extra money to pay taxe
 Still very bullish on semiconductors and their role in the AI trend.
 
 Sold: 2 Shares
+
 Remaining: 45 Shares
 
 
@@ -119,6 +123,7 @@ a member, what a treat. The $1.50 hotdog is a shining beacon of corporate strate
 The Costco team is crushing it and people love the store. I'm going to be a shareholder, maybe forever.
 
 Sold: 6 Shares
+
 Remaining: 9 Shares
 
 **BABA**
@@ -129,6 +134,7 @@ the US hyperscalers. I'm bullish on Baba and could see it being a $200 stock som
 collecting my dividends.
 
 Sold: 18 Shares
+
 Remaining: 75 Shares
 
 **GOOG**
@@ -139,6 +145,7 @@ Meta and Spotify investments. YouTube ad revenue is running up. Search revenue i
 Gemini has 450 million users, including me. Google is still winning. 
 
 Sold: 4 Shares
+
 Remaining: 26 Shares
 
 **RACE**
@@ -147,7 +154,8 @@ Ferrari makes one less car than the market demands to always ensure a full order
 international, European equity. I already am heavily invested in several automakers and lightened up to raise funds.
 
 Sold: 1 Share
-Remaining: 4
+
+Remaining: 4 Shares
 
 **SPOT**
 
@@ -156,6 +164,7 @@ I bought them at in an attempt to trade short term. Should have held! I ended up
 Hyper bullish on this stock.
 
 Sold: 10 Shares
+
 Remaining: 17 Shares
 
 **MELI**
@@ -164,6 +173,7 @@ This payments company runs like water through South America. I was overweight at
 it as a source of funds for living expenses. I'm wishing I kept more, but have conviction to keep what I have.
 
 Sold: 5 Shares
+
 Remaining 2 Shares
 
 **O**
@@ -172,6 +182,7 @@ Realty Income is a REIT that won't blow you away with growth. The dividend incom
 I lightened up on my taxable brokerage position, thinking I may buy more someday in my Roth IRA.
 
 Sold: 27 Shares
+
 Remaining: 75 shares
 
 
@@ -182,6 +193,7 @@ but will remain long. Since 2020, Toyota has sold more than 52 million cars at a
 The quarterly dividend is a nice bonus also.
 
 Sold: 10 Shares
+
 Remaining: 20 Shares
 
 
@@ -194,6 +206,7 @@ support its unconventional valuation. Tesla isn't just a car company. It will be
 Never bet against Elon.
  
 Sold: 99 Shares
+
 Remaining: 106 Shares
 
 
