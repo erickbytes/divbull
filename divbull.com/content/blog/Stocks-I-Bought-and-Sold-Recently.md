@@ -9,7 +9,7 @@ as prices fluctuated throughout the year.
 
 **ORCL**
 
-One of my highest conviction holds outside of Microsoft. The hypserscaler no one remembers until
+One of my highest conviction holds outside of Microsoft. The hyperscaler no one remembers until
 they need AI cloud computing capabilities delivered in a sensible and straightforward way.
 Enter Oracle. Add in that they're buying nuclear reactors and signing billion dollar deals,
 with a burgeoning backlog order book and you have a wealth of possible catalysts coming in the future.
@@ -110,7 +110,8 @@ Remaining: 11 Shares
 
 Trimmed my semiconductors ETF investment after it rebounded huge since April, like many stocks.
 This was small amount of the position. It was needed for extra money to pay taxes, like most of these sells.
-Still very bullish on semiconductors and their role in the AI trend.
+Still very bullish on semiconductors and their role in the AI trend. This ETF has all the big names like Nvidia,
+AMD, Taiwan Semiconductor, Intel, Kla Corp, ASML and more.
 
 Sold: 2 Shares
 
