@@ -177,8 +177,8 @@ Remaining: 3 Shares
 
 **SPOT**
 
-I decided to lock in some long term profits around $500. I sold 5 shares around %485 at the cost 
-I bought them at in an attempt to trade short term. Should have held! I ended up buying back 2 shares recently.
+I decided to lock in some long term profits around $500. I sold 5 shares around $485 at the cost 
+I bought them at in an attempt to trade short term. Should have held them all! I ended up buying back 2 shares recently.
 Hyper bullish on this stock.
 
 Sold: 10 Shares
