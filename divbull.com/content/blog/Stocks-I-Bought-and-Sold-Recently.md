@@ -179,12 +179,13 @@ and add on any big dips.
 
 Sold: 5 Shares
 
-Remaining 2 Shares
+Remaining: 2 Shares
 
 **O**
 
-Realty Income is a REIT that won't blow you away with growth. The dividend income is a fun twist on investing.
-I lightened up on my taxable brokerage position, thinking I may buy more someday in my Roth IRA.
+Realty Income is a REIT that won't blow you away with growth. The monthly dividend income is a fun twist on investing.
+I lightened up on my taxable brokerage position, thinking I may buy more someday in my Roth IRA, where the dividends will
+enjoy tax advantages.
 
 Sold: 27 Shares
 
