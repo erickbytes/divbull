@@ -341,6 +341,15 @@ Sold: 40 Shares
 
 Remaining: 0 Shares
 
+**FSLR**
+
+Trimming on my solar allocation. Solar is facing some negative headwinds thanks to President Trump's big beautiful bill.
+Staying long First Solar as my only solar investment.
+
+Sold: 6 Shares
+
+Remaining: 10 Shares
+
 **TSLA**
 
 I caught the wave of Tesla finding profitability from 2019 to 2021. I'm trimming my exposure by taking profits
