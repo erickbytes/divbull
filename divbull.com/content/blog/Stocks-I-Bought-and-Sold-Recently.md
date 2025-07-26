@@ -42,18 +42,20 @@ Switch 2 release after seeing the signs of successful console launch. My intuiti
 as the ADR price is up 49% year to date. I boosted my ADR share count by ~33% in March, April 
 and June after the launch. I have high confidence in Nintendo to ride the Switch 2 console and continue 
 rolling out new games like Donkey Kong Bananza to galvanize the fan base. It will continue to leverage 
-its intellectual property, with the new Florida theme park open for business, plus Super Mario Bros and Zelda movie releases coming. 
-Nintendo seems to have many positive catalysts ahead. Nintendo is creating new generations of fans beyond its past 
-consoles like the Super Nintendo, N64, Gameboy, Nintendo DS, Wii and the original Switch. This is an impressive company, 
-the more you learn about it. I'm enjoying having this international stock in my portfolio. Includes added bonuses 
-like a stake in The Pokemon Company and the Seattle Mariners baseball team, plus a semi-annual dividend. Check out the ["Nintendo Today!" app](https://www.nintendo.com/us/store/products/nintendo-today-mobile/?srsltid=AfmBOor9ScrJgzMyLeOriEzFUitceiCOpHfL-K4HdLHW7O16YyVWRE45) to keep up with happenings.
+its intellectual property. The new Florida "Super Nintendo World" theme park opened in May for business at Universal Studios.
+Plus Super Mario Bros and Zelda movie releases coming. Nintendo seems to have many positive catalysts ahead. 
+Nintendo is creating new generations of fans beyond its past consoles like the Super Nintendo, N64, Gameboy, 
+Nintendo DS, Wii and the original Switch. This is an impressive company, the more you learn about it. 
+I'm enjoying having this international stock in my portfolio. Includes added bonuses like a stake in 
+The Pokemon Company and the Seattle Mariners baseball team, plus a semi-annual dividend. 
+Check out the ["Nintendo Today!" app](https://www.nintendo.com/us/store/products/nintendo-today-mobile/?srsltid=AfmBOor9ScrJgzMyLeOriEzFUitceiCOpHfL-K4HdLHW7O16YyVWRE45) to keep up with happenings.
 
 **RAYJ**
 
 In addition to Nintendo, other Japanese equities are very intriguing to me. This ETF raises 
 my international exposure via Japanese growth stocks like Mitsubishi, Kawasaki, Hitachi, 
 Sanrio, Asics, Toyota, Ryohein Keikaku, Disco Corp and many others. I like this as a diversification play
-away from the US hyperscalers.
+away from the US hyperscalers and S&P.
 
 **RDDT**
 
