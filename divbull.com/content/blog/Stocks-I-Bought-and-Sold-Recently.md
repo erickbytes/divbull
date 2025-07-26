@@ -35,6 +35,18 @@ AI cloud computing capabilities delivered in a sensible and straightforward way.
 Enter Oracle. Add in that they're buying nuclear reactors, data centers and signing billion dollar deals,
 with a burgeoning backlog order book and you have a wealth of possible catalysts coming in the future.
 
+**NTDOY**
+
+After buying at various times since 2021, I added more Nintendo ADRs in anticipation of the runup to their 
+Switch 2 release after seeing the signs of successful console launch. My intuition was rewarded,
+as the ADR price is up 49% year to date. I boosted my ADR share count by ~33% in March, April 
+and June after the launch. I have high confidence in Nintendo to ride the Switch 2 console, tap into 
+its intelectual property with the new Florida theme park plus Super Mario Bros and Zelda movie releases coming.
+Nintendo is creating new generations of fans beyond its past consoles like super nintendo, N64, Gameboy,
+Nintendo DS, Wii and the original switch. This is an impressive company, the more you learn about it. 
+I'm enjoying having this international stock in my portfolio. Includes added bonuses like a stake in The Pokemon
+company and the Seattle Mariners baseball team. Check out the "Nintendo Today" app to keep up with happenings.
+
 **RAYJ**
 
 Japanese equities are very intriguing to me. This ETF raises my international exposure 
@@ -57,18 +69,6 @@ Soundhound AI's voice technology is feeding American businesses' hunger to deplo
 Companies like Oracle, Ali Baba, Meta, Google and Microsoft are spending aggressively to win 
 on the infrastructure side of AI. Soundhound is a way to play the application layer.
 Customers of their voice tech include Five Guys, White Castle and Casey's General Stores.
-
-**NTDOY**
-
-After buying at various times since 2021, I added more Nintendo ADRs in anticipation of the runup to their 
-Switch 2 release after seeing the signs of successful console launch. My intuition was rewarded,
-as the ADR price is up 49% year to date. I boosted my ADR share count by ~33% in March, April 
-and June after the launch. I have high confidence in Nintendo to ride the Switch 2 console, tap into 
-its intelectual property with the new Florida theme park plus Super Mario Bros and Zelda movie releases coming.
-Nintendo is creating new generations of fans beyond its past consoles like super nintendo, N64, Gameboy,
-Nintendo DS, Wii and the original switch. This is an impressive company, the more you learn about it. 
-I'm enjoying having this international stock in my portfolio. Includes added bonuses like a stake in The Pokemon
-company and the Seattle Mariners baseball team. Check out the "Nintendo Today" app to keep up with happenings.
 
 **EL**
 
