@@ -280,6 +280,17 @@ Sold: 10 Shares
 
 Remaining: 20 Shares
 
+**AAPL**
+
+I have been holding a small bag of Apple shares, because its cellular ecosystem is fine tuned to reap profits.
+However, the obvious problem with the stock now is that they have no AI momentum. They're behind.
+I am not holding much Apple individually, but have more exposure in my S&P 500 fund. I took 1 share off
+because I don't like how the company operates with developers and its app store practices. They missed the boat on AI.
+
+Sold: 1 Share
+
+Remaining: 5 Shares
+
 
 **TSLA**
 
