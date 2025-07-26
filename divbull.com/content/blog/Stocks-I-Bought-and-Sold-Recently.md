@@ -68,9 +68,9 @@ I'm holding the position at breakeven.
 
 **DUOL**
 
-Duolingo seems to be growing their MAUs and Duolingo Max paid subscriptions at a good clip. Their app makes 
+Speaking of apps I use everyday. Duolingo seems to be growing their MAUs and Duolingo Max paid subscriptions at a good clip. Their app makes 
 learning an addicting habit. The stock is highly valued, but I'm willing to make the bet based on the past 
-few earnings calls.I'm on a 131 day Spanish streak. Using the product, I'm enjoying it. Their artistic execution 
+few earnings calls. I'm on a 131 day Spanish streak. Using the product, I'm enjoying it. Their artistic execution 
 makes learning more fun. Per their Q2 earnings report, Duolingo added a record number of DAUs, surpassing 10 
 million paid subscribers. They are rapidly expanding their course offering with the help of AI. I bought the dip in March,
 but regret that I didn't trim profits when stock sharply rose above $500 after its most recent earnings report. 
