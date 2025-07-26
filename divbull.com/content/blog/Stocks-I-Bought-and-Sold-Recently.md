@@ -42,7 +42,7 @@ Switch 2 release after seeing the signs of successful console launch. My intuiti
 as the ADR price is up 49% year to date. I boosted my ADR share count by ~33% in March, April 
 and June after the launch. I have high confidence in Nintendo to ride the Switch 2 console and continue 
 rolling out new games like Donkey Kong Bananza to galvanize the fan base. It will continue to leverage 
-its intellectual property, with the new Florida theme park plus Super Mario Bros and Zelda movie releases coming. 
+its intellectual property, with the new Florida theme park open for business, plus Super Mario Bros and Zelda movie releases coming. 
 Nintendo seems to have many positive catalysts ahead. Nintendo is creating new generations of fans beyond its past 
 consoles like the Super Nintendo, N64, Gameboy, Nintendo DS, Wii and the original Switch. This is an impressive company, 
 the more you learn about it. I'm enjoying having this international stock in my portfolio. Includes added bonuses 
