@@ -173,6 +173,7 @@ I chose to make a slight trim of shares I bought at $180 before their earnings r
 the sentiment has flipped somewhat bullish recently. This sell is more about leveling this to even with my 
 Meta and Spotify investments. YouTube ad revenue is running up. Search revenue is still growing. 
 Cloud computing grew 28% year over year in the most recent quarter. Gemini has 450 million users, including me. 
+Waymo is growing, solidifying Google's leadership in autonomous taxis.
 All bullish indicators. Google is still winning. The trillion dollar question is what will happen to their
 profit stream of search in the future, which will need to be defended against new AI competition.
 
@@ -182,8 +183,10 @@ Remaining: 26 Shares
 
 **AMZN**
 
-I added 3 shares in April at $171. In July, I sold 3 shares that I bought in my taxable brokerage at $228. 
-Essentially my share count remained the same, but my cost basis was reduced by approximately $150 with this maneuver.
+Another hyperscaler. Investing in Anthropic. Has Zoox in the autonomous taxi space. The godfather of e-commerce.
+Bezo's baby. C'mon it's Amazon! Yet another cloud computing competitor in AWS. Lots to like. I added 3 shares in 
+April at $171. In July, I sold 3 shares that I bought in my taxable brokerage at $228. Essentially my share count 
+remained the same, but my cost basis was reduced by approximately $150 with this maneuver.
 
 Sold: 3 Shares
 
