@@ -1,0 +1,202 @@
+Title: Portfolio Moves 
+Date: 2025-07-25 21:00 
+Category: Essay
+
+
+# Buys
+These are stocks I bought this year, 2025. Most were bought dollar cost average 
+as prices fluctuated throughout the year.
+
+**ORCL**
+
+One of my highest conviction holds outside of Microsoft. The hypserscaler no one remembers until
+they need AI cloud computing capabilities delivered in a sensible and straightforward way.
+Enter Oracle. Add in that they're buying nuclear reactors and signing billion dollar deals,
+with a burgeoning backlog order book and you have a wealth of possible catalysts coming in the future.
+
+**NVDA**
+
+Another high conviction hold. Picks and shovels for the AI revolution. 
+Hyperscalers pay Nvidia for AI. I beefed up my long position, picking up shares
+from $95 to $125. I paid $12/share for about 60 shares, what's left from my first buy in 2020.
+
+**RAYJ**
+
+Japanese equities are very intriguing to me. This ETF raises my international exposure 
+via Japanese growth stocks like Mitsubishi, Kawasaki, Hitachi, Sanrio, Asics, Toyota,
+Ryohein Keikaku, Disco Corp and many others.
+
+**DUOL**
+
+Duolingo seems to be growing their MAUs and Duolingo Max paid subscriptions at a good clip. 
+Their app makes learning an addicting habit. The stock is highly valued, 
+but I'm willing to make the bet based on the past few earnings calls.
+
+**SOUN**
+
+Soundhound AI's voice technology is feeding American businesses' hunger to deploy agentic AI.
+Companies like Oracle, Ali Baba, Meta, Google and Microsoft are spending aggressively to win 
+on the infrastructure side of AI,
+
+**EL**
+
+I'm sized small into a rebound stock. Now that I'm married I have realized the opportunity in the women's cosmetics and
+beauty industry. Estee Lauder is a familiar name that is bouncing as of late. I rolled the dice with a $500 starter position.
+I'm up 20%, $108.69. Going well so far!
+
+**HOOD**
+
+Similar to EL, I'm following a hot hand in the market. Robinhood is one of the fastest moving "momentum stocks". 
+It's gone up a lot, but I decided to play a small position here also. So far, I'm up 14%, $79. Like Estee Lauder, 
+if it ever has a pullback, I'd consider adding more. Or maybe I'll add on the way up. That's the way to do it 
+for some of the best stocks.
+
+**SWPPX**
+
+Buying the best 500 US companies via an index fund. I added more S&P 500 index in April near the bottom
+near peak panic in April.
+
+# Sells
+
+I sold part of my positions in these stocks because they went up after being down for years. 
+In some cases, I sold off my higher cost lots in pieces at different times as the shares 
+continued rising this year. The share counts represent what was sold only since January 2025 to now.
+
+
+**RBLX**
+
+Happy to see this stock finally lift in price after years in the dumps.
+I wish I bought and held more, but feel good with my shares. I intend to 
+hold on as Roblox seems to have improving fundamentals every day.
+
+Sold: 33 Shares
+Remaining: 27 Shares
+
+
+**NET**
+
+The edge computing layer of the internet. Cybersecurity.
+I was overwreight Cloudflare for a long time and am finally taking profits.
+It was one hell of a ride from $180 in 2021 to the bottom in 2022 where 
+I bought as low as $39.In the end, I have a multi-bagger. The price has gone 
+4x those $39 to $199! Cloudflare is going to win at AI by being an internet 
+advocate and mediary between the hyperscalers and the web.
+
+Sold: 66 Shares
+Remaining: 40 Shares
+
+
+**COIN**
+ 
+Cryptocurrency is here. Bitcoin can't be ignored. This company will be at the forefront of bringing
+crypto to the people. The stock rebounded from its all-time low of $31, thanks to the US government's
+anti-crypto policies that have since reversed in support for cryptocurrencies. I scooped shares
+along the way, but this one was a super volatile ride that made it extremely frustrating at times. 
+Like many of the stocks here, I could have made. I decided to take small profits from 
+unrealized gains and sell some higher cost trading share lots at their cost basis on the way up. 
+Nonetheless, long conviction rewarded my portfolio with another multi-bagger.
+
+Sold: 9 Shares
+Remaining: 11 Shares
+
+
+**SOXX**
+
+Trimmed my semiconductors ETF investment after it rebounded huge since April, like many stocks.
+This was small amount of the position. It was needed for extra money to pay taxes, like most of these sells.
+Still very bullish on semiconductors and their role in the AI trend.
+
+Sold: 2 Shares
+Remaining: 45 Shares
+
+
+**COST**
+
+Costco stock has been good to me since I bought my first share in 2023. I took some profits from $949-$1034 per share. 
+The business is so impressive to me. I'm a fan and a shareholder. Sometimes I get to visit by knowing someone who is 
+a member, what a treat. The $1.50 hotdog is a shining beacon of corporate strategy at its finest. 
+The Costco team is crushing it and people love the store. I'm going to be a shareholder, maybe forever.
+
+Sold: 6 Shares
+Remaining: 9 Shares
+
+**BABA**
+
+I felt a bit overweight in this Chinese stock. So far, I'm in the green with profits on the position.
+This is the Chinese hyperscaler infrastructure play. It has a better case that it is undervalued compared to 
+the US hyperscalers. I'm bullish on Baba and could see it being a $200 stock someday. Staying long my ADRs and
+collecting my dividends.
+
+Sold: 18 Shares
+Remaining: 75 Shares
+
+**GOOG**
+
+I shose to make a slight trim of shares I bout at $180 before their earnings report. I regretted it because 
+the sentiment has flipped somewhat bullish recently. This sell is more about leveling this to even with my 
+Meta and Spotify investments. YouTube ad revenue is running up. Search revenue is still growing. 
+Gemini has 450 million users, including me. Google is still winning. 
+
+Sold: 4 Shares
+Remaining: 26 Shares
+
+**RACE**
+
+Ferrari makes one less car than the market demands to always ensure a full order book. I like that it's 
+international, European equity. I already am heavily invested in several automakers and lightened up to raise funds.
+
+Sold: 1 Share
+Remaining: 4
+
+**SPOT**
+
+I decided to lock in some long term profits around $500. I sold 5 shares around %485 at the cost 
+I bought them at in an attempt to trade short term. Should have held! I ended up buying back 2 shares recently.
+Hyper bullish on this stock.
+
+Sold: 10 Shares
+Remaining: 17 Shares
+
+**MELI**
+
+This payments company runs like water through South America. I was overweight at the beginning of the year, so I used
+it as a source of funds for living expenses. I'm wishing I kept more, but have conviction to keep what I have.
+
+Sold: 5 Shares
+Remaining 2 Shares
+
+**O**
+
+Realty Income is a REIT that won't blow you away with growth. The dividend income is a fun twist on investing.
+I lightened up on my taxable brokerage position, thinking I may buy more someday in my Roth IRA.
+
+Sold: 27 Shares
+Remaining: 75 shares
+
+
+**TM**
+
+Have been holding Toyota ADRs for years. I trimmed my higher cost lots,
+but will remain long. Since 2020, Toyota has sold more than 52 million cars at an average price of $32,000.
+The quarterly dividend is a nice bonus also.
+
+Sold: 10 Shares
+Remaining: 20 Shares
+
+
+**TSLA**
+
+I caught the wave of Tesla finding profitability from 2019 to 2021. I'm trimming my exposure by taking profits
+after a wild ride the past 6 years. I'm keeping the rest as a long term hold. I will be monitoring 
+the robotaxi expansion and optimus progress dilligently. Hopefully auto sales will pick back up to help
+support its unconventional valuation. Tesla isn't just a car company. It will be so much more according to Elon.
+Never bet against Elon.
+ 
+Sold: 99 Shares
+Remaining: 106 Shares
+
+
+# Conclusion
+
+Past performance is not indicative of future returns. These stocks and my convictions are not financial advice.
+Research, learn and invest at your own risk and good luck.
