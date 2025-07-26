@@ -292,6 +292,27 @@ Sold: 1 Share
 Remaining: 5 Shares
 
 
+**XYZ**
+
+I got fed up with Block after buying the top in 2021. I sold out at a loss. Complete exit. Not much good to say about 
+Square, I mean Block, after holding for 4 years. Good riddance. Funny enough, after I sold out, it was added to the S&P 500, 
+so I guess I will ride the upside in my S&P fund if it ever materializes.
+
+Sold: 20 Shares
+
+Remaining: 0 Shares
+
+**ENPH**
+
+My solar stocks have mostly gone down and decreased the value of my investments. I believe in solar, but the industry seems 
+to settling out with winners and losers. I decided to close out my entire position in Enphase Energy. I couldn't justify 
+staying invested with low conviction when so many better companies are out there. Earnings reports seemed to always disappoint.
+Took a loss and closed out this solar bet.
+
+Sold: 40 Shares
+
+Remaining: 0 Shares
+
 **TSLA**
 
 I caught the wave of Tesla finding profitability from 2019 to 2021. I'm trimming my exposure by taking profits
