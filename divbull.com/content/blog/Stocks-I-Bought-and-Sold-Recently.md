@@ -55,6 +55,14 @@ Japanese equities are very intriguing to me. This ETF raises my international ex
 via Japanese growth stocks like Mitsubishi, Kawasaki, Hitachi, Sanrio, Asics, Toyota,
 Ryohein Keikaku, Disco Corp and many others.
 
+**RDDT**
+
+Reddit is a guilty pleasure for me. I spend way too much time there. They seem to have a mine of fodder for
+AI to train on in their forums. Often I find if I use an app or product nearly every day, it 
+is a signal that it might be a good investment. In January, I bought some shares at $185.
+In April, I bought more at $87. I continued adding on the bounce since April. As it stands,
+I'm holding the position at breakeven.
+
 **DUOL**
 
 Duolingo seems to be growing their MAUs and Duolingo Max paid subscriptions at a good clip. 
