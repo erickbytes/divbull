@@ -86,7 +86,7 @@ so I added more to a winner. Hoping it pays off in the future, but so far 2025 h
 **SOUN**
 
 Soundhound AI's voice technology is feeding American businesses' hunger to deploy agentic AI.
-Companies like Oracle, Ali Baba, Meta, Google and Microsoft are spending aggressively to win 
+Companies like Oracle, Alibaba, Meta, Google and Microsoft are spending aggressively to win 
 on the infrastructure side of AI. Soundhound is a way to play the application layer.
 Customers of their voice tech include Five Guys, White Castle and Casey's General Stores.
 
