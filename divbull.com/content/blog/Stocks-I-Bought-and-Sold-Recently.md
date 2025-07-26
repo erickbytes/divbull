@@ -79,9 +79,10 @@ given what I have witnessed so far.
 
 **FUBO**
 
-I bought more Fubo TV since the merger deal with Disney was announced. It hasn't been great adding more since the initial pop in early January.
-I believe that since will go higher once the deal with Disney closes. Fubo was making moves before they struck an agreement with Disney,
-so I added more to a winner. Hoping it pays off in the future, but so far 2025 has not been great for the stock outside of the first week of the year.
+I bought more Fubo TV since the merger deal with Disney was announced. It hasn't been great adding more since 
+the initial pop off the deal news in early January. I believe that this will go higher once the deal with Disney closes. 
+Fubo was making moves before they struck an agreement with Disney, so I added more to a winner. 
+Hoping it pays off in the future, but so far 2025 has not been great for the stock outside of the first week of the year.
 I like the stock as a play on streaming and live sports.
 
 **SOUN**
