@@ -33,7 +33,9 @@ Duolingo seems to be growing their MAUs and Duolingo Max paid subscriptions at a
 Their app makes learning an addicting habit. The stock is highly valued, 
 but I'm willing to make the bet based on the past few earnings calls.
 I'm on a 131 day Spanish streak. Using the product, I'm enjoying it. 
-Their artistic execution makes learning more fun. 
+Their artistic execution makes learning more fun. Per their Q2 earnings report,
+Duolingo added a record number of DAUs, surpassing 10 million paid subscribers.
+They are rapidly expanding their course offering with the help of AI.
 
 **SOUN**
 
