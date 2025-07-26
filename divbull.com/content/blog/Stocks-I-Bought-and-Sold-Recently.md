@@ -134,7 +134,7 @@ Remaining: 45 Shares
 
 **CROX**
 
-I like Crocs product and business concept. Footwear hhas a huge total addressable market.
+I like the Crocs product and business concept. Footwear has a huge total addressable market.
 I see their product everywhere I go. I think this is a possible "value stock". It is a business with strong management.
 I like the stock. We'll see where it goes, I lightened the position because it has not moved much lately,
 and think there are better opportunities.
