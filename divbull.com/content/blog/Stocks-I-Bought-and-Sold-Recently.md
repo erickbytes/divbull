@@ -154,12 +154,12 @@ Remaining: 26 Shares
 
 **RACE**
 
-Ferrari makes one less car than the market demands to always ensure a full order book. I like that it's 
+Ferrari makes one less car than the market demands to always ensure a full order book. I like that it's an
 international, European equity. I already am heavily invested in several automakers and lightened up to raise funds.
 
 Sold: 1 Share
 
-Remaining: 4 Shares
+Remaining: 3 Shares
 
 **SPOT**
 
@@ -174,7 +174,8 @@ Remaining: 17 Shares
 **MELI**
 
 This payments company runs like water through South America. I was overweight at the beginning of the year, so I used
-it as a source of funds for living expenses. I'm wishing I kept more, but have conviction to keep what I have.
+it as a source of funds for living expenses. I'm wishing I kept more MercadoLibre shares, but have conviction to keep what I have
+and add on any big dips.
 
 Sold: 5 Shares
 
