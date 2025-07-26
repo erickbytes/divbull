@@ -294,9 +294,9 @@ Remaining: 5 Shares
 
 **XYZ**
 
-I got fed up with Block after buying the top in 2021. I sold out at a loss. Complete exit. Not much good to say about 
-Square, I mean Block, after holding for 4 years. Good riddance. Funny enough, after I sold out, it was added to the S&P 500, 
-so I guess I will ride the upside in my S&P fund if it ever materializes.
+I got fed up with Block after buying the top in 2021 and buying the dip since. I sold out at a loss. Complete exit. 
+Not much good to say about Square, I mean Block, after holding for 4 years. Good riddance. After I sold out, 
+it was added to the S&P 500, so I guess I will ride the upside in my S&P fund if it ever materializes.
 
 Sold: 20 Shares
 
