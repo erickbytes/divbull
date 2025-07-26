@@ -386,4 +386,4 @@ Remaining: 106 Shares
 # Conclusion
 
 Past performance is not indicative of future returns. These stocks and my convictions are not financial advice.
-Research, learn and invest at your own risk and good luck.
+Research, learn and invest at your own risk. Good luck.
