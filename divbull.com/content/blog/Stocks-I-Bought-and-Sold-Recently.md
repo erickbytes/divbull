@@ -101,7 +101,7 @@ in the stock market.
 
 Sold: 7 Shares
 
-Remaing: 13 Shares
+Remaining: 13 Shares
 
 
 **COIN**
