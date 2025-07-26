@@ -46,7 +46,7 @@ its intellectual property, with the new Florida theme park open for business, pl
 Nintendo seems to have many positive catalysts ahead. Nintendo is creating new generations of fans beyond its past 
 consoles like the Super Nintendo, N64, Gameboy, Nintendo DS, Wii and the original Switch. This is an impressive company, 
 the more you learn about it. I'm enjoying having this international stock in my portfolio. Includes added bonuses 
-like a stake in The Pokemon company and the Seattle Mariners baseball team. Check out the "Nintendo Today" app 
+like a stake in The Pokemon Company and the Seattle Mariners baseball team. Check out the "Nintendo Today" app 
 to keep up with happenings.
 
 **RAYJ**
