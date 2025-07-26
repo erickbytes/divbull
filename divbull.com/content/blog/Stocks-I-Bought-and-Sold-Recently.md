@@ -18,7 +18,8 @@ with a burgeoning backlog order book and you have a wealth of possible catalysts
 
 Another high conviction hold. Picks and shovels for the AI revolution. 
 Hyperscalers pay Nvidia for AI. I beefed up my long position, picking up shares
-from $95 to $147. I paid $12/share for about 60 shares, what's left from my first buy in 2020.
+from $95 to $147. I paid $12/share for 50 shares in 2021. That's what I'm still holding from my 
+first buy after stock splits. Good enough for a 13x return. Staying long.
 
 **RAYJ**
 
