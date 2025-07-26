@@ -3,7 +3,7 @@ Date: 2025-07-25 21:00
 Category: Essay
 
 
-# Buys
+### Buys
 These are stocks I bought this year, 2025. Most were bought dollar cost average 
 as prices fluctuated throughout the year.
 
@@ -57,7 +57,7 @@ for some of the best stocks.
 Buying the best 500 US companies via an index fund. I added more S&P 500 index in April near the bottom
 near peak panic in April.
 
-# Sells
+### Sells
 
 I sold part of my positions in these stocks because they went up after being down for years. 
 In some cases, I sold off my higher cost lots in pieces at different times as the shares 
