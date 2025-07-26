@@ -36,13 +36,14 @@ but I'm willing to make the bet based on the past few earnings calls.
 
 Soundhound AI's voice technology is feeding American businesses' hunger to deploy agentic AI.
 Companies like Oracle, Ali Baba, Meta, Google and Microsoft are spending aggressively to win 
-on the infrastructure side of AI,
+on the infrastructure side of AI. Soundhound is a way to play the application layer.
+Customers of their voice tech include Five Guys, White Castle and Casey's General Stores.
 
 **EL**
 
-I'm sized small into a rebound stock. Now that I'm married I have realized the opportunity in the women's cosmetics and
-beauty industry. Estee Lauder is a familiar name that is bouncing as of late. I rolled the dice with a $500 starter position.
-I'm up 20%, $108.69. Going well so far!
+I'm sized small into a rebound stock. Now that I'm married I have realized the opportunity in 
+the women's cosmetics andbeauty industry. Estee Lauder is a familiar name that is bouncing as 
+of late. I rolled the dice with a $500 starter position. I'm up 20%, $108.69. Going well so far!
 
 **HOOD**
 
