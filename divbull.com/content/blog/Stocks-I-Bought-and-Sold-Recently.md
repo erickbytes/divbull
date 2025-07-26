@@ -48,12 +48,13 @@ Customers of their voice tech include Five Guys, White Castle and Casey's Genera
 **NTDOY**
 
 After buying at various times since 2021, I added more Nintendo ADRs in anticipation of the runup to their 
-Switch 2 release after seeing the signs of successful console launch. My inutition was rewarded,
+Switch 2 release after seeing the signs of successful console launch. My intuition was rewarded,
 as the ADR price is up 49% year to date. I boosted my ADR share count by ~33% in March, April 
 and June after the launch. I have high confidence in Nintendo to ride the Switch 2 console, tap into 
 its intelectual property with the new Florida theme park plus Super Mario Bros and Zelda movie releases coming.
 Nintendo is creating new generations of fans beyond its past consoles like super nintendo, N64, Gameboy,
-Nintendo DS and Wii. This is an impressive company, the more you learn about it.
+Nintendo DS, Wii and the original switch. This is an impressive company, the more you learn about it. 
+I'm enjoying having this international stock in my portfolio.
 
 **EL**
 
