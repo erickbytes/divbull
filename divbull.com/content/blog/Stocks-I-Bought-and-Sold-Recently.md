@@ -54,7 +54,8 @@ and June after the launch. I have high confidence in Nintendo to ride the Switch
 its intelectual property with the new Florida theme park plus Super Mario Bros and Zelda movie releases coming.
 Nintendo is creating new generations of fans beyond its past consoles like super nintendo, N64, Gameboy,
 Nintendo DS, Wii and the original switch. This is an impressive company, the more you learn about it. 
-I'm enjoying having this international stock in my portfolio.
+I'm enjoying having this international stock in my portfolio. Includes added bonuses like a stake in The Pokemon
+company and the Seattle Mariners baseball team.
 
 **EL**
 
@@ -246,6 +247,17 @@ and add on any big dips.
 Sold: 5 Shares
 
 Remaining: 2 Shares
+
+**DIS**
+
+Disney's theme parks are a cash machine. Its streaming service is now profitable. Its intellectual property is loved globally 
+from Mickey and Minnie to the Pixar universe and beyond. In 2024, it had the top 2 theatrical releases with Deadpool and Wolverine
+and Inside Out 2. Marvel is still a big draw. They are finalizing a deal with Fubo to solidify the live sports offering in addition to ESPN.
+I had bought more heavily the past few years, and felt overweight here, so I've reduced my share count now that stock has bounced up above $120. 
+
+Sold: 18 Shares
+
+Remaining: 43 Shares
 
 **O**
 
