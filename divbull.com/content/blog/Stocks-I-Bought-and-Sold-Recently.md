@@ -87,7 +87,7 @@ I like the stock as a play on streaming and live sports.
 **SOUN**
 
 Soundhound AI's voice technology is feeding American businesses' hunger to deploy agentic AI.
-Companies like Oracle, Alibaba, Meta, Google and Microsoft are spending aggressively to win 
+Companies like Oracle, Alibaba, Meta, Amazon, Google and Microsoft are spending aggressively to win 
 on the infrastructure side of AI. Soundhound is a way to play the application layer.
 Customers of their voice tech include Five Guys, White Castle and Casey's General Stores.
 
