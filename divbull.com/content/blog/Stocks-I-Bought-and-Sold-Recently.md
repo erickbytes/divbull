@@ -266,6 +266,7 @@ Sold: 10 Shares
 
 Remaining: 17 Shares
 
+
 **MELI**
 
 This payments company runs like water through South America. I was overweight at the beginning of the year, so I used
@@ -307,6 +308,17 @@ The quarterly dividend is a nice bonus also.
 Sold: 10 Shares
 
 Remaining: 20 Shares
+
+**PINS**
+
+Pinterest shares have always shown promise to me. After 4 years, it has yet to come to fruition. I'm still underwater on my shares.
+I took out some of my invested capital at cost more or less for this reason. The promise is still there, with a company that is actively using
+and developing new AI capabilities.
+
+Sold: 10 Shares
+
+Remaining: 40 Shares
+
 
 **AAPL**
 
