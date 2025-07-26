@@ -42,7 +42,7 @@ Customers of their voice tech include Five Guys, White Castle and Casey's Genera
 **EL**
 
 I'm sized small into a rebound stock. Now that I'm married I have realized the opportunity in 
-the women's cosmetics andbeauty industry. Estee Lauder is a familiar name that is bouncing as 
+the women cosmetics and beauty industry. Estee Lauder is a familiar name that is bouncing as 
 of late. I rolled the dice with a $500 starter position. I'm up 20%, $108.69. Going well so far!
 
 **HOOD**
