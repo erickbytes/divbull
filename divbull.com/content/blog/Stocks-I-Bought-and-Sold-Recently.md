@@ -140,6 +140,7 @@ I like the stock. We'll see where it goes, I lightened the position because it h
 and think there are better opportunities.
 
 Sold: 9 Shares
+
 Remaining: 45 Shares
 
 
