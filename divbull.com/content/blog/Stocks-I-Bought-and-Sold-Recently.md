@@ -55,7 +55,7 @@ its intelectual property with the new Florida theme park plus Super Mario Bros a
 Nintendo is creating new generations of fans beyond its past consoles like super nintendo, N64, Gameboy,
 Nintendo DS, Wii and the original switch. This is an impressive company, the more you learn about it. 
 I'm enjoying having this international stock in my portfolio. Includes added bonuses like a stake in The Pokemon
-company and the Seattle Mariners baseball team.
+company and the Seattle Mariners baseball team. Check out the "Nintendo Today" app to keep up with happenings.
 
 **EL**
 
@@ -97,12 +97,12 @@ Remaining: 27 Shares
 
 **NET**
 
-The edge computing layer of the internet. Cybersecurity.
-I was overweight Cloudflare for a long time and am finally taking profits.
-It was one hell of a ride from buying in near $200 in 2021 to the bottom in 2022 where 
-I bought as low as $39. In the end, I have a multi-bagger. The price has gone 
-5x those $39 shares to $199! Only Tesla, Nvidia, Spotify and Coinbase have achieved better returns for me.
-Cloudflare is going to win at AI by being an internet advocate and mediary between the hyperscalers and the web.
+The edge computing layer of the internet. Cybersecurity. I was overweight Cloudflare for a long time 
+and am finally taking profits and trimmed my shares I bought from $125 to $200 before the drop.
+It was one hell of a ride from buying in near $200 in 2021 to the bottom in 2022 where I bought 
+as low as $39. In the end, I have a multi-bagger. The price has gone 5x those $39 shares to $199! Only 
+Tesla, Nvidia, Spotify and Coinbase have achieved better returns for me. Cloudflare is going to win at 
+AI by being an internet advocate and mediary between the hyperscalers and the web.
 
 Sold: 66 Shares
 
