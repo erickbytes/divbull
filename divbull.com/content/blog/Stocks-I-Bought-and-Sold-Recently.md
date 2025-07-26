@@ -159,7 +159,7 @@ I chose to make a slight trim of shares I bought at $180 before their earnings r
 the sentiment has flipped somewhat bullish recently. This sell is more about leveling this to even with my 
 Meta and Spotify investments. YouTube ad revenue is running up. Search revenue is still growing. 
 Cloud computing grew 28% in the most recent quarter. Gemini has 450 million users, including me. 
-All bullish indicators. Google is still winning. The question is what will happen to their
+All bullish indicators. Google is still winning. The trillion dollar question is what will happen to their
 profit stream of search in the future, which will need to be defended against new AI competition.
 
 Sold: 4 Shares
