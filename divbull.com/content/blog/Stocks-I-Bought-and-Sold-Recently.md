@@ -59,9 +59,11 @@ near peak panic in April.
 
 ### Sells
 
-I sold part of my positions in these stocks because they went up after being down for years. 
-In some cases, I sold off my higher cost lots in pieces at different times as the shares 
-continued rising this year. The share counts represent what was sold only since January 2025 to now.
+I sold part of my positions in stocks like RBLX, COIN and NET because they went up after being down for years. 
+In others like SPOT, RACE and MELI I'm trying to jump on a train that has been humming along.
+In some cases, I was doing more pruning than big sells. Often, I sold off my higher cost lots in pieces 
+at different times as the shares continued rising this year. The share counts represent what was sold only 
+since January 2025 to now.
 
 
 **RBLX**
