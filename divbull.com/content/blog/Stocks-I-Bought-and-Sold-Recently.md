@@ -95,7 +95,7 @@ Cryptocurrency is here. Bitcoin can't be ignored. This company will be at the fo
 crypto to the people. The stock rebounded from its all-time low of $31, thanks to the US government's
 anti-crypto policies that have since reversed in support for cryptocurrencies. I scooped shares
 along the way, but this one was a super volatile ride that made it extremely frustrating at times. 
-Like many of the stocks here, I could have made. I decided to take small profits from 
+Like many of the stocks here, I could have made more. I decided to take small profits from 
 unrealized gains and sell some higher cost trading share lots at their cost basis on the way up. 
 Nonetheless, long conviction rewarded my portfolio with another multi-bagger.
 
