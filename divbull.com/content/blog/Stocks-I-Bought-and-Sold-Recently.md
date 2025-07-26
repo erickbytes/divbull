@@ -18,7 +18,7 @@ with a burgeoning backlog order book and you have a wealth of possible catalysts
 
 Another high conviction hold. Picks and shovels for the AI revolution. 
 Hyperscalers pay Nvidia for AI. I beefed up my long position, picking up shares
-from $95 to $125. I paid $12/share for about 60 shares, what's left from my first buy in 2020.
+from $95 to $147. I paid $12/share for about 60 shares, what's left from my first buy in 2020.
 
 **RAYJ**
 
@@ -31,6 +31,8 @@ Ryohein Keikaku, Disco Corp and many others.
 Duolingo seems to be growing their MAUs and Duolingo Max paid subscriptions at a good clip. 
 Their app makes learning an addicting habit. The stock is highly valued, 
 but I'm willing to make the bet based on the past few earnings calls.
+I'm on a 131 day Spanish streak. Using the product, I'm enjoying it. 
+Their artistic execution makes learning more fun. 
 
 **SOUN**
 
@@ -81,7 +83,7 @@ Remaining: 27 Shares
 
 The edge computing layer of the internet. Cybersecurity.
 I was overweight Cloudflare for a long time and am finally taking profits.
-It was one hell of a ride from $180 in 2021 to the bottom in 2022 where 
+It was one hell of a ride from buying in near $200 in 2021 to the bottom in 2022 where 
 I bought as low as $39. In the end, I have a multi-bagger. The price has gone 
 5x those $39 shares to $199! Only Tesla, Nvidia, Spotify and Coinbase have achieved better returns for me.
 Cloudflare is going to win at AI by being an internet advocate and mediary between the hyperscalers and the web.
@@ -128,6 +130,16 @@ AMD, Taiwan Semiconductor, Intel, Kla Corp, ASML and more.
 
 Sold: 2 Shares
 
+Remaining: 45 Shares
+
+**CROX**
+
+I like Crocs product and business concept. I see their product everywhere. 
+I think this is a possible "value stock", and business with strong management.
+I like the stock. We'll see where it goes, I lightened the position because it has not moved much lately,
+and think there are better opportunities.
+
+Sold: 9 Shares
 Remaining: 45 Shares
 
 
