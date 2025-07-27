@@ -177,9 +177,9 @@ Remaining: 11 Shares
 **SOXX**
 
 Trimmed my semiconductors ETF investment after it rebounded huge since April, like many stocks.
-This was small amount of the position. It was needed for extra money to pay taxes, like most of these sells.
-Still very bullish on semiconductors and their role in the AI trend. This ETF has all the big names like Nvidia,
-AMD, Taiwan Semiconductor, Intel, Kla Corp, ASML and more.
+This was a small amount of the position, approximately 4% my stake. It was needed for extra money to pay taxes, 
+like most of these sells. Still very bullish on semiconductors and their role in the AI trend. 
+This ETF has all the big names like Nvidia, AMD, Taiwan Semiconductor, Intel, Kla Corp, ASML and more.
 
 Sold: 2 Shares
 
@@ -300,8 +300,7 @@ Remaining: 43 Shares
 **O**
 
 Realty Income is a REIT that won't blow you away with growth. The monthly dividend income is a fun twist on investing.
-I lightened up on my taxable brokerage position, and bought some in my Roth IRA where the dividends will
-enjoy tax advantages.
+I lightened up on my taxable brokerage position, and bought some in my Roth IRA where the dividends will enjoy tax advantages.
 
 Sold: 27 Shares
 
