@@ -327,7 +327,7 @@ Remaining: 20 Shares
 
 Pinterest shares have always shown promise to me. After 4 years, it has yet to come to fruition. I'm still underwater on my shares.
 I took out some of my invested capital at cost more or less for this reason. The promise is still there, with a company that is actively using
-and developing new AI capabilities.
+and developing new AI capabilities. Pinterest posted a record 570 million global monthly active users in Q1, up 10%.
 
 Sold: 10 Shares
 
