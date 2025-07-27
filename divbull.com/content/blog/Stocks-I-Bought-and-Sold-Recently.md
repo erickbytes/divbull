@@ -264,8 +264,9 @@ Remaining: 14 Shares
 
 **RACE**
 
-Ferrari makes one less car than the market demands to always ensure a full order book. I like that it's an
-international, European equity. I already am heavily invested in several automakers and lightened up to raise funds.
+Ferrari makes one less car than the market demands to always ensure a full order book. They mentioned their order book is 
+"covered" through 2026 on their Q1 earnings call. I like that it's an international, European equity. I already am heavily 
+invested in several automakers and lightened up at all-time highs to raise funds.
 
 Sold: 1 Share
 
