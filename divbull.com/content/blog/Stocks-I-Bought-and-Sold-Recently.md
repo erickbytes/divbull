@@ -63,7 +63,7 @@ away from the US hyperscalers and S&P.
 **RDDT**
 
 Reddit is a guilty pleasure for me. I spend way too much time there. They seem to have a mine of fodder for
-AI to train on in their forums. In Q1, they reported their data licensing business grew 66% year over year.
+AI to train on in their forums. They reported that in Q1 of this year, their data licensing business grew 66% year over year.
 They also recorded their first quarterly profit since their IPO. Additionally, their ads business is an opportunity for growth.
 Often I find if I use an app or product nearly every day, it is a signal that it might be a good investment. 
 But then again, I could have drawn the same conclusion about Stack Overflow 10 years ago and it would have 
@@ -127,10 +127,9 @@ since January 2025 to now. I had to decide which stocks to sell in order to pay 
 
 **RBLX**
 
-Happy to see this stock finally lift in price after years in the dumps.
-I wish I bought and held more, but feel good with my shares. I intend to 
-hold on as Roblox seems to have improving fundamentals every day. In Q1 earnings,
-they had 8 million daily active users, with the average user spending 2.4 hours per day on Robloc.
+Happy to see this stock finally lift in price after years in the dumps. I wish I bought and held more, but feel good 
+with the shares I've kept. I intend to hold on as Roblox seems to have improving fundamentals every day. In this Q1 
+of this year, they had 8 million daily active users, with the average user spending 2.4 hours per day on Roblox.
 
 Sold: 33 Shares
 
