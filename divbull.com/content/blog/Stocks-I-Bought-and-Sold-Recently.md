@@ -111,6 +111,7 @@ for some of the best stocks.
 Buying the best 500 US companies via an index fund. I added more S&P 500 index in April near the bottom
 near peak panic in April.
 
+
 ### Sells
 
 I sold part of my positions in stocks like RBLX, COIN and NET because they went up after being down for years. 
@@ -299,7 +300,7 @@ Remaining: 43 Shares
 **O**
 
 Realty Income is a REIT that won't blow you away with growth. The monthly dividend income is a fun twist on investing.
-I lightened up on my taxable brokerage position, thinking I may buy more someday in my Roth IRA, where the dividends will
+I lightened up on my taxable brokerage position, and bought some in my Roth IRA where the dividends will
 enjoy tax advantages.
 
 Sold: 27 Shares
