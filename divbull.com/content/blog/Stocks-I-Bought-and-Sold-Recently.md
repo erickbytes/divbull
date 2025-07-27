@@ -49,8 +49,10 @@ Nintendo DS, Wii and the original Switch. This is an impressive company, the mor
 I'm enjoying having this international stock in my portfolio. Includes added bonuses like a stake in 
 The Pokemon Company and the Seattle Mariners baseball team, plus a semi-annual dividend. 
 I have been loving the ["Nintendo Today!" app](https://www.nintendo.com/us/store/products/nintendo-today-mobile/?srsltid=AfmBOor9ScrJgzMyLeOriEzFUitceiCOpHfL-K4HdLHW7O16YyVWRE45) to keep up with happenings. 
-It makes you realize the depth of their IP. It's helped me see how good they are at building hype 
-for events like Switch 2 previews and "Nintendo Direct".
+It makes you realize the depth and breadth of their IP. It's also showcased how good they are at building hype 
+for events like Switch 2 previews and "Nintendo Direct". For example, the Donkey Kong Bananza Nintendo Direct 
+seemed to make a big splash online for the game before it released. From my anecdotal observation, the game has been praised
+by its players online. These type of high profile game releases will drive more console sales also.
 
 
 **RAYJ**
