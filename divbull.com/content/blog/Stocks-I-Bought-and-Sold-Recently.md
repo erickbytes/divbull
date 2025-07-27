@@ -48,7 +48,10 @@ Nintendo is creating new generations of fans beyond its past consoles like the S
 Nintendo DS, Wii and the original Switch. This is an impressive company, the more you learn about it. 
 I'm enjoying having this international stock in my portfolio. Includes added bonuses like a stake in 
 The Pokemon Company and the Seattle Mariners baseball team, plus a semi-annual dividend. 
-Check out the ["Nintendo Today!" app](https://www.nintendo.com/us/store/products/nintendo-today-mobile/?srsltid=AfmBOor9ScrJgzMyLeOriEzFUitceiCOpHfL-K4HdLHW7O16YyVWRE45) to keep up with happenings.
+I have been loving the ["Nintendo Today!" app](https://www.nintendo.com/us/store/products/nintendo-today-mobile/?srsltid=AfmBOor9ScrJgzMyLeOriEzFUitceiCOpHfL-K4HdLHW7O16YyVWRE45) to keep up with happenings. 
+It makes you realize the depth of their IP. It's helped me see how good they are at building hype 
+for events like Switch 2 previews and "Nintendo Direct".
+
 
 **RAYJ**
 
