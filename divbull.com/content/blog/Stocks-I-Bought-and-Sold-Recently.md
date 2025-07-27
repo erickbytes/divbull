@@ -4,8 +4,8 @@ Category: Essay
 
 
 ### Buys
-These are stocks I bought this year, 2025. Most were bought dollar cost average 
-as prices fluctuated throughout the year.
+These are stocks I bought this year, 2025. Most were bought in dollar cost average 
+fashion as prices fluctuated throughout the year.
 
 **MSFT**
 
