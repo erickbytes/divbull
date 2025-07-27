@@ -242,8 +242,8 @@ the sentiment has flipped somewhat bullish recently. This sell is more about lev
 Meta and Spotify investments. YouTube ad revenue is running up. Search revenue is still growing. 
 Playing in the data center space. Cloud computing grew 28% year over year in the most recent quarter. 
 Gemini has 450 million users, including me. Waymo is growing, solidifying Google's leadership in autonomous taxis.
-All bullish indicators. Google is still winning. The trillion dollar question is what will happen to their
-profit stream of search in the future, which will need to be defended against new AI competition.
+All bullish indicators. Google is still winning. They're investing in Anthropic. The trillion dollar question 
+is what will happen to their profit stream of search in the future, which will need to be defended against new AI competition.
 
 Sold: 4 Shares
 
@@ -251,7 +251,7 @@ Remaining: 26 Shares
 
 **AMZN**
 
-Another hyperscaler. Investing in Anthropic. Has Zoox in the autonomous taxi space. Zoox began testing in Los Angeles, 
+Another hyperscaler. Also investing in Anthropic. Has Zoox in the autonomous taxi space. Zoox began testing in Los Angeles, 
 the sixth location for Amazon’s self-driving technology. The godfather of e-commerce with an ads business and streaming. 
 Bezo's baby. C'mon it's Amazon! Yet another cloud computing competitor in AWS. Lots to like. 
 I added 3 shares in April at $171. In July, I sold 3 shares that I bought in my taxable brokerage at $228. Essentially 
