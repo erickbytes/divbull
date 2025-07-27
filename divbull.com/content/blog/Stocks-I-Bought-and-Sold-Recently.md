@@ -22,9 +22,9 @@ my quarterly dividend. Halfway through 2025, I've reinvested $125 of dividends i
 **NVDA**
 
 A top 3 high conviction hold if not #1. Picks and shovels for the AI revolution. 
-Hyperscalers pay Nvidia for AI. Data center revenue on fire. I beefed up my long position, picking up shares
-from $95 to $147. I paid $12/share for 50 shares in 2021. That's what I'm still holding from my 
-first buy after stock splits. Good enough for a 13x return. Staying long.
+Hyperscalers pay Nvidia for AI. Data center revenue is on fire, up 73% year over year according to their Q1 earnings report. 
+I beefed up my long position, picking up shares from $95 to $147. I paid $12/share for 50 shares in 2021. 
+That's what I'm still holding from my first buy after stock splits. Good enough for a 13x return. Staying long.
 
 **ORCL**
 
@@ -33,6 +33,7 @@ and added more shares in January. They're the hyperscaler no one remembers until
 AI cloud computing capabilities delivered in a sensible and straightforward way. Enter Oracle. 
 Add in that they're buying nuclear reactors, data centers and signing billion dollar deals,
 with a burgeoning backlog order book and you have a wealth of possible catalysts coming in the future.
+From their Q1 earnings call: "we will build and operate more cloud infrastructure data centers than all of our competitors combined".
 
 **NTDOY**
 
@@ -128,7 +129,8 @@ since January 2025 to now. I had to decide which stocks to sell in order to pay 
 
 Happy to see this stock finally lift in price after years in the dumps.
 I wish I bought and held more, but feel good with my shares. I intend to 
-hold on as Roblox seems to have improving fundamentals every day.
+hold on as Roblox seems to have improving fundamentals every day. In Q1 earnings,
+they had 8 million daily active users, with the average user spending 2.4 hours per day on Robloc.
 
 Sold: 33 Shares
 
@@ -225,9 +227,10 @@ Remaining: 75 Shares
 **META**
 
 Sold a chunk of Meta shares to raise money. Bullish on their ads business and ability to use AI to improve its
-effectiveness. Facebook, Whatsapp and Instagram. Meta is flashing cash to build an AI superteam. Who knows how it
-will shake out, but Meta will be there competing with AI. Lightened position because I needed extra cash. Believe we will
-see Meta stock at $1000 per share someday.
+effectiveness. Meta is flashing cash to build an AI superteam. Who knows how itwill shake out, but Meta will 
+be there competing with AI. Lightened position because I needed extra cash. Facebook, Whatsapp and Instagram: 
+4 billion people use at least 1 of their apps a day according to their Q1 earnings call. I believe we will see 
+Meta stock at $1000 per share someday.
 
 Sold: 3 Shares
 
@@ -249,8 +252,9 @@ Remaining: 26 Shares
 
 **AMZN**
 
-Another hyperscaler. Investing in Anthropic. Has Zoox in the autonomous taxi space. The godfather of e-commerce with 
-an ads business and streaming. Bezo's baby. C'mon it's Amazon! Yet another cloud computing competitor in AWS. Lots to like. 
+Another hyperscaler. Investing in Anthropic. Has Zoox in the autonomous taxi space. Zoox began testing in Los Angeles, 
+the sixth location for Amazon’s self-driving technology. The godfather of e-commerce with an ads business and streaming. 
+Bezo's baby. C'mon it's Amazon! Yet another cloud computing competitor in AWS. Lots to like. 
 I added 3 shares in April at $171. In July, I sold 3 shares that I bought in my taxable brokerage at $228. Essentially 
 my share count remained the same, but my cost basis was reduced by approximately $150 with this maneuver.
 
@@ -271,7 +275,7 @@ Remaining: 3 Shares
 
 I decided to lock in some long term profits around $500. I sold 5 shares around $485 at the cost 
 I bought them at in an attempt to trade short term. Should have held them all! I ended up buying back 2 shares recently.
-Hyper bullish on this stock.
+Hyper bullish on this stock. They recently reported that in Q1, free cash flow was up 10x over the past 3 years.
 
 Sold: 10 Shares
 
