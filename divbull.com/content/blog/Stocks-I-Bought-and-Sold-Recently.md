@@ -16,7 +16,7 @@ I have other dividend stocks like Costco, Coca-Cola and Ford. This stock is wort
 in my book because of the dividend stream. Unfortunately, I didn't buy any more whole Microsoft shares YTD, 
 which was a missed opportunity. However, I have bought in the past. I always reinvested my dividends so 
 I am always buying fractional shares. I buy Microsoft 4 times a year, every year thanks to reinvesting 
-my quarterly dividend. Halfway through 2025, I've reinvested $125 of dividends into Microsoft stock.
+my quarterly dividend. Halfway through 2025, I've reinvested $125 of dividends back into Microsoft stock.
 
 
 **NVDA**
@@ -49,7 +49,7 @@ original Switch. This is an impressive company, the more you learn about it. I'm
 stock in my portfolio. Includes added bonuses like a stake in The Pokemon Company and the Seattle Mariners baseball 
 team, plus a semi-annual dividend. I have been loving the ["Nintendo Today!" app](https://www.nintendo.com/us/store/products/nintendo-today-mobile/?srsltid=AfmBOor9ScrJgzMyLeOriEzFUitceiCOpHfL-K4HdLHW7O16YyVWRE45) to keep up with happenings. It makes you realize the depth and breadth of their IP. It also showcases how good they are at building hype with events like Switch 2 previews and "Nintendo Direct". 
 For example, the [Donkey Kong Bananza Nintendo Direct](https://www.youtube.com/watch?v=YVUidGTR8xg&ab_channel=NintendoofAmerica) 
-seemed to make a big splash to draw attention to the game before it released.These type of successful, high profile 
+seemed to make a big splash to draw attention to the game before it released. These type of successful, high profile 
 game releases will drive more console sales.
 
 
