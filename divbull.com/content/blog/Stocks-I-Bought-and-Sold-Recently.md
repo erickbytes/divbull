@@ -10,14 +10,13 @@ fashion as prices fluctuated throughout the year.
 **MSFT**
 
 It is often cited as a "tech ETF" in itself due to diversifed revenue streams, key OpenAI partnership,
-and incredible executive team. Github, Github Copilot, Azure cloud computing growth,
-AI infrastructure play. Not to mention its gaming operations. I have committed more 
-capital here than anywhere else over the past 5 years. I have other dividend stocks like Costco, Coca-Cola and Ford.
-This stock is worth mentioning as a "buy" in my book because of the dividend stream. Unfortunately, I didn't buy
-any more whole Microsoft shares YTD, which was a missed opportunity. However, I have bought in the past.
-I always reinvested my dividends so I am always buying fractional shares. I buy Microsoft 4 times a year, 
-every year thanks to reinvesting my quarterly dividend. Halfway through 2025, I've reinvested $125 of 
-dividends into Microsoft stock.
+and incredible executive team. Github, Github Copilot, Azure cloud computing growth, AI infrastructure play. 
+Not to mention its gaming operations. I have committed more capital here than anywhere else over the past 5 years. 
+I have other dividend stocks like Costco, Coca-Cola and Ford. This stock is worth mentioning as a "buy" 
+in my book because of the dividend stream. Unfortunately, I didn't buy any more whole Microsoft shares YTD, 
+which was a missed opportunity. However, I have bought in the past. I always reinvested my dividends so 
+I am always buying fractional shares. I buy Microsoft 4 times a year, every year thanks to reinvesting 
+my quarterly dividend. Halfway through 2025, I've reinvested $125 of dividends into Microsoft stock.
 
 
 **NVDA**
@@ -31,32 +30,31 @@ first buy after stock splits. Good enough for a 13x return. Staying long.
 
 One of my highest conviction holds outside of Microsoft and Nvidia. I got in last November 
 and added more shares in January. They're the hyperscaler no one remembers until they need 
-AI cloud computing capabilities delivered in a sensible and straightforward way.
-Enter Oracle. Add in that they're buying nuclear reactors, data centers and signing billion dollar deals,
+AI cloud computing capabilities delivered in a sensible and straightforward way. Enter Oracle. 
+Add in that they're buying nuclear reactors, data centers and signing billion dollar deals,
 with a burgeoning backlog order book and you have a wealth of possible catalysts coming in the future.
 
 **NTDOY**
 
 After buying at various times since 2021, I added more Nintendo ADRs in anticipation of the runup to their 
-Switch 2 release after seeing the signs of successful console launch. My intuition was rewarded,
-as the ADR price is up 49% year to date. I boosted my ADR share count by ~33% in March, April 
-and June after the launch. I have high confidence in Nintendo to ride the Switch 2 console and continue 
-rolling out new games like Donkey Kong Bananza to galvanize the fan base. It will continue to leverage 
-its intellectual property. The new Florida "Super Nintendo World" theme park opened for business in May at Universal Studios.
-Plus Super Mario Bros and Zelda movie releases are coming. Nintendo seems to have many positive catalysts ahead. 
-Nintendo is creating new generations of fans beyond its past consoles like the Super Nintendo, N64, Gameboy, 
-Nintendo DS, Wii and the original Switch. This is an impressive company, the more you learn about it. 
-I'm enjoying having this international stock in my portfolio. Includes added bonuses like a stake in 
-The Pokemon Company and the Seattle Mariners baseball team, plus a semi-annual dividend. 
-I have been loving the ["Nintendo Today!" app](https://www.nintendo.com/us/store/products/nintendo-today-mobile/?srsltid=AfmBOor9ScrJgzMyLeOriEzFUitceiCOpHfL-K4HdLHW7O16YyVWRE45) to keep up with happenings. 
-It makes you realize the depth and breadth of their IP. It also showcases how good they are at building hype 
-with events like Switch 2 previews and "Nintendo Direct". For example, the [Donkey Kong Bananza Nintendo Direct](https://www.youtube.com/watch?v=YVUidGTR8xg&ab_channel=NintendoofAmerica) seemed to make a big splash online for the game before it released.
-These type of successful, high profile game releases will drive more console sales.
+Switch 2 release after seeing the signs of successful console launch. My intuition was rewarded, as the ADR 
+price is up 49% year to date. I boosted my ADR share count by ~33% in March, April and June after the launch. 
+I have high confidence in Nintendo to ride the Switch 2 console and continue rolling out new games like 
+Donkey Kong Bananza to galvanize the fan base. It will continue to leverage its intellectual property. The new 
+Florida "Super Nintendo World" theme park opened for business in May at Universal Studios. Plus Super Mario Bros 
+and Zelda movie releases are coming. Nintendo seems to have many positive catalysts ahead. Nintendo is creating
+new generations of fans beyond its past consoles like the Super Nintendo, N64, Gameboy, Nintendo DS, Wii and the 
+original Switch. This is an impressive company, the more you learn about it. I'm enjoying having this international 
+stock in my portfolio. Includes added bonuses like a stake in The Pokemon Company and the Seattle Mariners baseball 
+team, plus a semi-annual dividend. I have been loving the ["Nintendo Today!" app](https://www.nintendo.com/us/store/products/nintendo-today-mobile/?srsltid=AfmBOor9ScrJgzMyLeOriEzFUitceiCOpHfL-K4HdLHW7O16YyVWRE45) to keep up with happenings. It makes you realize the depth and breadth of their IP. It also showcases how good they are at building hype with events like Switch 2 previews and "Nintendo Direct". 
+For example, the [Donkey Kong Bananza Nintendo Direct](https://www.youtube.com/watch?v=YVUidGTR8xg&ab_channel=NintendoofAmerica) 
+seemed to make a big splash to draw attention to the game before it released.These type of successful, high profile 
+game releases will drive more console sales.
 
 
 **RAYJ**
 
-In addition to Nintendo, other Japanese equities are very intriguing to me. This ETF raises 
+In addition to Nintendo, other Japanese equities are very intriguing to me. The [RAYJ ETF](https://funds.rayliant.com/rayj/) raises 
 my international exposure via Japanese growth stocks like Mitsubishi, Kawasaki, Hitachi, 
 Sanrio, Asics, Toyota, Ryohein Keikaku, Disco Corp and many others. I like this as a diversification play
 away from the US hyperscalers and S&P.
@@ -64,11 +62,12 @@ away from the US hyperscalers and S&P.
 **RDDT**
 
 Reddit is a guilty pleasure for me. I spend way too much time there. They seem to have a mine of fodder for
-AI to train on in their forums. Often I find if I use an app or product nearly every day, it 
-is a signal that it might be a good investment. But then again, I could have drawn the same conclusion
-about Stack Overflow 10 years ago and it would have turned out to be incorrect. In January, I bought some shares 
-at $185. In April, I bought more at $87. I continued adding on the bounce since April. As it stands,
-I'm holding the position at breakeven.
+AI to train on in their forums. In Q1, they reported their data licensing business grew 66% year over year.
+They also recorded their first quarterly profit since their IPO. Additionally, their ads business is an opportunity for growth.
+Often I find if I use an app or product nearly every day, it is a signal that it might be a good investment. 
+But then again, I could have drawn the same conclusion about Stack Overflow 10 years ago and it would have 
+turned out to be incorrect. In January, I bought some shares at $185. In April, I bought more at $87. I continued 
+adding on the bounce since April. As it stands, I'm holding the position at breakeven. 
 
 **DUOL**
 
@@ -86,7 +85,7 @@ given what I have witnessed so far.
 I bought more Fubo TV since the merger deal with Disney was announced. It hasn't been great adding more since 
 the initial pop off the deal news in early January. I believe that this will go higher once the deal with Disney closes. 
 Fubo was making moves before they struck an agreement with Disney, so I added more to a winner. 
-Hoping it pays off in the future, but so far 2025 has not been great for the stock outside of the first week of the year.
+Hoping it pays off in the future, but so far 2025 has not been great outside of the first week of the year.
 I like the stock as a play on streaming and live sports.
 
 **SOUN**
@@ -152,11 +151,10 @@ Remaining: 40 Shares
 
 **CRWD**
 
-Crowdstrike is another cybersecurity champion in today's stock market. 
-They handled last July's blunder with grace. It seems all is well for the leader 
-in endpoint security. Long term, the stock looks great. Its valuation demands perfection, 
-but thus far they've delivered the goods. One of the strongest Cybersecurity companies
-in the stock market.
+Crowdstrike is another cybersecurity champion in today's stock market. They handled last July's blunder 
+with grace. It seems all is well for the leader in endpoint security. Long term, the stock looks great. 
+Its valuation demands perfection, but thus far they've delivered the goods. One of the strongest Cybersecurity 
+companies in the stock market.
 
 Sold: 7 Shares
 
