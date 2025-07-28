@@ -3,7 +3,7 @@ Date: 2025-07-25 21:00
 Category: Essay
 
 
-### Buys
+### BUY
 These are stocks I bought this year, 2025. Most were bought in dollar cost average 
 fashion as prices fluctuated throughout the year.
 
@@ -50,7 +50,8 @@ stock in my portfolio. Includes added bonuses like a stake in The Pokemon Compan
 team, plus a semi-annual dividend. I have been loving the ["Nintendo Today!" app](https://www.nintendo.com/us/store/products/nintendo-today-mobile/?srsltid=AfmBOor9ScrJgzMyLeOriEzFUitceiCOpHfL-K4HdLHW7O16YyVWRE45) to keep up with happenings. It makes you realize the depth and breadth of their IP. It also showcases how good they are at building hype with events like Switch 2 previews and "Nintendo Direct". 
 For example, the [Donkey Kong Bananza Nintendo Direct](https://www.youtube.com/watch?v=YVUidGTR8xg&ab_channel=NintendoofAmerica) 
 seemed to make a big splash to draw attention to the game before it released. These type of successful, high profile 
-game releases will drive more console sales.
+game releases will drive more console sales. The next big release appears to Pokemon Legends Z-A, which is out on Switch 2
+on October 16 and available for preorder at $69.99.
 
 
 **RAYJ**
@@ -116,7 +117,7 @@ Buying the best 500 US companies via an index fund. I added more S&P 500 index i
 near peak panic in April.
 
 
-### Sells
+### REDUCE
 
 I sold part of my positions in stocks like RBLX, COIN and NET because they went up after being down for years. 
 In others like SPOT, RACE and MELI I'm trying to jump on a train that has been humming along.
@@ -346,27 +347,6 @@ Sold: 1 Share
 Remaining: 5 Shares
 
 
-**XYZ**
-
-I got fed up with Block after buying the top in 2021 and buying the dip since. I sold out at a loss. Complete exit. 
-Not much good to say about Square, I mean Block, after holding for 4 years. Good riddance. After I sold out, 
-it was added to the S&P 500, so I guess I will ride the upside in my S&P fund if it ever materializes.
-
-Sold: 20 Shares
-
-Remaining: 0 Shares
-
-**ENPH**
-
-My solar stocks have mostly gone down and decreased the value of my investments. I believe in solar, but the industry seems 
-to settling out with winners and losers. I decided to close out my entire position in Enphase Energy. I couldn't justify 
-staying invested with low conviction when so many better companies are out there. Earnings reports seemed to always disappoint.
-Took a loss and closed out this solar bet.
-
-Sold: 40 Shares
-
-Remaining: 0 Shares
-
 **FSLR**
 
 Trimming on my solar allocation. Solar is facing some negative headwinds thanks to President Trump's big beautiful bill.
@@ -388,6 +368,30 @@ Sold: 99 Shares
 
 Remaining: 106 Shares
 
+### REDUCE 100%
+I picked these stocks as my weakest, and chose to close out and harvest tax losses.
+
+
+**XYZ**
+
+I got fed up with Block after buying the top in 2021 and buying the dip since. I sold out at a loss. Complete exit. 
+Not much good to say about Square, I mean Block, after holding for 4 years. Good riddance. After I sold out, 
+it was added to the S&P 500, so I guess I will ride the upside in my S&P fund if it ever materializes.
+
+Sold: 20 Shares
+
+Remaining: 0 Shares
+
+**ENPH**
+
+My solar stocks have mostly gone down and decreased the value of my investments. I believe in solar, but the industry seems 
+to settling out with winners and losers. I decided to close out my entire position in Enphase Energy. I couldn't justify 
+staying invested with low conviction when so many better companies are out there. Earnings reports seemed to always disappoint.
+Took a loss and closed out this solar bet.
+
+Sold: 40 Shares
+
+Remaining: 0 Shares
 
 # Conclusion
 
