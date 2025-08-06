@@ -53,6 +53,8 @@ seemed to make a big splash to draw attention to the game before it released. Th
 game releases will drive more console sales. The next big release appears to Pokemon Legends Z-A, which is out on Switch 2
 on October 16 and available for preorder at $69.99.
 
+![Nintendo Game Release Schedule]({static}/images/Nintendo-Switch-2-Release-Schedule.png)
+
 
 **RAYJ**
 
@@ -338,9 +340,10 @@ Remaining: 40 Shares
 **AAPL**
 
 I have been holding a small bag of Apple shares, because its cellular ecosystem is fine tuned to reap profits.
-However, the obvious problem with the stock now is that they have no AI momentum. They're behind.
-I am not holding much Apple individually, but have more exposure in my S&P 500 fund. I took 1 share off
-because I don't like how the company operates with developers and its app store practices. Plus, they missed the boat on AI.
+It still seems like an obvious long to me. However, the obvious problem with the stock now is that they have 
+no AI momentum. They're behind. I am not holding much Apple individually, but have more exposure in my S&P 500 fund. 
+I took 1 share off because I don't like how the company operates with developers and its app store practices. 
+Plus, they missed the boat on AI.
 
 Sold: 1 Share
 
