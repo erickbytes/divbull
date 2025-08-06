@@ -54,6 +54,7 @@ game releases will drive more console sales. Drag x Drive, Metroid Prime 4, Kirb
 Hyrule Warriors: Age of Imprisonment appear to be the big draws coming up.
 
 ![Nintendo Game Release Schedule]({static}/images/Nintendo-Switch-2-Release-Schedule.png)
+<center>*source, Nintendo Q2 Earnings Release: https://www.nintendo.co.jp/ir/pdf/2025/250801_2e.pdf</center>
 
 
 **RAYJ**
