@@ -50,8 +50,8 @@ stock in my portfolio. Includes added bonuses like a stake in The Pokemon Compan
 team, plus a semi-annual dividend. I have been loving the ["Nintendo Today!" app](https://www.nintendo.com/us/store/products/nintendo-today-mobile/?srsltid=AfmBOor9ScrJgzMyLeOriEzFUitceiCOpHfL-K4HdLHW7O16YyVWRE45) to keep up with happenings. It makes you realize the depth and breadth of their IP. It also showcases how good they are at building hype with events like Switch 2 previews and "Nintendo Direct". 
 For example, the [Donkey Kong Bananza Nintendo Direct](https://www.youtube.com/watch?v=YVUidGTR8xg&ab_channel=NintendoofAmerica) 
 seemed to make a big splash to draw attention to the game before it released. These type of successful, high profile 
-game releases will drive more console sales. The next big release appears to Pokemon Legends Z-A, which is out on Switch 2
-on October 16 and available for preorder at $69.99.
+game releases will drive more console sales. Drag x Drive, Metroid Prime 4, Kirby and the Forgotten Land, Pokemon Legends Z-A and 
+Hyrule Warriors: Age of Imprisonment appear to be the big draws coming up.
 
 ![Nintendo Game Release Schedule]({static}/images/Nintendo-Switch-2-Release-Schedule.png)
 
