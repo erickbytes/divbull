@@ -53,11 +53,11 @@ they represent 76% of my net worth.
 **Confidence Ranking My Portfolio**
 
 Second, I made a confidence ranking of all the assets I'm holding in my brokerage account and cryptocurrency portfolio.
-This simply means a list of each asset in a column, a column with each asset's current market value. Then in a third column, 
-assigning a number starting with 1,2,3 for my highest conviction 3 holdings for example, and continuing to assign a number 
-until all assets are ranked. 
+This simply means a list of each asset in a column, along with a column with each asset's current market value. 
+Then in a third column, assigning a number starting with 1,2,3 for my highest conviction 3 holdings for example, 
+and continuing to assign a number until all assets are ranked. 
 
-Next, I applied a Google Sheets nested IF formula to assign a sell weight based on my conviction rank in each asset:
+In a fourth column, I applied a Google Sheets nested IF formula to assign a sell weight based on my conviction rank in each asset:
 
 ```
 =IF(B2<15, 0.25*C2, IF(B2<30, 0.5*C2, 0.75*C2))
