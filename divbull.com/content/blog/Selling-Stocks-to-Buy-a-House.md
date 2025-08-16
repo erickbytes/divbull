@@ -23,7 +23,7 @@ not to fall in love with my stocks, book some profits and diversify elsewhere. I
 tend to come from stocks over time, but sometimes life is not about seeking the optimal return. A home brings 
 obvious benefits like a place to live or a source of rental income. With that said, there is substantial risk
 that I will regret selling the stocks if the stock market continues to rise. Historical data says it likely will.
-The opportuity cost of taking money from stocks to invest in real estate may be huge. If that is the case, at
+The opportunity cost of taking money from stocks to invest in real estate may be huge. If that is the case, at
 least I'll still have 66% of my stocks in the game.
 
 **Liquid vs. Non-Liquid Assets**
