@@ -52,7 +52,7 @@ they represent 76% of my net worth.
 
 **Confidence Ranking My Portfolio**
 
-Second, I made a confidence ranking of all the assets I'm holding in my brokerage account and cryptocurrency portfolio.
+Second, I made a confidence ranking of all the "liquid" assets I'm holding in my brokerage account and cryptocurrencies.
 This simply means a list of each asset in a column, along with a column with each asset's current market value. 
 Then in a third column, assigning a number starting with 1,2,3 for my highest conviction 3 holdings for example, 
 and continuing to assign a number until all assets are ranked. 
