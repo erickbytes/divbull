@@ -1,4 +1,4 @@
-Title: Selling Stocks to Buy a House 
+Title: Selling Investments to Buy a House 
 Date: 2025-08-16 4:20 
 Category: Essay
 
