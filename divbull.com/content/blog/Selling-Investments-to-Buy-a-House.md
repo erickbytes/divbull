@@ -42,7 +42,7 @@ available without invoking a substantial penalty. Therefore, I consider these fu
 | Self-Directed Traditional IRA | 0.32% |
 | **Total Non-Liquid Assets** | **24%** |
 
-Next, I tallied up my "liquid" assets, which consisted of two sources: my investment brokerage and cryptocurrency holdings. 
+Next, I tallied up my liquid assets, which consisted of two sources: my investment brokerage and cryptocurrency holdings. 
 In total, they represent 76% of my net worth.
 
 | Liquid Assets | % of Total Assets |
@@ -53,7 +53,7 @@ In total, they represent 76% of my net worth.
 
 **Confidence Ranking My Portfolio**
 
-Second, I made a confidence ranking of all the "liquid" assets I'm holding in my brokerage account and cryptocurrencies.
+Second, I made a confidence ranking of all the liquid assets I'm holding in my brokerage account and cryptocurrencies.
 This simply means a list of each asset in a single column. Then in a 2nd column, assigning a number starting with 1,2,3 
 for my highest conviction 3 holdings for example, continuing to assign a number until all assets are ranked. In a third 
 new column, list each corresponding asset's current market value.
