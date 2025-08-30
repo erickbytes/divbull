@@ -70,7 +70,7 @@ I'm no longer holding Apple shares.
 
 **Portfolio Reflection**
 
-My portfolio holdings now consist of 38 individual stocks, 3 mutual funds, 2 ETFs and a target date fund.
+My portfolio holdings now consist of 38 individual stocks, 12 cryptocurrencies, 3 mutual funds, 2 ETFs and a target date fund.
 At the end of 2023, I was holding 52 stocks. In that time, my portfolio has churned considerably. I've sold other stocks 
 and added new stocks. The core has been stable, with some new 1-3% positions added. I've decided that I want 
 to hold less stocks. Maybe the stocks I sell will go on to become great stocks, but I can't stick with them 
