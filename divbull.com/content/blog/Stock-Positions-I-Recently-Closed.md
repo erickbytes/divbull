@@ -54,7 +54,7 @@ nuclear energy spaces. I rode the stock from $140, added a few shares at $110, b
 because I only held 10 shares and feel there is a strong chance of retracement to the $150 level or below. 
 Or maybe it will keep on mooning. It was one of the best performers in the S&P 500 in 2024. I closed out for 
 a $600 profit, successfully trading the shares for a profit in less than a year and riding the greater energy 
-demand trend. If shares dipped back under $150,I'd consider getting back in long.
+demand trend. If shares dipped back under $150, I'd consider getting back in long.
 
 **AAPL**
 
