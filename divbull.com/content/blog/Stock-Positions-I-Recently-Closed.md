@@ -8,10 +8,10 @@ At the time of writing, I have built my cash position to 56% of my goal needed t
 the deal to become an owner of my first house.
 
 
-I've opted to draw funds from a mix of top performers and underperformers. For top performers,
-I've so far taken only a small portion of the best performers. In some of my underperformers,
-I've chosen to sell out completely of 5 stocks so far. All are very small positions, so these do not 
-represent much capital in the context of my whole portfolio.
+I've opted to draw funds from a mix of top performers and underperformers. I've so far taken only a 
+small portion of the best performers. In some of my underperformers, I've chosen to sell out completely 
+of some of them that are smaller holdings. Since these are very small positions, so these do not represent 
+much capital in the context of my whole portfolio.
 
 Here is the list of underperformers that I no longer own:
 
