@@ -1,5 +1,5 @@
 Title: Stock Positions I Recently Closed 
-Date: 2025-08-30 4:20 
+Date: 2025-08-30 4:25 
 Category: Essay
 
 I've begun a major consolidation of my investing portfolio. Since I am raising money from 
