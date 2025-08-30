@@ -1,5 +1,5 @@
 Title: Stock Positions I Recently Closed 
-Date: 2025-08-30 4:25 
+Date: 2025-08-30 16:25 
 Category: Essay
 
 I've begun a major consolidation of my investing portfolio. Since I am raising money from 
@@ -26,11 +26,12 @@ profits arrive. It's possible they might never turn that corner. Maybe they will
 **PINS**
 
 Pinterest has a lot of good qualities. Social media pairs well with ad revenue. Growing monthly active users.
-Popular with Gen Z youths. Building AI ad tools for businesses to market on their platform. I always thought I'd see this stock 
-pop but it didn't materialize. I would get back to breakeven, only to be down 30-40% on the position 6 months later.
-This happened multiple times. I closed out for ~$300 loss. Now it will probably see that upward price movement that 
-I waited 4 years to never see. One problem was my initial entry was in 2021, an ill-fated year for stock picking.
-I bought the dip, but not enough to ever get into serious profits on a position that never rose above $2,000.
+Popular with the highly desired Gen Z youths segment. Building AI ad tools for businesses to market on their platform. 
+I always thought I'd see this stock pop but it didn't materialize. I would get back to breakeven, only to be down 30-40% 
+on the position 6 months later.This happened multiple times. I closed out for ~$300 loss. Now it will probably see 
+that upward price movement that I waited 4 years to never see. One problem was my initial entry was in 2021, 
+an ill-fated year for stock picking. I bought the dip, but not enough to ever get into serious profits on a position 
+that never rose above $2,000.
 
 **FSLR**
 
@@ -48,12 +49,12 @@ of stocks I'm invested in.
 
 **VST**
 
-Vistra Energy is a very promising company in the very hot energy trend. They operate gas, nuclear energy. 
-I rode the stock from $140, added a few shares at $110, back up to over $200. I sold because I only held 
-10 shares and feel there is a strong chance of retracement to the $150 level or below. Or maybe it will keep 
-on mooning. It was one of the best performers in the S&P 500 in 2024. I closed out for a $600 profit, successfully 
-trading the shares for a profit in less than a year and riding the greater energy demand trend. If shares dipped back under $150,
-I'd consider getting back in long.
+Vistra Energy is a very promising company in the very hot energy trend. They operate in the natural gas and 
+nuclear energy spaces. I rode the stock from $140, added a few shares at $110, back up to over $200. I sold 
+because I only held 10 shares and feel there is a strong chance of retracement to the $150 level or below. 
+Or maybe it will keep on mooning. It was one of the best performers in the S&P 500 in 2024. I closed out for 
+a $600 profit, successfully trading the shares for a profit in less than a year and riding the greater energy 
+demand trend. If shares dipped back under $150,I'd consider getting back in long.
 
 **AAPL**
 
