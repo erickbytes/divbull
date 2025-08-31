@@ -44,10 +44,15 @@ it feels very volatile holding solar stocks right now. I sold out more or less a
 
 **PSKY**
 
-I'm finally completely out of Paramount stock. I made a good return playing the merger, and selling my remaining share fro $14 to $16.
-The fundamentals seem better than ever with Paramount+ growing and the recent mega UFC broadcasting rights deal.
-I made some money in the stock. Now I'm out of it. If they execute well, it wouldn't surprise me to see the stock above $20.
-On the flip side, if the trend continues, this stock could find itself under $10.
+I'm finally completely out of Paramount stock. I made a decent return playing the Skydance merger, which took about 6 months longer 
+to close than I expected thanks to extra vetting from the government. After the deal went through, I sold my remaining shares 
+from $14.61 to $16.81. In retrospect, the merger ended up being a not so great deal for class B share investors and I probably would have been 
+better off buying more S&P 500 index. I did enjoy the experience of pariticipating in a buyout as a shareholder and learning how to tender my shares.
+I sold nearly the maximum of 60% of my shares in the buyout. The fundamentals seem better than ever with Paramount+ growing subscribers, 
+popular TV shows like "Yellowstone" and "Landman", and sizeable stack of movie intellectual property. Then, throw in the recent 
+mega UFC broadcasting rights deal and I feel the stock is more compelling than it has been in the past 10 years. I made some money. 
+Now I'm out of it. If the new executive team executes well, it wouldn't surprise me to see the stock above $20. On the flip side, 
+if the "legacy media" downward trend continues, this stock could find itself under $10.
 
 ---
 
