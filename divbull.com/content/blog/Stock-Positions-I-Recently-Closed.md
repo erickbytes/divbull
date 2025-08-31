@@ -76,7 +76,8 @@ considerably. I've sold other stocks and added new stocks. The core has been sta
 added. 
 
 I've decided that I want to hold less stocks. Maybe the stocks I sell will go on to become great stocks, 
-but I can't stick with them when I believe there are better opportunities elsewhere.
+but I can't stick with them when I believe there are better opportunities elsewhere, or others where I 
+have higher conviction.
 
 My goal is to get down to around 15-20 individual stocks in my portfolio, in addition to my other funds and ETFs. 
 I will be happy if I can achieve that, because keeping up with the earnings reports of 40-50 stocks is like a 
