@@ -4,7 +4,7 @@ Category: Essay
 
 
 I have been thinking lately about whether or not exceptional user interface provides an effective block
-against being disrupted by competetitors recently.
+against being disrupted by competitors.
 
 I've been buying Duolingo stock now that it's been cut in half in value within a span of 3 months.
 The narrative that has seemingly driven down the price was sparked by Google's release of 
