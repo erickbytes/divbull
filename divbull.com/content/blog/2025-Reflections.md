@@ -24,6 +24,9 @@ when the market was still ridiing high in August and September. Many of my stock
 I've already felt the benefit of this diversification because of the recent market dip that arrived in November.
 Thankfully my house's value doesn't move in correlation with the recent stock market downturn.
 
+![allocation]({static}/images/net-worth-diversification.png)
+<center>*net worth diversification*</center>
+
 I feel great after completing this maneuver. I am a long term investor who has made profits in the stock market.
 However, I still struggle with recognizing when to take profits occasionally. In this case, my decision to buy a house forced me to free up capital at a local top. I still believe in my investments long term, but I have a feeling that I 
 cashed in some profits at a relatively good time to sell. Occasionally, we need to take profits. However, we shouldn't 
