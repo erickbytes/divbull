@@ -2,7 +2,7 @@ Title: 2025 Reflections
 Date: 2025-11-22 16:20 
 Category: Essay
 
-It has been a crazy year to be in investor. The emotional stock market roller coaster has brought
+It has been a crazy year to be an investor. The emotional stock market roller coaster has brought
 good times and bad. The good times were set to roll in January, only to "roll over" in May and April.
 We saw the bottom of a 20%+ index drawdown. My net worth was sliding lower and lower until 
 "liberation day" marked a local bottom. From that point on, the bounce was on in May, June and July.
