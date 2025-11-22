@@ -1,5 +1,5 @@
 Title: 2025 Reflections 
-Date: 2025-11-22 4:20 
+Date: 2025-11-22 16:20 
 Category: Essay
 
 It has been a crazy year to be in investor. The emotional stock market roller coaster has brought
