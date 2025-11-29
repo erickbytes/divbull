@@ -54,8 +54,8 @@ a part of your team. When a stock on your watchlist suffers a large drawdown, yo
 In fantasy football, there are "experts" who put out rankings of players, sit or start lists and top waiver wire pickups each week.
 In stocks, the equivalent are financial analysts and firms who assign ratings and price targets to the stocks they cover.
 
-Additionally, the geopolitical developments and government policies sometimes impact a company's performance. Similarly, 
-referees may intervene or assist a player's success. Stocks do not exist in a vacuum. Players must abide by the rules and 
+Additionally, the geopolitical developments and government policies sometimes impact a company's performance. Stocks do 
+not exist in a vacuum.  Similarly, referees may intervene or assist a player's success. Players must abide by the rules and 
 hope not to become a victim of human error. However, bad calls and bad luck are inevitable in the game of football and investing.
 
 I hope you enjoyed this brain dump of the parallels between fantasy football and investing. Both require research and strategy.
