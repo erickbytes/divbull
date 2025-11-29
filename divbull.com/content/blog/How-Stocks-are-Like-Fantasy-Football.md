@@ -5,13 +5,14 @@ Category: Essay
 As both an investor and fantasy football participant for many years, I often remark how similar they are.
 This is a post I've been kicking around in my head for a while and finally decided to write.
 
-Fantasy football begins each football season with a draft of players. There are many high profile players like 
-Christian McCaffery, Jonathan Taylor and Jamarr Chase that go in the early rounds due to their projected production 
-over the course of the season. These players are similar to blue chip stocks like Nvidia, Apple and Microsoft. 
-When drafting a player, it's easy to infer from past performancethat they are going to have another banner year. 
-Often marquee running backs can wear down as they get older, causing injuries that affect performance. If you drafted 
-Christian McCaffery in 2024, the #1 overall consensus pick, you dealt with injuries all year and had a tougher season 
-than you expected. As is often said in stocks, past performance does not guarantee future returns. The biggest winners 
+Fantasy football begins each football season by players paying "dues" into a league pot. This is paid out 
+to the top 3 places in my 10 team league. The action begins each year with a draft of players. There are many 
+high profile players like Christian McCaffery, Jonathan Taylor and Jamarr Chase that go in the early rounds due 
+to their projected production over the course of the season. These players are similar to blue chip stocks like Nvidia, 
+Apple and Microsoft. When drafting a player, it's easy to infer from past performancethat they are going to have another 
+banner year. Often marquee running backs can wear down as they get older, causing injuries that affect performance. If 
+you drafted Christian McCaffery in 2024, the #1 overall consensus pick, you dealt with injuries all year and had a tougher 
+season than you expected. As is often said in stocks, past performance does not guarantee future returns. The biggest winners 
 of the past may follow with slow decline in the later stages of a company's lifecycle.
 
 In fantasy football, there is a free agent pool of players that are not currently "owned" by any teams.
@@ -58,8 +59,9 @@ referees may intervene or assist a player's success. Stocks do not exist in a va
 hope not to become a victim of human error.However, bad calls and bad luck are inevitable in the game of football and investing.
 
 I hope you enjoyed this brain dump of the parallels between fantasy football and investing. Both require research and strategy.
-Both require monitoring the data, earnings reports, stats and production output. Both can make you money, but one is a hobby 
-with a payout of a few hundred dollars and the other can open a new world of financial freedom. That's the biggest difference between them! 
+Both require monitoring the data, earnings reports, stats and production output. Both can make you money. One is a hobby 
+with a possible payout of a few hundred dollars for me and the other can open a new world of financial freedom. That's the 
+biggest difference between them! 
 
 
 
