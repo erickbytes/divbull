@@ -29,7 +29,7 @@ It wasn't all profit taking to fund the house. I succeeded by taking a little bi
 
 2025 was a marquee year for me. I now have a wife and purchased my first house. My wife and I have a permanent place to live. I now have an estimated 32% of my net worth in my home's equity. I still have a significant exposure to individual stocks at 40% of my net worth. Including my retirement mutual funds and ETFs, approximately 59% of my net worth is currently exposed to the stock market. I feel happy because the house will save us huge amounts versus rent payments, and instead we can spend that money to improve where we live. Not to mention I am more diversified in real estate. 
 I've already felt the benefit of this diversification because of the recent market dip that arrived in November.
-Thankfully my house's value doesn't move in correlation with the recent stock market downturn.
+Thankfully my house's value doesn't move in correlation with the recent stock market pullback.
 
 ![allocation]({static}/images/net-worth-diversification.png)
 <center>*net worth diversification*</center>

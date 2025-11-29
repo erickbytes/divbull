@@ -23,7 +23,7 @@ my quarterly dividend. Halfway through 2025, I've reinvested $125 of dividends b
 
 A top 3 high conviction hold if not #1. Picks and shovels for the AI revolution. 
 Hyperscalers pay Nvidia for AI. Data center revenue is on fire, up 73% year over year according to their Q1 earnings report. 
-I beefed up my long position, picking up shares from $95 to $147. I paid $12/share for 50 shares in 2021. 
+I beefed up my long position, picking up shares from $95 to $147. I paid $12/share for 50 shares in 2021 (5 shares pre-split). 
 That's what I'm still holding from my first buy after stock splits. Good enough for a 13x return. Staying long.
 
 **ORCL**
@@ -288,7 +288,7 @@ Remaining: 17 Shares
 
 **MELI**
 
-This payments company runs like water through South America. I was overweight at the beginning of the year, so I used
+This e-commerce and payments company runs like water through South America. I was overweight at the beginning of the year, so I used
 it as a source of funds for living expenses. I'm wishing I kept more MercadoLibre shares, but have conviction to keep what I have
 and add on any big dips.
 

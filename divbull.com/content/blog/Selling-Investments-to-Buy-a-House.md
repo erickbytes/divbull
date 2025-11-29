@@ -23,7 +23,7 @@ to be in my portfolio, but reduced approximately 10-50%. However, I believe this
 not to fall in love with my stocks, book some profits and diversify elsewhere. I realize that the best returns tend to come 
 from holding assets over time, but sometimes life is not about seeking the optimal return. A home brings obvious benefits like a place 
 to live or a source of rental income. With that said, there is substantial risk that I will regret selling the stocks if the 
-stock market continues to rise. Historical data says it likely will.The opportunity cost of taking money from stocks to invest 
+stock market continues to rise. Historical data says it likely will. The opportunity cost of taking money from stocks to invest 
 in real estate may be huge. If that is the case, at least I'll still have 66% of my stocks in the game.
 
 **Liquid vs. Non-Liquid Assets**
@@ -78,7 +78,7 @@ I've estimated nearly all my costs, so I know approximately how much we'll need 
 This will be a tough exercise to complete. Up until this point, I've been very slow to make changes in my portfolio. 
 Typically, I would only sell the minimum amount needed to cover a necessary large expense or taxes. Therefore, I will 
 need to chop some positions down substantially. Many or all of the positions I've shared in the past will likely be 
-significantly reduced in orderto raise the funds to buy the house. This is a sacrifice I have decided I want to make 
+significantly reduced in order to raise the funds to buy the house. This is a sacrifice I have decided I want to make 
 in order to improve my quality of life, reduce annual rent and eliminate moving expenses.
 
 In some cases, I might sell 100% of an asset, but I prefer to distribute the impact across my entire portfolio. I want 

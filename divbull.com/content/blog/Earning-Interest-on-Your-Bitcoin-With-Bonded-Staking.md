@@ -41,6 +41,12 @@ This is an awesome opportunity that Kraken has enabled for extra passive income 
 If you're holding Bitcoin, do some research into yield opportunities for your holdings. It can potentially 
 become a new income stream.
 
+**Update**
+ 
+After trying this out for 5 months, Kraken has greatly reduced the payout yield. Despite being promised "up to 1%", my Bitcoin
+is currently yielding "0.04% - 0.06%". Much lower than anticipated. Be aware of the tradeoffs and possibility that your yield may not
+end up being as high as initially promised.
+
 
 
 
