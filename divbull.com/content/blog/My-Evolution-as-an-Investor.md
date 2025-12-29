@@ -24,7 +24,7 @@ I assumed I had a higher allocation to value stocks than I actually did. This fi
 
 **Large Cap Vs. Small Caps**
 
-My portfolio currently has a slight tilt to overweight large cap stocks at 90%. My small cap stock is currently underweight at 10% of my stocks. This is not far from the target allocation suggested by Bing Copilot, 85% large caps and 15% small caps. Therefore, I plan to trim my large cap stocks or funds and buy a small cap fund to raise my exposure by 5%.
+My portfolio currently has a slight tilt to overweight large cap stocks at 90%. My small cap stock exposure is currently underweight at 10% of my stocks. This is not far from the target allocation suggested by Bing Copilot, 85% large caps and 15% small caps. Therefore, I plan to trim my large cap stocks or funds and buy a small cap fund to raise my exposure by 5%.
 
 
 **US vs. International**
