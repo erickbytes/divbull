@@ -19,7 +19,7 @@ I wasn't so naive to buy exclusively single stocks and have begun allocating mor
 A big surprise is that I found I am more overweight in growth stocks vs. value stocks than I anticipated. 69% of my stock holdings are in growth stocks. Only 6% of my stocks are classified as value stocks. Another 25% of my holdings are allocated to "blended" funds or stocks that are a hybrid between growth and value. The blended portion of my portfolio is 
 estimated to be slightly tilted towards growth (~55%), but with meaningful value stock exposure (~45%).
 
-I assumed I had a higher allocation to value stocks than I actually did. This finding has led me down a path towards researching value tilted funds to boost my value stock exposure. I consulted Bing Copilot, who recommended growth exposure of 45% and 25% value stocks. I am aiming to boost towards these baselines in 2026.
+I assumed I had a higher allocation to value stocks than I actually did. This finding has led me down a path towards researching value tilted funds to boost my value stock exposure. I consulted Bing Copilot, who recommended growth exposure of 45% and 25% value stocks. I am aiming to reduce growth stocks by 20% and boost value stocks 20% towards these baselines in 2026.
 
 
 **Large Cap Vs. Small Caps**
