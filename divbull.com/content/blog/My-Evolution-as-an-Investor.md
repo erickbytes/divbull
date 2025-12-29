@@ -3,7 +3,7 @@ Date: 2025-12-29 12:05
 Category: Essay
 
 As we wind down the final days of 2025, I've begun assessing my portfolio in a deeper nature. I've been taking stock
-of my portfolio's characteristics across dimensions like sector diversification, growth vs. value, large caps vs. small caps and US vs. international equity exposure. I made a classification of each my holdings across these dimensions with the help of Bing Copilot (ChatGPT under the hood). What I've found has surprised me in some ways and confirmed what I already suspected. I will now comment on my findings below, conclude with the actions I plan to take now that I've considered my portfolio against typical benchmarks.
+of my portfolio's characteristics across dimensions like sector diversification, growth vs. value, large caps vs. small caps and US vs. international equity exposure. I made a classification of each my holdings across these dimensions with the help of Bing Copilot (ChatGPT under the hood). What I've found has surprised me in some ways and confirmed what I already suspected. I will now comment on my findings below, then conclude with the actions I plan to take now that I've considered my portfolio against typical benchmarks.
 
 **Sector Exposure**
 
