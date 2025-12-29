@@ -7,7 +7,7 @@ of my portfolio's characteristics across dimensions like sector diversification,
 
 **Sector Exposure**
 
-My stock portfolio is heavily overweight in the Information Technology sector at 33% estimated exposure. This makes sense because I have typically favored tech stocks in the past when I chose to pick stocks. However, compared to the S&P 500, which is concentrated at approximately 35% in the information technology sector, my allocation does not seem that extreme.
+My stock portfolio is heavily overweight in the information technology sector at 33% estimated exposure. This makes sense because I have typically favored tech stocks in the past when I chose to pick stocks. However, compared to the S&P 500, which is concentrated at approximately 35% in the information technology sector, my allocation does not seem that extreme.
 
 I'm also heavily underweight in sectors like health care, financials, industrials and real estate. Basically, I've discovered I need to divert new investment funds into these sectors and stop buying so many tech stocks. This will bring 
 stability and diversified returns to my portfolio in the long run. This will influence what I buy in 2026. Thankfully, 
