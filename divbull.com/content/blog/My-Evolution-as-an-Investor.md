@@ -1,0 +1,47 @@
+Title: My Evolution as an Investor 
+Date: 2025-12-29 12:05 
+Category: Essay
+
+As we wind down the final days of 2025, I've begun assessing my portfolio in a deeper nature. I've been taking stock
+of my portfolio's characteristics across dimensions like sector diversification, growth vs. value, large caps vs. small caps and US vs. international equity exposure. I did made classification of each my holdings across these dimensions with the help of Bing Copilot. What I've found has surprised me in some ways and confirmed what I already suspected. I will now comment on my findings below, conclude with the actions I plan to take now that I've considered my portfolio against typical benchmarks.
+
+**Sector Exposure**
+
+My stock portfolio is heavily overweight in the Information Technology sector at 33% estimated exposure. This makes sense because I have typically favored tech stocks in the past when I chose to pick stocks. However, compared to the S&P 500, which is concentrated at approximately 35% in the information technology sector, my allocation does not seem that extreme.
+
+I'm also heavily underweight in sectors like health care, financials, industrials and real estate. Basically, I've discovered I need to divert new investment funds into these sectors and stop buying so many tech stocks. This will bring 
+stability and diversified returns to my portfolio in the long run. This will influence what I buy in 2026. Thankfully, 
+I wasn't so naive to buy exclusively single stocks and have begun allocating more into broadly diversified ETFs and mutual funds, which helps to move smooth out my overallocation to tech stocks.
+
+
+**Growth Vs. Value**
+
+A big surprise is that I found I am more overweight in growth stocks vs. value stocks than I anticipated. 69% of my stock holdings are in growth stocks. Only 6% of my stocks are classified as value stocks. Another 25% of my holdings are allocated to "blended" funds or stocks that are a hybrid between growth and value. The blended portion of my portfolio is 
+estimated to be slightly tilted towards growth (~55%), but with meaningful value stock exposure (~45%).
+
+I assumed I had a higher allocation to value stocks than I actually did. This finding has led me down a path towards researching value tilted funds to boost my value stock exposure. I consulted Bing Copilot (ChatGPT under the hood), who recommended growth exposure of 45% and 25% value stocks. I am aiming to boost towards these baselines in 2026.
+
+
+**Large Cap Vs. Small Caps**
+
+My portfolio currently has a slight tilt to overweight large cap stocks at 90%. My small cap stock is currently underweight at 10% of my stocks. This is not far from the target allocation suggested by Bing Copilot, 85% large caps and 15% small caps. Therefore, I plan to trim my large cap stocks or funds and buy a small cap fund to raise my exposure by 5%.
+
+
+**US vs. International**
+
+I am overweight US stocks at 83% of my stock holdings. Conversely, my international exposure is underweight at 17%.
+There are different schools of thought on how much international equities you should hold. Based on your goals and
+how aggressive you want to be, anywhere from 20% to 40% is the typical recommended international stock allocation.
+I've chosen 30% as my goal allocation. Therefore, I'll look to increase my international exposure by 13% and reduce
+US stock exposure by 13% in 2026.
+
+
+**Reallocation Plan**
+
+Bing Copilot recommended two ETFs that seem like a logical fit for me, VBR (Vanguard Small-Cap Value Index Fund ETF) and IJS (iShares S&P Small-Cap 600 Value ETF). Given that I am underweight small caps and value stocks, a small cap value tilted fund seems to be a logical choice for new funds. I think I am "killing two birds with one stone" by allocating to a small cap value fund. 
+
+Additionally, I am researching international funds with low fees. Bing Copilot suggested ETFs and funds like FTIHX, VXUS,
+and IXUS. These funds all contain "developed" and "emerging market" stocks. Developed markets mean countries like Germany or Canada, whereas emerging markets are countries like China and Brazil. I want to have exposure to both these subsectors
+of international stocks. I'm leaning towards VXUS, which is a Vanguard ETF that has a low cost 0.07% expense ratio.
+
+In addition to investing new funds, I plan to trim some of my information technology single stocks, cut some of my growth funds and reallocate into value, small caps or international funds. It has been fun to see where I have gaps in my portfolio. Now I get to do the fun part, plugging in those gaps with value, small cap and international oriented funds. I may also add to my existing small cap and value stock holdings. I'm not done buying single stocks. However, I've realized I can bring more diversified balance to my portfolio by strategically allocating to value, small cap and international equities. This assessment has me feeling bullish on myself heading into 2026. The data from my assessment has given me informed targets to move towards. My evolution as an investor has transformed into a deeper understanding of what it means to have a diversified portfolio. Happy new year and may we all prosper in 2026 and beyond.
