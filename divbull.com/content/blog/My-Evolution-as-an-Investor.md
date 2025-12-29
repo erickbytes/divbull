@@ -22,7 +22,7 @@ estimated to be slightly tilted towards growth (~55%), but with meaningful value
 I assumed I had a higher allocation to value stocks than I actually did. This finding has led me down a path towards researching value tilted funds to boost my value stock exposure. I consulted Bing Copilot, who recommended growth exposure of 45% and 25% value stocks. I am aiming to reduce growth stocks by 20% and boost value stocks 20% towards these baselines in 2026.
 
 
-**Large Cap Vs. Small Caps**
+**Large Cap Vs. Small Cap**
 
 My portfolio currently has a slight tilt to overweight large cap stocks at 90%. My small cap stock exposure is currently underweight at 10% of my stocks. This is not far from the target allocation suggested by Bing Copilot, 85% large caps and 15% small caps. Therefore, I plan to trim my large cap stocks or funds and buy a small cap fund to raise my exposure by 5%.
 
