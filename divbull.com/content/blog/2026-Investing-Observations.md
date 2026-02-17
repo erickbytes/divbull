@@ -10,7 +10,7 @@ International stocks are performing better than US stocks so far. Total internat
 
 **Emerging Markets Buzz**
 
-Your international stocks can either be "developed" markets or "emerging" markets. So far, I've enjoyed the boom in South Korean stocks. I also have heavier exposure to Japan and Canadian stocks via VXUS fund. Additionally, emerging markets funds like IEMG are up 11% year to date. This is equivalent to investing in markets like China, Brazil or Korea. Emerging markets have started 2026 with lots of momentum. Anecdotally, I have seen more people talking online about them in bullish tone.
+Your international stocks can either be "developed" markets or "emerging" markets. So far, I've enjoyed the boom in South Korean stocks. I also have exposure to developed markets like Japan and Canadian stocks via VXUS and SCHF funds. Additionally, emerging markets funds like IEMG are up 11% year to date. This is equivalent to investing in markets like China, Brazil or Korea. Emerging markets have started 2026 with lots of momentum. Anecdotally, I have seen more people talking online about them in bullish tone.
 
 **Choppy Action for Magnificent 7**
 
