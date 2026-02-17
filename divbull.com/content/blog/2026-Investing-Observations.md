@@ -10,12 +10,12 @@ International stocks are performing better than US stocks so far. Total internat
 
 **Emerging Markets Buzz**
 
-Your international stocks can either be "developed" markets or "emerging" markets. So far, I've enjoyed the boom in South Korean stocks. I also have heavier weight to Japan and Canadian stocks via VXUS fund. Additionally, emerging markets funds like IEMG are up 11% year to date. This is equivalent to investing in markets like China, Brazil or Korea. Emerging markets have started 2026 with lots of momentum. 
+Your international stocks can either be "developed" markets or "emerging" markets. So far, I've enjoyed the boom in South Korean stocks. I also have heavier exposure to Japan and Canadian stocks via VXUS fund. Additionally, emerging markets funds like IEMG are up 11% year to date. This is equivalent to investing in markets like China, Brazil or Korea. Emerging markets have started 2026 with lots of momentum. Anecdotally, I have seen more people talking online about them in bullish tone.
 
 **Choppy Action for Magnificent 7**
 
 Microsoft, Tesla and Amazon saw the steepest drawdowns through 1.5 months of 2026. Google and Nvidia have remained steady but seem to have plateaued in recent months. The Mag 7 make up the core of the S&P 500 and QQQ.
-It's not surprising that these indexes are lagging. Is it just some digestion until the next leg up, or could these hyperscalers be entering a period of exteneded chop?
+It's not surprising that these indexes are lagging. Is it just some digestion until the next leg up, or could these hyperscalers be entering a period of extended chop?
 
 **Small Caps and Value Stocks Are Back**
 
@@ -24,7 +24,7 @@ to international stocks, small caps are catching a bid so far in 2026. My value 
 
 **REITs Are Rockin'**
 
-REITs are outperorming the index. Real estate has seen great returns since January 1st. I'm holding O, Realty Income REIT. It's up even more than my international stocks surprisingly, 16% year to date. Totally unexpected to see this asset perform so well.
+REITs are outperforming the index. Real estate has seen great returns since January 1st. I'm holding O, Realty Income REIT. It's up even more than my international stocks surprisingly, 16% year to date. Totally unexpected to see this asset perform so well. It seems a theme is rotation to stability so far in 2026. Stable businesses, dependable cash flows.
 
 **Energy, Materials, Industrials and Consumer Staples**
 
