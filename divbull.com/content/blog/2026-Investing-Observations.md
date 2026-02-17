@@ -10,7 +10,7 @@ International stocks are performing better than US stocks so far. Total internat
 
 On Jan. 1st, my international stock allocation was 17% of my portfolio. As of today, 28% of my stock portfolio is allocated to international. I've been buying on the way up and reaping the outperformance against US stocks. From last September to January, I sold approximately 33% of my Microsoft position and about 25% of my Nvidia shares. I did this with the goal to lower my US equity/large caps exposure and secondarily lower my technology sector exposure. However, Nvidia and Microsoft are still my two largest current stock positions, in addition to the S&P 500 index and Tesla. The drawdown in Microsoft, currently -18% has hurt. But it hasn't hurt as much since I took profits from the $455 to $507 range.
 
-Additionally in my HSA, I divested my maxed out S&P 500 allocation and reinvested it into VTPSX mutual fund, which is the mutual fund equivalent of VXUS. Now my HSA is 31% international FTSE Global All Cap Ex US Index, which both these funds track. 
+Additionally in my HSA, I divested part of my maxed out S&P 500 allocation. I then reinvested it into VTPSX mutual fund, which is the mutual fund equivalent of VXUS. Now my HSA is exposed to 57% S&P 500 index, 31% international FTSE Global All Cap Ex US Index which both these funds track. My HSA forces me to hold a minimum cash balance, so 12% in cash.
 
 In retrospect, my rebalancing was "selling America" and mega-caps before it became solidified as a trend. Lucky timing was caused by the principles of diversification abroad. I'm still ridiculously long mega-caps and US equities, at 71%.
 
@@ -26,7 +26,7 @@ It's not surprising that these indexes are lagging. Is it just some digestion un
 
 **Small Caps and Value Stocks Are Back**
 
-The IWM and Russell 2000 index have outperformed year to date. Small Caps are working. I bought VBR and IJS ETFs, both of which are up 9% year to date. Both are "small-cap value" ETFs where you buy a subset of value stocks in the S&P 600. Similar 
+The Russell 2000 index has also outperformed year to date. Small Caps are working. I bought VBR and IJS ETFs, both of which are up 9% year to date. Both are "small-cap value" ETFs where you buy a subset of value stocks in the S&P 600. Similar 
 to international stocks, small caps are catching a bid so far in 2026. My value stocks like Coca-Cola and FEMSA are steadily appreciating and both hit new 52 week highs. One fund that has also performed well for me is SCHC, Schwab's "small-cap international" fund. In a significant upset, small caps and value stocks have outperformed the S&P this year. Will this outperformance continue?
 
 **REITs Are Rockin'**
