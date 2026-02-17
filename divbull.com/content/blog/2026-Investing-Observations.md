@@ -1,5 +1,5 @@
 Title: 2026 Investing Observations 
-Date: 2026-02-16 4:20 
+Date: 2026-02-16 18:25 
 Category: Essay
 
 Approximately 45 days into 2026, the market saw a reversion of trades that worked in recent years. Here are some themes I've observed in the early weeks of 2026.
