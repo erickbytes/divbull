@@ -6,11 +6,11 @@ Approximately 45 days into 2026, the market saw a reversion of trades that worke
 
 **Sell America, Buy International**
 
-International stocks are performing better than US stocks so far. Total international funds like VXUS are up 9-10% year to date. The S&P 500 is slightly negative so far this year. International stocks have continued their trend of ouperformance. Seeking to diversify internationally, I decided to buy EWY. It is an ETF that tracks the MSCI Korea 25/50 Index. It provides healthy exposure to Samsung, SK Hynix, Hyundai and other South Korean companies. This ETF of South Korean stocks is up 31% year to date! I wanted to diversify internationally and also liked to add significant memory chip exposure via Samsung and SK Hynix. This is also an "emerging markets" allocation because South Korea is an emerging market. I feel happy I chose to buy more international stock in December and January. So far, it couldn't have been better timing. OnJan. 1st, my international stock allocation was 17% of my portfolio. As of today, 28% of my stocks are international. I've been buying on the way up and reaping the outperformance against US stocks.
+International stocks are performing better than US stocks so far. Total international funds like VXUS are up 9-10% year to date. The S&P 500 is slightly negative so far this year. International stocks have continued their trend of ouperformance established in 2025. Seeking to diversify internationally, I decided to buy EWY. It is an ETF that tracks the MSCI Korea 25/50 Index. It provides healthy exposure to Samsung, SK Hynix, Hyundai and other South Korean companies. This ETF of South Korean stocks is up 31% year to date! I wanted to diversify internationally and also liked to add significant memory chip exposure via Samsung and SK Hynix. This is also an "emerging markets" allocation because South Korea is an emerging market. I feel happy I chose to buy more international stock in December and January. So far, it couldn't have been better timing. OnJan. 1st, my international stock allocation was 17% of my portfolio. As of today, 28% of my stock portfolio is allocated to international. I've been buying on the way up and reaping the outperformance against US stocks.
 
 **Emerging Markets Buzz**
 
-Your international stocks can either be "developed" markets or "emerging" markets. So far, I've enjoyed the boom in South Korean stocks. I also have heavier weight to Japan and Canadian stocks via VXUS fund. Additionally, emerging markets funds like IEMG are up 11% year to date.
+Your international stocks can either be "developed" markets or "emerging" markets. So far, I've enjoyed the boom in South Korean stocks. I also have heavier weight to Japan and Canadian stocks via VXUS fund. Additionally, emerging markets funds like IEMG are up 11% year to date. This is equivalent to investing in markets like China, Brazil or Korea. Emerging markets have started 2026 with lots of momentum. 
 
 **Choppy Action for Magnificent 7**
 
@@ -20,7 +20,7 @@ It's not surprising that these indexes are lagging. Is it just some digestion un
 **Small Caps and Value Stocks Are Back**
 
 The IWM and Russell 2000 index have outperformed year to date. Small Caps are working. I bought VBR and IJS ETFs, both of which are up 9% year to date. Both are "small-cap value" ETFs where you buy a subset of value stocks in the S&P 600. Similar 
-to international stocks, small caps are catching a bid so far in 2026. My value stocks like Coca-Cola and FEMSA are steadily appreciating. In a significant upset, small caps and value stocks have outperformed the S&P this year.
+to international stocks, small caps are catching a bid so far in 2026. My value stocks like Coca-Cola and FEMSA are steadily appreciating. One fund that has also performed well for me is SCHC, Schwab's "small-cap international" fund. In a significant upset, small caps and value stocks have outperformed the S&P this year. Will this outperformance continue?
 
 **REITs Are Rockin'**
 
