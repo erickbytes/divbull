@@ -6,7 +6,14 @@ Approximately 45 days into 2026, the market saw a reversion of trades that worke
 
 **Sell America, Buy International**
 
-International stocks are performing better than US stocks so far. Total international funds like VXUS are up 9-10% year to date. The S&P 500 is slightly negative so far this year. International stocks have continued their trend of ouperformance established in 2025. Seeking to diversify internationally, I decided to buy EWY. It is an ETF that tracks the MSCI Korea 25/50 Index. It provides healthy exposure to Samsung, SK Hynix, Hyundai and other South Korean companies. This ETF of South Korean stocks is up 31% year to date! I wanted to diversify internationally and also liked to add significant memory chip exposure via Samsung and SK Hynix. This is also an "emerging markets" allocation because South Korea is an emerging market. I feel happy I chose to buy more international stocks in December and January. So far, it couldn't have been better timing. On Jan. 1st, my international stock allocation was 17% of my portfolio. As of today, 28% of my stock portfolio is allocated to international. I've been buying on the way up and reaping the outperformance against US stocks.
+International stocks are performing better than US stocks so far. Total international funds like VXUS are up 9-10% year to date. The S&P 500 is slightly negative so far this year. International stocks have continued their trend of ouperformance established in 2025. Seeking to diversify internationally, I decided to buy EWY. It is an ETF that tracks the MSCI Korea 25/50 Index. It provides healthy exposure to Samsung, SK Hynix, Hyundai and other South Korean companies. This ETF of South Korean stocks is up 31% year to date! I wanted to diversify internationally and also liked to add significant memory chip exposure via Samsung and SK Hynix. This is also an "emerging markets" allocation because South Korea is an emerging market. I feel happy I chose to buy more international stocks in December and January. I also invested in VXUS, SCHC and SCHF ETFs, all of which are international. So far, it couldn't have been better timing. 
+
+On Jan. 1st, my international stock allocation was 17% of my portfolio. As of today, 28% of my stock portfolio is allocated to international. I've been buying on the way up and reaping the outperformance against US stocks. From last September to January, I sold approximately 33% of my Microsoft position and about 25% of my Nvidia shares. I did this with the goal to lower my US equity/large caps exposure and secondarily lower my technology sector exposure. However, Nvidia and Microsoft are still my two largest current stock positions, in addition to the S&P 500 index and Tesla. The drawdown in Microsoft, currently -18% has hurt. But it hasn't hurt as much since I took profits from the $455 to $507 range.
+
+Additionally in my HSA, I divested my maxed out S&P 500 allocation and reinvested it into VTPSX mutual fund, which is the mutual fund equivalent of VXUS. Now my HSA is 31% international FTSE Global All Cap Ex US Index, which both these funds track. 
+
+In retrospect, my rebalancing was "selling America" and mega-caps before it became solidified as a trend. Lucky timing was caused by the principles of diversification abroad. I'm still ridiculously long mega-caps and US equities, at 71%.
+
 
 **Emerging Markets Buzz**
 
@@ -43,3 +50,4 @@ Cryptocurrencies across the board are down huge. All my crypto holdings got smac
 
 Through the first 45  days of this year, the market seemed flat for the US indexes. However, under the surface there has been lots of movement in both directions. If you're holding software or data center stocks, you are feeling pain. I feel like I am better diversified than ever, and it has helped to know I'm allocated to international, value and small-cap stocks while my blue chip large-cap stocks have been stagnant. 
 
+disclosure: all investments have risk, invest at your own risk. I'm not a financial advisor and this is not financial advice.
