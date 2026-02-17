@@ -24,7 +24,7 @@ to international stocks, small caps are catching a bid so far in 2026. My value 
 
 **REITs Are Rockin'**
 
-REITs are outperforming the index. Real estate has seen great returns since January 1st. I'm holding O, Realty Income REIT. It's up even more than my international stocks surprisingly, 16% year to date. Totally unexpected to see this asset perform so well. It seems a theme is rotation to stability so far in 2026. Investors are buying stable businesses with dependable cash flows.
+REITs are outperforming the index. Real estate has seen great returns since January 1st. I'm holding O, Realty Income REIT. It's up even more than my international stocks (ex Korea) surprisingly, 16% year to date. Totally unexpected to see this asset perform so well. It seems a theme is rotation to stability so far in 2026. Investors are buying stable businesses with dependable cash flows.
 
 **Energy, Materials, Industrials and Consumer Staples**
 
