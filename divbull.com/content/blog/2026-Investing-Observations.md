@@ -12,7 +12,7 @@ On Jan. 1st, my international stock allocation was 17% of my portfolio. As of to
 
 Additionally in my HSA, I divested part of my maxed out S&P 500 allocation. I then reinvested it into VTPSX mutual fund, which is the mutual fund equivalent of VXUS. Now my HSA is exposed to 57% S&P 500 index, 31% international FTSE Global All Cap Ex US Index which both VXUS and VTPSX funds track. My HSA forces me to hold a minimum cash balance, so 12% in cash.
 
-In retrospect, my rebalancing was "selling America" and mega-caps before it became solidified as a trend. Lucky timing was caused by the principles of diversification abroad. I'm still ridiculously long mega-caps and US equities at 71% of my stock portfolio. As bullish on America as ever. Just more diversified now to the rest of the world and looking to expand my international stock exposure.
+In retrospect, my rebalancing was "selling America" and mega-caps before it became solidified as a trend. Lucky timing was caused by the principles of seeking more diversification abroad. I'm still ridiculously long mega-caps and US equities at 71% of my stock portfolio. As bullish on America as ever. Just more diversified now to the rest of the world and looking to expand my international stock exposure.
 
 
 **Emerging Markets Buzz**
