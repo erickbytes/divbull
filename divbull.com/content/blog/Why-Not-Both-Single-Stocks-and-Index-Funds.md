@@ -1,5 +1,5 @@
 Title: Why Not Both Single Stocks and Index Funds? 
-Date: 2026-04-28 5:22 
+Date: 2026-04-28 17:22 
 Category: Essay
 
 Often you'll hear the debate of single stocks versus ETFs or mutual funds framed as an all or nothing choice.
