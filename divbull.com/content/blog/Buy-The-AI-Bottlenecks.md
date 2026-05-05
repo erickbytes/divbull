@@ -5,9 +5,9 @@ Category: Essay
 Recently, I've contemplated my exposure to the artificial intelligence (AI) boom. I feel pretty aggressively allocated to the AI theme.
 
 Nvidia is a core long term holding. EWY ETF is also a core holding, adding exposure to the memory part of the AI supply chain
-via SK Hynix, Samsung, SK Square and the rest of the Korean index. To buy EWY is to own the "memory bottleneck" of the AI supply chain. 
+via SK Hynix, Samsung, SK Square and the rest of the Korean index. I started to "buy the bottlenecks" at the beginning of this year by making EWY a core position. So far it has rewarded me with great returns.
 
-In my effort to own the hyperscalers, Microsoft is a core position. Google in a smaller but growing in size. Oracle and Meta are also in this basket for me.
+I've also continued to own the hyperscalers. Microsoft is a core position. Google in a smaller but growing in size. Oracle and Meta are also in this basket for me, but in smaller allocations. These are interesting companies due to their vertical integration up and down the AI stack. Their position to deliver AI to customers, provide infrastructure for its customers to enable AI and leverage AI in its own products makes them strategically advantaged, but only if they spend a lot of money to develop those abilities! Investors don't like to hear about the rising capex numbers, but this is a bet the hyperscalers must make. Spend to scale, at all costs and figure out the ROI later! Joking aside, I'm sure there will be ROI.
 
 Playing the application layer, I have a smaller position in Soundhound AI. Companies like Spotify and Duolingo have also commented on their continuing AI efforts.
 
@@ -20,4 +20,4 @@ The first idea from Copilot: owning a Semiconductors ETF like SOXX gives additio
 The second idea that came from Copilot was to "buy the grid". To deliver AI, you need to deliver the power it will consume. 
 The power grid will become or already is, an AI bottleneck. To get exposure to the companies in position to own this bottleneck, I chose to buy XLU, the utilities sector. Utilities will be a winner if the "grid bottleneck" thesis plays out.
 
-I started to "buy the bottlenecks" at the beginning of this year by making EWY a core position. So far it has rewarded me with great returns. I've decided to continue "buying the AI bottlenecks". I believe this is a good medium to long term strategy, especially if the AI buildout keeps on its hectic growth trajectory. It will probably pay to own the chipmakers, the hyperscalers delivering the AI via cloud computing, the application layer to deliver AI to real people and then the power grid to provide the necessary energy. Why shouldn't we own the whole supply chain? Own the AI bottlenecks and prosper.
+I've decided to continue "buying the AI bottlenecks". I believe this is a good medium to long term strategy, especially if the AI buildout keeps on its hectic growth trajectory. It will probably pay to own the chipmakers, the hyperscalers delivering the AI via cloud computing, the application layer to deliver AI to real people and then the power grid to provide the necessary energy. Why shouldn't we own the whole supply chain? Own the AI bottlenecks and prosper.
