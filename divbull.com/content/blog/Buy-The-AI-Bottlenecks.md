@@ -11,7 +11,7 @@ I've also continued to own the hyperscalers. Microsoft is a core position. Googl
 
 Playing the application layer, I have a smaller position in Soundhound AI. Companies like Spotify and Duolingo have also commented on their continuing AI efforts.
 
-Additionally, industrial companies like Caterpillar have seen orders for products like their data center generators jump to satiate data center demand. What we've seen so far is that any company wants to eat a piece of the AI pie by supplying critical components. It makes sense to own those companies and ride the AI wave.
+Additionally, industrial companies like Caterpillar have seen orders for products like their data center generators jump to satiate data center demand. What we've seen so far is that any company wants to eat a piece of the AI pie by supplying critical components. It makes sense to own those companies and ride the AI wave. I opened a position in VIS Industrials ETF to align with the data center buildout. The momentum in industrials taking a slice of the pie is palpable.
 
 It seems I have a lot of AI exposure, but I wanted a 2nd opinion. So I asked Google Gemini if my portfolio is sufficiently allocated to AI. Copilot responded with some interesting ideas where I may be missing out.
 
