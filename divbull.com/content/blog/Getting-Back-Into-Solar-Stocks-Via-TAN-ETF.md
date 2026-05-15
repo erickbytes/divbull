@@ -1,5 +1,5 @@
 Title: Getting Back Into Solar Stocks Via TAN ETF 
-Date: 2026-05-15 4:20 
+Date: 2026-05-15 13:55
 Category: Essay
 
 I have written in the past about my failed Solar investments, First Solar (FSLR), Sunrun (RUN) and Enphase Energy (ENPH).
