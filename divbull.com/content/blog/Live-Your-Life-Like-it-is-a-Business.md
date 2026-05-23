@@ -20,7 +20,7 @@ A business needs an office, storefront or equipment to run. In the average perso
 **Living Costs**
 
 Your lifestyle is unique to you. The things you like to do. The places you like to go. How you get there.
-It all adds up. Rent or mortgage payment or if you've already own your house. Food. Cutting your costs is usually a good idea. A business spends with expected return on investment. We should do the same. However some costs of living are incurred with depreciating value, like a car. I personally haven't owned a car for 4+ years. These are places where I personally have saved significant sums by living in a city and using public transportation or bicycle.
+It all adds up. Rent or mortgage payment or if you've already own your house. Food. Cutting your costs is usually a good idea. A business spends with expected return on investment. We should do the same. However some costs of living are incurred with depreciating value, like a car. I personally haven't owned a car for 4+ years. I personally have saved significant sums by living in a city and using public transportation or bicycle.
 
 **Solvency**
 
