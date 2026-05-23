@@ -11,7 +11,7 @@ The best businesses have a free cash flow that allows them to invest in the busi
 
 Nvidia is the top dog in the AI boom. However, it is still investing into other companies in related supply chain.
 They are growing their business by making partnerships with the hyperscalers. They are allocating their capital. Last week,
-in their Q1 2026 earnings report, they raised the dividend 25x from $0.01 to $0.25 per share. This is another example 
+in their Q1 2026 earnings report, they raised the dividend 25x from $0.01 to $0.25 per share. This is another example of the levers available to companies to allocate capital in addition to buybacks.
 
 **Real Estate**
 
