@@ -17,10 +17,10 @@ in their Q1 2026 earnings report, they raised the dividend 25x from $0.01 to $0.
 
 A business needs an office, storefront or equipment to run. In the average person's case, we need a place to live and sometimes a car as well. We all need to live somewhere.
 
-**Living Costs**
+**Operating Costs**
 
 Your lifestyle is unique to you. The things you like to do. The places you like to go. How you get there.
-It all adds up. Rent or mortgage payment or if you've already own your house. Food. Cutting your costs is usually a good idea. A business spends with expected return on investment. We should do the same. However some costs of living are incurred with depreciating value, like a car. I personally haven't owned a car for 4+ years. I saved significant sums by living in a city and using public transportation or bicycle. All these tradeoffs in life impact your costs each month.
+It all adds up. Rent or mortgage payment or if you've already own your house. Food. Cutting your costs is usually a good idea. A business spends with expected return on investment. We should do the same. However some costs of living are incurred with depreciating value, like a car. I personally haven't owned a car for 4+ years. I saved significant sums by living in a city and using public transportation or bicycle. All these tradeoffs in life impact your operating costs each month, the costs incurred while you live your life.
 
 **Solvency**
 
@@ -40,10 +40,17 @@ Skate where the puck is going to be. Easier said than done. In your life, you sh
 
 Take some chances on opportunities with possiblity for outsized gain. The moonshots aka "other bets" division at Google is an example of how they allocated to longshot bets outside their core competency at the time. Waymo is one of those "other bets". Its valuation continues to swell as it grows with time. Make sure you're allocating at least a little capital to moonshots.
 
-
 **Be Careful With Debt**
 
 Going into debt is a tactical move when done in the right conditions. However, going into debt to buy a car, for example, is highly questionable unless it enables your source of income. Businesses sometimes use debt to run and invest in their business. However, the best type of business is one with healthy free cash flow that can fund operations rather than via debt. On a personal finance level, stay disciplined with your credit cards.
+
+**Diversify If Possible**
+
+Companies with multiple sources of revenue are more durable. Disney has its theme parks cash cow, but its also reaping at the box office. It's also profitable in streaming. That's 3 ways they are winning. Similarly, we should diversify our streams of income. Having a job is great, but what about a side hustle? That's how you get ahead and build resiliency.
+
+**Strategically Build Cash Position**
+
+Sometimes it makes sense to hold more cash for the extra optionality. Ideally, we want to be fully deployed. Sometimes we should be like Berkshire Hathaway, who has accumulated an excessively large cash position in recent years. In our case, holding cash ensures we are able to pay the bills. It has the same function for businesses. They can pay bills, pay their shareholders or invest in the business. This is why as investors, we want to err on the side of full deployment. However, we can't ignore the function of cash in facilitating our day to day life.
 
 
 
