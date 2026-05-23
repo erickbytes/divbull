@@ -50,7 +50,7 @@ Companies with multiple sources of revenue are more durable. Disney has its them
 
 **Strategically Build Cash Position**
 
-Sometimes it makes sense to hold more cash for the extra optionality. Ideally, we want to be fully deployed. Sometimes we should be like Berkshire Hathaway, who has accumulated an excessively large cash position in recent years. In our case, holding cash ensures we are able to pay the bills. It has the same function for businesses. They can pay bills, pay their shareholders or invest in the business. This is why as investors, we want to err on the side of full deployment. However, we can't ignore the function of cash in facilitating our day to day life.
+Sometimes it makes sense to hold more cash for the extra optionality. Ideally, we want to be fully deployed. Sometimes we should be like Berkshire Hathaway, who has accumulated an excessively large cash position in recent years. In our case, holding cash ensures we are able to pay the bills or use it for repairs on our house. It has the same function for businesses. They can pay bills, pay their shareholders or invest in the business. This is why as investors, we want to err on the side of full deployment. However, we can't ignore the function of cash in facilitating our day to day life.
 
 
 
