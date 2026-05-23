@@ -22,3 +22,8 @@ A business needs an office, storefront or equipment to run. In the average perso
 Your lifestyle is unique to you. The things you like to do. The places you like to go. How you get there.
 It all adds up. Rent or mortgage payment or if you've already own your house. Food. Cutting your costs is usually a good idea. A business spends with expected return on investment. We should do the same. However some costs of living are incurred with depreciating value, like a car. I personally haven't owned a car for 4+ years. These are places where I personally have saved significant sums by living in a city and using public transportation or bicycle.
 
+**Solvency**
+
+A rule in business and in life is that we must remain solvent. We can't afford to overspend and deplete our resources.
+Live well, but within your means. Businesses are responsible to its shareholders to reap the benefits of its capital.
+It must not go bankrupt. Neither can we. We must live in a balanced way to preserve solvency.
