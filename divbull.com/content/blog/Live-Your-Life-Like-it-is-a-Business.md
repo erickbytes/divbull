@@ -30,8 +30,7 @@ It must not go bankrupt. Neither can we. We must live in a balanced way to prese
 
 **Pivot**
 
-You don't need to always do the same thing. You can shift your job, your relationships or any other part of your life.
-Businesses must also know when to pivot from mail-in DVDs to streaming, for example at Netflix. Ford stock is bouncing recently on their announcment to picot into the energy business with their batteries to service growing data center demand.
+You don't need to always do the same thing. You can shift your job, your relationships, your location or any other part of your life. Businesses must also know when to pivot from mail-in DVDs to streaming, for example at Netflix. Ford stock is bouncing recently on their announcment to picot into the energy business with their batteries to service growing data center demand. It's an unexpected shift from the automaker.
 
 **Differentiate and Out-Execute**
 
