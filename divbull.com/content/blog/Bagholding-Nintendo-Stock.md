@@ -2,8 +2,7 @@ Title: Bagholding Nintendo Stock
 Date: 2026-05-27 10:33 
 Category: Essay
 
-I've held in Nintendo ADRs for 5 years and 3 months at current time. I realized about $400 of after tax gains. 
-I feel the stock has been kneecapped due to the ongoing memory chip shortage. Nintendo needs chips to make its consoles.
+I've held in Nintendo ADRs for 5 years and 3 months at current time. Over time, I have realized about $400 of after tax gains. I feel the stock has been kneecapped due to the ongoing memory chip shortage. Nintendo needs chips to make its consoles.
 
 In retrospect, I managed the position well. Even though I ended up buying the top above $24/ADR, equivalent to 0.25 shares on the Japanese exchange. Today those same ADRs hover around $11.
 
