@@ -6,7 +6,7 @@ I've held in Nintendo ADRs for 5 years and 3 months at current time. Over time, 
 
 In retrospect, I managed the position well. Even though I ended up buying the top above $24/ADR, equivalent to 0.25 shares on the Japanese exchange. Today those same ADRs hover around $11.
 
-After the memory price increase trend, I noted that Nintendo shares were underporforming. I sold off some shares on the way down from $22, sold again at $16 and finally cleared my lowest cost lots at a profit. After scaling up the position into the Switch 2 launch last year, I realized Nintendo might be considered vulnerable to memory draught or cost hikes.
+After scaling up the position into the Switch 2 launch last year, I realized Nintendo might be considered vulnerable to memory draught or cost hikes. As the memory price increase trend became apparent, I noted that Nintendo shares were underporforming. I sold off some shares on the way down from $22, sold again at $16. With the story around Nintendo continuing to sour, I finally cleared my lowest cost $10 and $12 lots at a small profit recently.
 
 I am still long $3100 invested and down 41% on my remaining shares. Therefore, I now need a 69% gain to break even.
 This is what happens when you buy into the hype of a big launch and then get blindsided by the memory supply chain.
