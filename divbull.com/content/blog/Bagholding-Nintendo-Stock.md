@@ -2,12 +2,12 @@ Title: Bagholding Nintendo Stock
 Date: 2026-05-27 10:33 
 Category: Essay
 
-I've held in Nintendo ADRs for 5 years and 3 months at current time. Over time, I have realized about $400 of after tax gains. I feel the stock has been kneecapped due to the ongoing memory chip shortage. Nintendo needs chips to make its consoles.
+I've held in Nintendo ADRs (NTDOY) for 5 years and 3 months at current time. Over time, I have realized about $400 of after tax gains. I feel the stock has been kneecapped due to the ongoing memory chip shortage. Nintendo needs chips to make its consoles.
 
 In retrospect, I managed the position well. Even though I ended up buying the top above $24/ADR, equivalent to 0.25 shares on the Japanese exchange. Today those same ADRs hover around $11.
 
 After scaling up the position into the Switch 2 launch last year, I realized Nintendo might be considered vulnerable to memory draught or cost hikes. As the memory price increase trend became apparent, I noted that Nintendo shares were underperforming. I sold off some shares on the way down from $22, sold again at $16. With the story around Nintendo continuing to sour, I finally cleared my lowest cost $10 and $12 lots at a small profit recently. I asked myself, "how bad can this get for Nintendo?" In terms of supply chain and pricing, Nintendo couldn't have forseen the memory demand AI trend.
-Honestly they executed and sold more than 17 million Switch 2 consoles in 2025. It beat its initial projection of 15 million consoles. Yet, the stock hasn't reflected this momentum.
+They sold more than 17 million Switch 2 consoles in 2025. It beat its initial projection of 15 million consoles. Yet, the stock hasn't reflected this momentum.
 
 I am still long $3122 invested and down 41% on my remaining shares, in the hole $1,288. Therefore, I now need a 69% gain to break even. This is what happens when you buy into the hype of a big launch and then get blindsided by the memory supply chain. I haven't incurred any losses yet on the shares I sold. At the top, I held 300 ADRs. Today I'm holding 165. Nearly half of my peak position has been moved into other investments. Long term, I might tax loss harvest from the position if it doesn't turn around for Nintendo. Fundamentally, I think they are executing well at a high level but have found themselves on the wrong side of memory chip macro. 
 
