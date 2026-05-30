@@ -39,7 +39,7 @@ Here are the current multibaggers I'm holding in unrealized gains. They are list
 **DFTX**
 
 - Company: Definium Therapeutics
-- Year: 2023
+- Year: 2023 (FKA "MNMD")
 - Lowest Entry Price: $2.46
 - Price Today: $24.19
 - Return: 885%
