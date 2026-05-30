@@ -21,7 +21,7 @@ Here are the current multibaggers I'm holding in unrealized gains. They are list
 - Lowest Entry Price: $17.65
 - Price Today: $435
 - Return: 2,369%
-- Multiplier: 24.3x
+- Multiplier: 24.6x
 
 
 **NVDA**
