@@ -4,7 +4,7 @@ Category: Essay
 
 This post details the stocks I bought that went multibagger. They went up at least 100% and sometimes more. 
 In eacg position, I continued buying shares. This states the maximum multiple achieved from my lowest entry price lot.
-At current time, I'm currently holding 10 stocks and 1 ETF that have gone multibagger.
+At current time, I'm currently holding 6 stocks and 1 ETF that have gone multibagger. I also included the stocks that have doubled and could become multibaggers in the future.
 
 Here are the current multibaggers I'm holding in unrealized gains. They are listed in order of highest multiplier to lowest. I've included 6 points for each investment:
 
@@ -83,6 +83,11 @@ Here are the current multibaggers I'm holding in unrealized gains. They are list
 - Price Today: $380
 - Return: 310%
 - Multiplier: 4x
+
+
+## Honorable Mention: The Doubles Club
+
+These stocks might turn into multibaggers, right now they've only achieved greater than 100% gain.
 
 
 **MSFT**
