@@ -4,7 +4,7 @@ Category: Essay
 
 This post details the stocks I bought that went multibagger. They went up at least 100% and sometimes more. 
 In eacg position, I continued buying shares. This states the maximum multiple achieved from my lowest entry price lot.
-At current time, I'm currently holding 6 stocks that have gone multibagger. I also included 4 stocks and 1 ETF that have doubled (2-baggers).
+At current time, I'm currently holding 8 stocks that have gone multibagger (3x or better). I also included 4 stocks and 1 ETF that have doubled (2-baggers).
 
 Here are the current multibaggers I'm holding in unrealized gains. They are listed in order of highest multiplier to lowest. I've included 6 points for each investment:
 
@@ -77,7 +77,7 @@ Here are the current multibaggers I'm holding in unrealized gains. They are list
 
 
 **GOOG**
-$
+
 - Company: Google
 - Year: 2022
 - Lowest Entry Price: $91.71
