@@ -77,13 +77,23 @@ Here are the current multibaggers I'm holding in unrealized gains. They are list
 
 
 **GOOG**
-
+$
 - Company: Google
 - Year: 2022
 - Lowest Entry Price: $91.71
 - Price Today: $380
 - Return: 310%
 - Multiplier: 4x
+
+
+**COIN**
+
+- Company: Coinbase
+- Year: 2023
+- Lowest Entry Price: $57.04
+- Price Today: $173
+- Return: 205%
+- Multiplier: 3x
 
 
 ## The Doubles Club
