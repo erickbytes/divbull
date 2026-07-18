@@ -4,7 +4,7 @@ Category: Essay
 
 I feel like it's easy to deceive yourself into believing a story about  a stock when things are going good. But at some point in almost any stock, your conviction to hold on will be tested.
 
-I have now inversed the stock several times since I invested. First, I bought in 5 years ago. Then after holding for two years, I started to get nervous when the stock entered a steep drawdown in 2022. I sold out at the bottom, near $375 with my remaining stake.
+I have now inversed Netflix stock several times since I invested. First, I bought in 5 years ago. Then after holding for two years, I started to get nervous when the stock entered a steep drawdown in 2022. I sold out at the bottom, near $375 with my remaining stake.
 
 Predictably, the stock went on a torrid run to over $1000 after I exited. I became frustrated and eventually convinced myself that this was a business I should have held onto. I rebought confidently, believing in the story.
 
