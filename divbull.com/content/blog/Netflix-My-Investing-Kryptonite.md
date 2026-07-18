@@ -4,15 +4,15 @@ Category: Essay
 
 I feel like it's easy to deceive yourself into believing a story about  a stock when things are going good. But at some point in almost any stock, your conviction to hold on will be tested.
 
-I have now inversed Netflix stock several times since I invested. First, I bought in 5 years ago. Then after holding for two years, I started to get nervous when the stock entered a steep drawdown in 2022. I sold out at the bottom, near $375 with my remaining stake.
+I have now inversed Netflix stock several times since I invested. First, I bought in 6 years ago. Then after holding for two years, I started to get nervous when the stock entered a steep drawdown in 2022. I sold out at the bottom, near $375 with my remaining stake.
 
 Predictably, the stock went on a torrid run to over $1000 after I exited. I became frustrated and eventually convinced myself that this was a business I should have held onto. I rebought confidently, believing in the story.
 
-Since I bought back in 2 years ago, the stock had enjoyed a period of relatively stable performance. It was seen as tariff resistant in nature. It stayed relatively higher while tariffs weighed on other businesses. 
+Since I bought back in 2 years ago at $911/share ($91/share post split), the stock had enjoyed a period of relatively stable performance. It was seen as tariff resistant in nature. It stayed relatively higher while tariffs weighed on other businesses. 
 
 But now in 2026, the stock entered a new narrative. That narrative says that they are having trouble retaining their subscribers. Netflix content draws in but does not hold recurring viewers according to new data.
 
-All of a sudden, I'm down 24% on my shares. This stock has turned into my personal kryptonite. I get bullish and the stock enters a sizeable drawdown. I turn bearish and the stock goes up 3x.
+All of a sudden, I'm down 24% on my shares, with the stock hitting $650/share ($65/share) in pre-split terms at trading lows this morning. This stock has turned into my personal kryptonite. I get bullish and the stock enters a sizeable drawdown. I turn bearish and the stock goes up 3x.
 
 I'm not sure whether I'll keep holding, but the recent performance of the stock has me somewhat concerned. But I also feel this one will recover.
 
