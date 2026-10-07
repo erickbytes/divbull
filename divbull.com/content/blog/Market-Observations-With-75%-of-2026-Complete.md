@@ -42,6 +42,7 @@ on the planet right now.
 
 
 **Coca-Cola Stock Claims Cola Superiority**
+
 Coca-Cola stock went up this year by 24% as of Oct. 7th. Pepsi is -13% in the same time period. 
 
 
