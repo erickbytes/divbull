@@ -19,7 +19,7 @@ After stumbling earlier this year, most of the Magnificent 7 rebounded in Q2 or 
 
 **META Stock Bounces Back With Muse**
 
-Meta sentiment was in the gutter because their capex was swelling with time. Additionally, investors wondered, "how the outrageous capex would translate into profits?" Then Meta dropped Muse, an AI agent that investors now believe answers the question, at least partially. The stock was down for most 2026. Then in September, it Muse revived it.
+Meta sentiment was in the gutter because their capex was swelling with time. Additionally, investors wondered, "how this outrageous capex would translate into profits?" Then Meta dropped Muse, an AI agent that investors now believe answers the question, at least partially. The stock was down for most 2026. Then in September, Muse revived it.
 
 
 **Robotaxis Are Inevitable**
