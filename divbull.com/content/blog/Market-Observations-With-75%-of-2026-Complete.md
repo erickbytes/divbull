@@ -24,7 +24,7 @@ Meta sentiment was in the gutter because their capex was swelling with time. Add
 
 **Robotaxis Are Inevitable**
 
-Waymo, Tesla and Zoox, oh my! Las Vegas, Austin, Miami and more are the proving grounds for the tech I only thought I'd see in sci-fi movies, not in my lifetime. Expansion continues for all of these companies. Google's Waymo seems to have achieved the most scale so far, thanks to their first mover advantage. The only thing that stands in the way of these trailblazers are resistance from people and their slow government regulations.
+Waymo, Robotaxi and Zoox, oh my! Las Vegas, Austin, Miami and more are the proving grounds for the tech I only thought I'd see in sci-fi movies, not in my lifetime. Expansion continues for all of these companies. Google's Waymo seems to have achieved the most scale so far, thanks to their first mover advantage. The only thing that stands in the way of these trailblazers are resistance from people and their slow government regulations.
 
 
 **SpaceX Launches Successful IPO**
