@@ -35,6 +35,7 @@ hitting objectives so far.
 
 
 **Korean Tech Heats Up**
+
 SK Hynix and Samsung became mainstream stocks for US investors in 2026. I've never heard more chatter online about Korean stocks.
 SK Hynix is up 164% YTD. Samsung is up 124%. EWY, the MSCI KOREA 25/50 INDEX is up 89%. South Korea has some of the hottest stocks 
 on the planet right now.  
