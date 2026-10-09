@@ -12,5 +12,5 @@ I began accumulating SpaceX on July 1st. Since then I've added more shares. I've
 
 ![Tesla vs. SpaceX stock allocation pie chart]({static}/images/SPCX-vs-TSLA.png)
 
-My SpaceX position was funded from underperforming stocks and cash positon since July. I now feel some form of insurance against the looming Tesla-SpaceX buyout deal. Sentiment seems to point to this happening sometime in the future.
+My SpaceX position was funded from underperforming stocks and cash position since July. I now feel some form of insurance against the looming Tesla-SpaceX buyout deal. Sentiment seems to point to this happening sometime in the future.
 
