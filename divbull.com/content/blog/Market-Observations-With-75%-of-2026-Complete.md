@@ -30,7 +30,7 @@ Waymo, Robotaxi and Zoox, oh my! Las Vegas, Austin, Miami and more are the provi
 **SpaceX Launches Successful IPO**
 
 SpaceX appears to have bucked the IPO tankathon trend that seems to happen to so many stocks making their public debut. 
-So far it has evaded that fate and made the transition to public markets smoothly. The business is humminh and impressively 
+So far it has evaded that fate and made the transition to public markets smoothly. The business is humming and impressively 
 hitting objectives so far.
 
 
