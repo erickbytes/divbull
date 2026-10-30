@@ -2,12 +2,12 @@ Title: Is the Reddit Investment Thesis Busted?
 Date: 2026-10-30 12:29 
 Category: Essay
 
-Yesterday, Reddit released its Q3 earnings report. The report contained some interesting perspective
+Yesterday, Reddit released its Q3 earnings report. The report contained an interesting perspective on Reddit
 that I will elaborate further on in this post.
 
 **Thesis Busted?**
 
-Reddit is changing its strategy. It has opted to go "closed garden" with its communities and force user to log in.
+Reddit is changing its strategy. It has opted to go "closed garden" with its communities and force users to log in.
 This is a fundamental philosophy change by Reddit. Instead of opening its site to users and harvesting
 from Google traffic, it is seeking hone in and monetize logged in users. This is a surprising shift, but 
 I can see the strategy angle from Reddit's perspective.
