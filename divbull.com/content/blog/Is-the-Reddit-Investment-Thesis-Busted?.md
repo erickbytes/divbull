@@ -18,9 +18,10 @@ I once owned up to 26 Reddit shares in early 2025. Since then, I've been winding
 Heading into this earnings report, I held 7 shares at a cost basis average near $105. My lowest buys were under $90.
 
 I listened to the earnings call yesterday. The word that comes to mind to describe when listening was "fluffy".
-Reddit understands what it means to its communities very well. However, it seems to lack concrete evidence of why this strategy change is necessary.
-It seems to stem from Reddit's relationship with Google. Google was a more reliable source before they introduced "AI overviews", 
-which Reddit's CEO has noted has not helped their traffic.
+Reddit understands what it means to its communities very well.
+
+Much of the problem seems to stem from Reddit's relationship with Google. Google was a more reliable source before 
+they introduced "AI overviews", which Reddit's CEO has noted has not helped their traffic.
 
 Reddit is a great app that I love to visit daily. Now, I will need to decide if I want to log in and join a closed community to continue
 consuming it.
