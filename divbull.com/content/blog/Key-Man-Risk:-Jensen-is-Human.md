@@ -11,7 +11,7 @@ arise from this relationship. Given the USA's lock and key over sending Nvidia's
 potentially more restrictions coming, this is more or less a disaster for Nvidia. It is also a huge distraction. Additionally, they will now need to comply with government investigations. Additionally, the man who was so influential in Nvidia's rise is now negated by his own decision-making.
 
 It's also a lesson in diversification for me. Nvidia was my highest conviction stock before this weekend. Now, I need to assess this murky situation 
-and decide what, if any action to take. I should have reduced before this event, but how could I have seen the future? Nvidia was my highest conviction stock.
+and decide what, if any action to take. I should have reduced before this event, but how could I have seen the future? Nvidia was my highest conviction stock. It was relatively stable and dependable until the past month's drawdown.
 
 Heading into this past weekend Nvidia held top position at 14% of my stock portfolio. I was planning to sell shares around $250 to reduce my concentration, but didn't quite get there before this recent drawdown. Now I hold Nvidia still as my top position at 12%. I did sell 10 shares this year around $220 to rebalance, but not enough.
 
