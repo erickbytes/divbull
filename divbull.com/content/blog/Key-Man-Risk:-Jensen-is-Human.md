@@ -15,7 +15,7 @@ and decide what, if any action to take. I should have reduced before this event,
 
 Heading into this past weekend Nvidia held top position at 14% of my stock portfolio. I was planning to sell shares around $250 to reduce my concentration, but didn't quite get there before this recent drawdown. Now I hold Nvidia still as my top position at 12%. I did sell 10 shares this year around $220 to rebalance, but not enough.
 
-My gut says the fundamentals have only improved. This feels like a short term black swan event for Nvidia. So I am reluctant to reduce position now.
+My gut says the fundamentals have only improved. This feels like a short term black swan event for Nvidia. So I am reluctant to reduce position now. But is it a short term event? Or has Jensen's reputation been irreparably damaged? By association, Nvidia and its shareholders suffer. I didn't think this was how 2026 would end up for the chipmaker, with its stock price officially down year to date, but here we are.
 
 I will continue to monitor the news as it breaks and its implications. The big question is how much did Jensen give to the spy. Was her relationship with him used to procure chips? If it was, how big of a problem is that? The situation is heavy. As shareholders, we are paying the costs for Jensen's 
 infidelity. But just how big will those costs be? Again, my instinct says this will all blow over.
