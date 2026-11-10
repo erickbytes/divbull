@@ -13,7 +13,7 @@ potentially more restrictions coming, this is more or less a disaster for Nvidia
 IT's also a lesson in diversification for me. Nvidia was my highest conviction stock before this weekend. Now, I need to assess this murky situation 
 and decide what, if any action to take. 
 
-Heading into this past weekend Nvidia held a 14% of my stock portfolio. I was planning to sell shares around $250, but didn't quite get there before this recent drawdown. Now I hold Nvidia still as the top position at 12%.
+Heading into this past weekend Nvidia held a 14% of my stock portfolio. I was planning to sell shares around $250 to reduce my concentration, but didn't quite get there before this recent drawdown. Now I hold Nvidia still as the top position at 12%. I did sell 10 shares this year around $220 to rebalance, but not enough.
 
 My gut says the fundamentals have only improved. This feels like a short term black swan event for Nvidia. So I am reluctant to reduce position now.
 
