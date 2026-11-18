@@ -12,7 +12,8 @@ I decided to start buying gold recently. The main motivation came from reading a
 
 Buying REITs means you are sacrificing potentially higher returns in exchange for stability and less severe drawdowns compared to tech stocks.
 I allocated more recently to Realty Income. It pays a monthly dividend. This holding is exclusivly held in my tax advantages accounts,
-so I don't pay taxes on the dividend yield.
+so I don't pay taxes on the dividend yield. Additionally, you could hold VNQ like value stock geek to hold a basket of REITs. I might
+hold a fund like this someday, in addition to Realty Income.
 
 
 **Utilities (XLU)**
@@ -33,9 +34,10 @@ It also enables you to be timely in seizing opportunities in the stock market.
 Value stocks are outperforming growth in 2026. allocated to VBR and IJS, value stock funds. Value stocks are doing better than the Mag 7 this year. It won't be like that every year.
 
 
-**Dividend Stocks (TM, KO)**
+**Dividend Stocks (TM, KO, SCHD)**
 
-I have some smaller dividend stocks holdings like Coca-Cola and Toyota. Coca-cola trades at an swollen multiple, but the business is unflappable and continues to execute its playbook. 
+I have some smaller dividend stocks holdings like Coca-Cola and Toyota. Coca-cola trades at an swollen multiple, but the business is unflappable and continues to execute its playbook. Toyota was hit hard by tariffs. It has an interesting long term vision for its business as a robotics leader.
+In the meantime, they'll continue selling a ton of hybrid cars. I don't hold SCHD, the Charles Schwab dividend ETF currently, but it's another good option to hold a basket of dividend stocks.
 
 
 **Consumer Staples (COST)**
