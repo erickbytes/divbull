@@ -18,7 +18,7 @@ hold a fund like this someday, in addition to Realty Income.
 
 **Utilities (XLU)**
 
-Similar to REITS, you don't buy utilities expecting maximum return versus more growth-y stocks. This means also less severe drawdowns also.
+Similar to REITS, you don't buy utilities expecting maximum return versus more growth-y stocks. This means less severe drawdowns also.
 I allocated a small position to utilities because they could be a long term winner in the AI buildout. Buying utilities means owning the 
 electric power grid, a key component to humanity's future.
 
