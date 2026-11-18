@@ -1,5 +1,5 @@
 Title: Defensive Minded Plays in My Investing Portfolio 
-Date: 2026-11-18 4:20 
+Date: 2026-11-18 2:00 
 Category: Essay
 
 
