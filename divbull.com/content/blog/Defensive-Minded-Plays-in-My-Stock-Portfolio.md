@@ -50,8 +50,8 @@ to perform better in tougher economic times. Rain or shine, people are going to 
 
 More often than not, I would have been better off just buying the market versus stockpicking. 
 Although the S&P index is capable of steep drawdowns, it is certainly more defensive in nature than 
-picking the winners of the future. However, don't we would be wise to include some international 
-exposure in the portfolio.
+picking the winners of the future. However, we would be wise to include some international 
+exposure in the portfolio. A "total market" fund also qualifies.
 
 
 
