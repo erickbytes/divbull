@@ -1,4 +1,4 @@
-Title: Defensive Minded Plays in My Stock Portfolio 
+Title: Defensive Minded Plays in My Investing Portfolio 
 Date: 2026-11-18 4:20 
 Category: Essay
 
