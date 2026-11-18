@@ -37,7 +37,7 @@ Value stocks are outperforming growth in 2026. allocated to VBR and IJS, value s
 **Dividend Stocks (TM, KO, SCHD)**
 
 I have some smaller dividend stocks holdings like Coca-Cola and Toyota. Coca-cola trades at an swollen multiple, but the business is unflappable and continues to execute its playbook. Toyota was hit hard by tariffs. It has an interesting long term vision for its business as a robotics leader.
-In the meantime, they'll continue selling a ton of hybrid cars. I don't hold SCHD, the Charles Schwab dividend ETF currently, but it's another good option to hold a basket of dividend stocks.
+In the meantime, they'll continue selling a ton of hybrid cars. I don't hold SCHD, the Charles Schwab dividend ETF, currently but it's another good option to hold a basket of dividend stocks.
 
 
 **Consumer Staples (COST)**
@@ -50,7 +50,7 @@ to perform better in tougher economic times. Rain or shine, people are going to 
 
 More often than not, I would have been better off just buying the market versus stockpicking. 
 Although the S&P index is capable of steep drawdowns, it is certainly more defensive in nature than 
-picking the winners of the future. However, don't we wouls be wise to include some international 
+picking the winners of the future. However, don't we would be wise to include some international 
 exposure in the portfolio.
 
 
