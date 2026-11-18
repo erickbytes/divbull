@@ -17,8 +17,9 @@ so I don't pay taxes on the dividend yield.
 
 **Utilities (XLU)**
 
-Similar to REITS, you don't buy utilities expecting maximum return versus more growth-y stocks. I allocated a small position to 
-utilities because they could be a long term winner in the AI buildout. Buying utilities means owning the electric power grid.
+Similar to REITS, you don't buy utilities expecting maximum return versus more growth-y stocks. This means also less severe drawdowns also.
+I allocated a small position to utilities because they could be a long term winner in the AI buildout. Buying utilities means owning the 
+electric power grid, a key component to humanity's future.
 
 
 **Short Term Treasury Bonds aka "T-Bills" (SGOV)**
