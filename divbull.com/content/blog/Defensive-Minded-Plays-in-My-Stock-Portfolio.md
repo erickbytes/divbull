@@ -5,14 +5,14 @@ Category: Essay
 
 **Gold (SGOL)**
 
-I decided to start buying gold recently. The main motivation came from reading about "[The Weird Portfolio](https://valuestockgeek.medium.com/the-weird-portfolio-99c0154d1c4a)", which I highly recommend reading. Reading this blog post inspired me to think more about other allocating to other asset classes like "small-cap value" in addition to gold and real estate. Value Stock Geek's version of the weird portfolio allocates 25% to gold! My allocation is now about 1% to SGOL. I am thinking I might raise it as high as 5% over time. I made the decision to buy SGOL for extra geographic diversification. When I buy the ETF, I have my physical gold stored in a vault in Switzerland, not the United States.
+I decided to start buying gold recently. The main motivation came from reading about "[The Weird Portfolio](https://valuestockgeek.medium.com/the-weird-portfolio-99c0154d1c4a)". Reading this blog post inspired me to think more about other allocating to other asset classes like "small-cap value" in addition to gold and real estate. Value Stock Geek's version of the weird portfolio allocates 25% to gold! My allocation is now about 1% to SGOL. I am thinking I might raise it as high as 5% over time. I made the decision to buy SGOL for extra geographic diversification. When I buy the ETF, I have my physical gold stored in a vault in Switzerland, not the United States.
 
 
 **Real Estate Investment Trusts aka REITs (O)**
 
 Buying REITs means you are sacrificing potentially higher returns in exchange for stability and less severe drawdowns compared to tech stocks.
 I allocated more recently to Realty Income. It pays a monthly dividend. This holding is exclusivly held in my tax advantaged accounts,
-so I don't pay taxes on the dividend yield. Additionally, you could hold VNQ like value stock geek to hold a basket of REITs. I might
+so I don't pay taxes on the dividend yield. Additionally, you could hold VNQ like Value Stock Geek to hold a basket of REITs. I might
 hold a fund like this someday, in addition to Realty Income.
 
 
