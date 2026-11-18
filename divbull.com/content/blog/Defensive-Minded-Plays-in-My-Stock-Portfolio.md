@@ -11,7 +11,7 @@ I decided to start buying gold recently. The main motivation came from reading a
 **Real Estate Investment Trusts aka REITs (O)**
 
 Buying REITs means you are sacrificing potentially higher returns in exchange for stability and less severe drawdowns compared to tech stocks.
-I allocated more recently to Realty Income. It pays a monthly dividend. This holding is exclusivly held in my tax advantages accounts,
+I allocated more recently to Realty Income. It pays a monthly dividend. This holding is exclusivly held in my tax advantaged accounts,
 so I don't pay taxes on the dividend yield. Additionally, you could hold VNQ like value stock geek to hold a basket of REITs. I might
 hold a fund like this someday, in addition to Realty Income.
 
