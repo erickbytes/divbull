@@ -42,8 +42,8 @@ In the meantime, they'll continue selling a ton of hybrid cars. I don't hold SCH
 
 **Consumer Staples (COST)**
 
-Costco trades at a shy-high valuation. It's an incredible business. It is in the staples sector, which tends
-to perform better in tougher economic times. Rain or shine, people are going to Costco and will love it.
+Costco trades at a high earnings multiple. It's an incredible business. It is in the staples sector, which tends
+to perform better in tougher economic times. Rain or shine, people are going to Costco and will love going.
 
 
 **S&P 500 (SWPPX and VFIAX)**
